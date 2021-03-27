@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Mar 2021 19:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 20:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  消息人士：俄罗斯和阿联酋航空当局批准两国航空公司恢复航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9427958.d.html</link>
+            <guid>2092706</guid>
+            <pubDate>Sat, 27 Mar 2021 20:07:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【规上工业企业成绩单：前两个月超九成行业盈利，高端制造业利润增近59倍】全国规模以上工业企业1至2月份成绩单出炉。国家统计局3月27日发布的数据显示，1至2月份，全国规模以上工业企业实现利润11140.1亿元，同比增长1.79倍，比2019年1至2月份增长72.1%，两年平均增长31.2%，延续了去年下半年以来较快增长的良好态势。（华夏时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2562135.d.html</link>
@@ -299,11 +305,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9266619.d.html</link>
             <guid>2092179</guid>
             <pubDate>Sat, 27 Mar 2021 12:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国水泥价格“开挂性”上涨”】据中国水泥网行情数据中心消息，近期全国水泥价格迎来“涨价潮”，华东、中南、西南、西北甚至东北水泥价格均大幅上调，其中，长三角熟料开启第四轮上调，累计涨幅100元/吨，珠三角水泥价格第三轮上涨，累计涨幅度达到60元/吨。另外，重庆、四川、安徽、上海、湖北、贵州、福建、江西、青海、甘肃，甚至长期低迷的辽宁，水泥价格均出现不同幅度上调。业内分析人士指出，与去年同期相比，当前全国水泥、熟料库位均较低，在一定程度上为水泥熟料价格上调提供了空间。]]></title>
-            <guid>2092141</guid>
-            <pubDate>Sat, 27 Mar 2021 12:10:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

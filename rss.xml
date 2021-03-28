@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 15:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 16:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[海运服务供应商Inchcape Shipping Services：若干拖船已经环绕在苏伊士运河搁浅的“长赐”号货轮周围，但尚未开始作业，因为事故现场出现强风天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3094160.d.html</link>
+            <guid>2093716</guid>
+            <pubDate>Sun, 28 Mar 2021 16:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  斯洛文尼亚总理：斯洛文尼亚将从周一开始实施更严格的边境控制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk3088909.d.html</link>
+            <guid>2093715</guid>
+            <pubDate>Sun, 28 Mar 2021 15:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【天津普林：PCB产品主要原材料价格持续上涨 公司积极采取应对措施】天津普林在今日公布的投资者关系活动记录表中称，PCB产品主要原材料价格持续上涨，公司实时关注原材料价格变动情况，积极采取应对措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk3076449.d.html</link>
+            <guid>2093713</guid>
+            <pubDate>Sun, 28 Mar 2021 15:37:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  克拉斯诺达尔市紧急情况部门发布消息称，一架从莫斯科起飞的飞机由于襟翼故障，将在该市紧急迫降，飞机载有149名乘客。（卫星新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk3059807.d.html</link>
@@ -301,24 +319,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2925639.d.html</link>
             <guid>2093615</guid>
             <pubDate>Sun, 28 Mar 2021 10:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【桂发祥：股东拟减持公司不超0.91%股份】桂发祥公告，股东中华津点及其一致行动人中华投资计划合计减持不超过187.22万股，不超过公司总股本的0.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9757582.d.html</link>
-            <guid>2093608</guid>
-            <pubDate>Sun, 28 Mar 2021 09:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银座股份：员工持股计划完成股票购买 累计买入1.71亿元】银座股份公告，公司2020年度员工持股计划已完成股票购买。截至2021年3月26日，公司2020年度员工持股计划通过二级市场集中竞价交易方式累计买入公司股票2420.60万股，约占公司总股本的4.65%，成交金额为1.71亿元，成交均价约为7.07元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9755199.d.html</link>
-            <guid>2093607</guid>
-            <pubDate>Sun, 28 Mar 2021 09:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长沙连接机场与市区的地铁盾构区间右线贯通】从中国铁建股份有限公司获悉，28日，由中铁十六局集团承建的连接长沙黄花国际机场和长沙市区的地铁6号线盾构区间右线顺利贯通。地铁6号线是长沙东西向拓展的骨干线路。建成后，对促进长沙临空经济高质量发展将具有重要意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2911888.d.html</link>
-            <guid>2093602</guid>
-            <pubDate>Sun, 28 Mar 2021 09:36:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

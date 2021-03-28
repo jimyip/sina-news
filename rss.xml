@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 20:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 21:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【我国工业企业利润加快恢复，前2个月超九成行业利润增长】3月27日，国家统计局发布的工业经济效益月度报告显示，1月份至2月份我国工业企业利润加快恢复。1月份至2月份，全国规模以上工业企业实现利润11140.1亿元，同比增长1.79倍，比2019年同期增长72.1%，两年平均增长31.2%，延续了去年下半年以来较快增长的良好态势。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0123120.d.html</link>
+            <guid>2093757</guid>
+            <pubDate>Sun, 28 Mar 2021 20:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林：对俄罗斯的挑衅行为美国将采取必要的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0116244.d.html</link>
+            <guid>2093756</guid>
+            <pubDate>Sun, 28 Mar 2021 20:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：已经有关于基建的立法战略，暂无细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0106832.d.html</link>
+            <guid>2093753</guid>
+            <pubDate>Sun, 28 Mar 2021 20:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：“接近”任命一名国家网络安全总监。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3264931.d.html</link>
+            <guid>2093752</guid>
+            <pubDate>Sun, 28 Mar 2021 20:16:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  苏伊士运河顾问：如果脱浅失败，将会在周二开始从货轮上卸下货物。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0098544.d.html</link>
@@ -396,18 +420,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9815079.d.html</link>
             <guid>2093660</guid>
             <pubDate>Sun, 28 Mar 2021 12:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强鼓励科研人员加强跨领域协作，推动融合创新】3月25日至26日，李克强在常州、南京考察。李克强来到南京大学，了解基础研究情况，饶有兴趣查看研究成果转化应用，鼓励科研人员加强跨领域协作，推动融合创新。他与学校院士们亲切交谈，希望一代一代传承推动创新，增强发展的延续力。李克强十分关心大学毕业生就业情况，专门听取学校这方面汇报。他与学生们交流，询问今年毕业学生的就业意向、有没有签约。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9804444.d.html</link>
-            <guid>2093651</guid>
-            <pubDate>Sun, 28 Mar 2021 11:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【李克强在江苏考察】3月25日至26日，中共中央政治局常委、国务院总理李克强在江苏省委书记娄勤俭、省长吴政隆陪同下，在常州、南京考察。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，贯彻党中央、国务院部署，深化改革开放，增强创新能力和发展动力，增进民生福祉，推动高质量发展。（中国政府网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9804176.d.html</link>
-            <guid>2093650</guid>
-            <pubDate>Sun, 28 Mar 2021 11:36:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

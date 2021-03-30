@@ -4,11 +4,161 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 30 Mar 2021 15:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 16:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据日经新闻：富士康称芯片短缺将使出货量减少10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikkntian1961458.d.html</link>
+            <guid>2096577</guid>
+            <pubDate>Tue, 30 Mar 2021 16:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃：国际货币基金组织在黎巴嫩需要一个合作伙伴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5123914.d.html</link>
+            <guid>2096576</guid>
+            <pubDate>Tue, 30 Mar 2021 16:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农业银行崔勇：2021年将重点支持居住型住房需求】 3月30日，中国农业银行副行长崔勇在农业银行2020年度业绩发布会上表示，2021年，农业银行在个人贷款的投放规模上将保持稳健增长，并将加大对重点领域的倾斜力度。 一方面，个人住房按揭贷款将坚决贯彻房住不炒的定位，重点支持首套刚需、合理改善等居住型需求，助力国家新型城镇化和乡村战略的稳步实施。另一方面，将在信贷投放过程中持续深化金融科技的应用，加大对幸福产业和新型消费领域的居民个人信贷的需求，同时将继续做好对农户、个体私营业主等普惠客群的信贷服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikkntian1959607.d.html</link>
+            <guid>2096574</guid>
+            <pubDate>Tue, 30 Mar 2021 16:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“中国天眼”31日正式对全球开放】3月31日0时起，500米口径球面射电望远镜（FAST）向全球天文学家征集观测申请。所有国外申请项目统一参加评审，评审结果将于7月20日公布，观测时间将从8月开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5121208.d.html</link>
+            <guid>2096573</guid>
+            <pubDate>Tue, 30 Mar 2021 16:04:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：总统拜登宣布采取新行动应对反亚裔暴力行为的增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5121004.d.html</link>
+            <guid>2096572</guid>
+            <pubDate>Tue, 30 Mar 2021 16:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美联社：美国国务卿布林肯将推翻特朗普保守的全球权利计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5120796.d.html</link>
+            <guid>2096571</guid>
+            <pubDate>Tue, 30 Mar 2021 16:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据悉，美国食品公司嘉吉（Cargill）同意出售股份给巴西Copersucar（全球第一大糖贸易公司）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5119696.d.html</link>
+            <guid>2096569</guid>
+            <pubDate>Tue, 30 Mar 2021 16:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【加密投资银行Galaxy Digital计划在美国二次上市】据theblockcrypto消息，总部位于加拿大的上市公司Galaxy Digital宣布了其2020年第四季度的财务状况。该公司表示，其所有业务部门均实现了增长，其净综合收入为3.357亿美元，较2019年同期增长1175%。此外，该公司计划在美国进行二次上市，目前尚不清楚二次上市将采用何种形式。（币世界）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5119458.d.html</link>
+            <guid>2096567</guid>
+            <pubDate>Tue, 30 Mar 2021 16:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道达尔CEO：预计到2050年，欧洲所有的汽车都将是电动的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-31/detail-ikknscsk5119355.d.html</link>
+            <guid>2096566</guid>
+            <pubDate>Tue, 30 Mar 2021 16:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：将土耳其年底通胀预测从12.5%上调至15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1950344.d.html</link>
+            <guid>2096563</guid>
+            <pubDate>Tue, 30 Mar 2021 15:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  台积电涨1.3%，传公司3nm制程试产进度优于预期，已于3月开始风险性试产并小量交货。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1945397.d.html</link>
+            <guid>2096558</guid>
+            <pubDate>Tue, 30 Mar 2021 15:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛将2021年土耳其GDP增速预期下调至3.5％，此前为5.5％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5107492.d.html</link>
+            <guid>2096557</guid>
+            <pubDate>Tue, 30 Mar 2021 15:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉盘中涨幅扩大至3%，报632美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5105420.d.html</link>
+            <guid>2096556</guid>
+            <pubDate>Tue, 30 Mar 2021 15:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指转涨，此前一度跌超1%。道指跌0.33%，标普500指数跌0.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5104657.d.html</link>
+            <guid>2096555</guid>
+            <pubDate>Tue, 30 Mar 2021 15:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF：到2021年下半年，欧洲经济将走上复苏的道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1941781.d.html</link>
+            <guid>2096552</guid>
+            <pubDate>Tue, 30 Mar 2021 15:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民生加银基金孙伟：仍有不少优质公司处于中长期布局良机】孙伟管理的民生加银新动能一年定开混合基金年报显示，2020年底，该基金共持有68只个股。除中国中免、分众传媒、宝信软件等十大重仓股外，该基金还”隐形”持有了歌尔股份 、芒果超媒 、三七互娱、吉利汽车、韦尔股份、科大讯飞、用友网络等。孙伟认为，尽管有局部领域的公司估值偏高，但依然有不少优质公司处于中长期布局良机，主要关注三类企业：一是互联网领域可持续经营能力强的公司，尤其是港股优质的互联网企业；二是新能源车、芯片、软件等科技领域创新力强的公司；三是品牌消费和服务型消费领域，如免税、快递物流、医药、食品饮料等赛道的机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1939027.d.html</link>
+            <guid>2096549</guid>
+            <pubDate>Tue, 30 Mar 2021 15:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【受惠快手、百度等 毕马威：香港IPO首季集资额达1081亿创新高】快手、百度、医渡科技等大型热门新股于今年首季来港上市。毕马威的最新分析显示，香港新股市场延续自去年下半年以来的增长势头，截至3月34日止，2021年首季集资总额达139亿美元（约1080.7亿港元），创历史新高。期内，毕马威指，有多家未营利生物科技公司、同股不同权架构公司及第二上市公司成功上市，以集资额计，首季香港前十大上市项目中有7个来自该类型的公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5101343.d.html</link>
+            <guid>2096548</guid>
+            <pubDate>Tue, 30 Mar 2021 15:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃：预计在刺激计划实施后，美国通胀将达到2.5%水平，对此并不担心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5100288.d.html</link>
+            <guid>2096547</guid>
+            <pubDate>Tue, 30 Mar 2021 15:33:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百度涨8.8%，此前该公司稳定价格经办人已完成在二级市场以不超过公开发售价的价格购买1425万股。花旗称该公司股价已经跌至具有吸引力的水平。该股迄今已较2月高位下跌逾30%，花旗认为这种下跌与基本面无关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1934566.d.html</link>
+            <guid>2096545</guid>
+            <pubDate>Tue, 30 Mar 2021 15:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股银行股涨跌互现，瑞士信贷跌3.6%，野村跌超2%，巴克莱、富国银行涨超3%，美国银行涨2.8%，花旗集团、摩根士丹利涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5096658.d.html</link>
+            <guid>2096544</guid>
+            <pubDate>Tue, 30 Mar 2021 15:27:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【盐津铺子年度报告：2020年净利润同比增长89% 拟10派10元】盐津铺子发布年报，2020年归母净利润2.42亿元，同比增长88.83%；营业收入19.59亿元，同比增长39.99%；基本每股收益1.94元；拟10派10元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5092383.d.html</link>
+            <guid>2096538</guid>
+            <pubDate>Tue, 30 Mar 2021 15:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“木头姐”Cathie Wood旗下ARK Invest本周二正式推出新基金太空探索与创新ETF（ARKX），现跌超5%。Wood旗下已拥有五只积极管理型基金和两支指数基金，去年所有积极管理型基金均录得了三位数涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1928257.d.html</link>
+            <guid>2096537</guid>
+            <pubDate>Tue, 30 Mar 2021 15:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST升达：2020年业绩扭亏为盈 拟申请撤销退市风险警示】*ST升达发布年报，2020年归母净利润1.05亿元，上年同期净亏损12.47亿元，扭亏为盈；营业收入9.59亿元，同比减少13.36%；基本每股收益0.1399元。公司拟向深交所申请对公司股票交易撤销退市风险警示。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1925810.d.html</link>
+            <guid>2096535</guid>
+            <pubDate>Tue, 30 Mar 2021 15:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股造车新势力持续上扬，蔚来汽车、小鹏汽车均涨超5%，理想汽车涨近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5087533.d.html</link>
+            <guid>2096534</guid>
+            <pubDate>Tue, 30 Mar 2021 15:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊正在开发一种芯片，为网络中使用的硬件交换机提供动力。此举可能会减少亚马逊对博通的依赖。（The Information）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5086793.d.html</link>
+            <guid>2096532</guid>
+            <pubDate>Tue, 30 Mar 2021 15:12:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【泰国总理巴育否认遣返缅甸难民】近日由于缅甸军政府与少数民族武装冲突加剧，导致大量缅甸少数民族为了躲避军方袭击而逃往邻国泰国避难。有消息传出，泰方拒绝收留缅甸难民并将其遣返回国。对此泰国总理巴育30日指出该消息不属实，目前进入泰国境内的缅甸难民还没多到无法应对的地步，出于人道主义泰国不会驱赶寻求避难的缅甸人，如果局势持续恶化，政府会出台应对方案。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1924016.d.html</link>
@@ -175,161 +325,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5056424.d.html</link>
             <guid>2096478</guid>
             <pubDate>Tue, 30 Mar 2021 14:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中颖电子：一季度净利预增33.2%-42.7%】中颖电子公告，预计2021年第一季度归属于上市公司股东的净利润为5600万元-6000万元，同比增长33.2%-42.7%。同日披露年报，2020年归母净利润2.09亿元，同比增长10.61%；营业收入10.12亿元，同比增长21.35%；基本每股收益0.7497元；拟10转1派4.8元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5055297.d.html</link>
-            <guid>2096476</guid>
-            <pubDate>Tue, 30 Mar 2021 14:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克：SpaceX的招聘需求正在迅速增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5053365.d.html</link>
-            <guid>2096473</guid>
-            <pubDate>Tue, 30 Mar 2021 14:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中宠股份年度报告：2020年净利润同比增长71% 拟10转5派0.7元】中宠股份发布年报，2020年归母净利润1.35亿元，同比增长70.72%；营业收入22.33亿元，同比增长30.1%；基本每股收益0.75元。拟10转5派0.7元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1890371.d.html</link>
-            <guid>2096472</guid>
-            <pubDate>Tue, 30 Mar 2021 14:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【赣锋锂业年度报告：2020年净利润同比增长186% 拟10派3元】赣锋锂业发布年报，2020年营业收入55.24亿元，同比增长3.41%；归母净利润10.25亿元，同比增长186.16%；基本每股收益0.79元。拟每10股派发现金红利3元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1890267.d.html</link>
-            <guid>2096471</guid>
-            <pubDate>Tue, 30 Mar 2021 14:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源车板块拉升，百度涨超6%，小鹏汽车涨超5%，通用汽车涨超3%，蔚来汽车涨1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5052798.d.html</link>
-            <guid>2096470</guid>
-            <pubDate>Tue, 30 Mar 2021 14:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国信证券首次覆盖亚信科技，并给予其买入评级，目标价为16.10港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5052092.d.html</link>
-            <guid>2096469</guid>
-            <pubDate>Tue, 30 Mar 2021 14:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【杰普特：一季度净利预增186%-251%】杰普特公告，一季度预计净利润约2000万元~2450万元，同比增长186.48%~250.93%。2021年一季度消费电子行业、光伏行业、激光清洗等领域对于脉冲高功率光纤激光器的需求提升较大。自2020年下半年以来全球电阻需求增加，全球被动元器件生产厂商都在积极扩产，公司调阻机订单实现了较大幅度同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5050334.d.html</link>
-            <guid>2096468</guid>
-            <pubDate>Tue, 30 Mar 2021 14:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【佳发教育：2020年实现净利润2.1亿元，拟10派2元】佳发教育披露年报，公司2020年实现营业收入5.9亿元，同比增长1.26%；实现归属于上市公司股东的净利润2.1亿元，同比增长2.59%；基本每股收益0.53元。公司拟向全体股东每10股派发现金红利2元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5050082.d.html</link>
-            <guid>2096467</guid>
-            <pubDate>Tue, 30 Mar 2021 14:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安宁股份年度报告：2020年净利润同比增长35% 拟10派5元】安宁股份发布年报，2020年归属于母公司所有者的净利润7.01亿元，同比增长34.93%；营业收入16.36亿元，同比增长19.02%；基本每股收益1.8081元。拟10派5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1884820.d.html</link>
-            <guid>2096463</guid>
-            <pubDate>Tue, 30 Mar 2021 14:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：缅甸军政府考虑在政治中实行比例代表制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5045726.d.html</link>
-            <guid>2096459</guid>
-            <pubDate>Tue, 30 Mar 2021 14:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  达安基因：2020年全年净利润为24.49亿元，同比增长2556.80%；拟10送6派5.5元。]]></title>
-            <guid>2096457</guid>
-            <pubDate>Tue, 30 Mar 2021 14:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中远海发年度报告：2020年净利润同比增长22% 拟10派0.56元】中远海发发布年报，2020年归属于母公司所有者的净利润21.31亿元，同比增长22.22%；营业收入189.41亿元，同比增长33.49%；基本每股收益0.1557元。公司拟每10股派发现金红利0.56元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5044425.d.html</link>
-            <guid>2096456</guid>
-            <pubDate>Tue, 30 Mar 2021 14:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多只机构重仓股股东户数大幅增加 筹码呈分散态势】根据基金2020年三季报，截至去年三季度末，公募基金前20大重仓股中，有4家公司在春节后披露了股东户数，值得注意的是，这4家基金重仓股股东户数在春节后均出现增长。其中，立讯精密披露的最新股东户数为44.43万户，股东户数增长14.07%；顺丰控股披露的最新股东户数为16.52万户，股东户数增长38.92%；亿纬锂能披露的最新股东户数为10.29万户，股东户数增长11.94%；长春高新披露的最新股东户数为7.46万户，股东户数增长2.58%。 (中国证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1881192.d.html</link>
-            <guid>2096454</guid>
-            <pubDate>Tue, 30 Mar 2021 14:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【振华重工年度报告：2020年净利润同比减少18%】振华重工发布年报，2020年归母净利润4亿元，同比减少18.0%；营业收入226亿元，同比减少7.89%；基本每股收益0.08元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5043136.d.html</link>
-            <guid>2096452</guid>
-            <pubDate>Tue, 30 Mar 2021 14:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  唯品会持续走高，涨幅扩大至11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5042807.d.html</link>
-            <guid>2096451</guid>
-            <pubDate>Tue, 30 Mar 2021 14:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：一些民主党人希望对美国总统拜登的基础设施计划进行重复检查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1877329.d.html</link>
-            <guid>2096449</guid>
-            <pubDate>Tue, 30 Mar 2021 14:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【成都科创投集团揭牌成立 注册资本100亿元】今日，成都科技创新投资集团有限公司成立仪式在天府国际金融中心举行。成都科创投集团在四川天府新区登记注册，注册资本金100亿元，其中现金出资75亿元，股权出资25亿元，已完成工商注册、办公选址等前期工作。未来，成都科创投集团将聚焦“5+5+1”现代化产业体系和先进制造业13个重点细分领域，以专业化运营培育“基金投资、直接投资和增值服务”三大核心主业，以建设西部第一、国内一流的科技创新投资集团为战略目标，致力成为全市科技成果转化的助推者、创新价值的培育者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5039698.d.html</link>
-            <guid>2096448</guid>
-            <pubDate>Tue, 30 Mar 2021 14:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天邑股份：与华曦达签订战略合作框架协议】天邑股份公告，公司收到与华曦达签订返回的《战略合作框架协议》，拟通过联合研发，打通“云-端”的信息及算力的技术通路，实现网络通讯产品更加智慧化的综合管控、在线升级、远程故障智能诊断、故障智能预警及其他智慧功能，实现“云-端”全智能化产品、管控及服务，为全球运营商提供“软件+硬件+云服务”整体解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5039317.d.html</link>
-            <guid>2096447</guid>
-            <pubDate>Tue, 30 Mar 2021 13:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【卓越新能年度报告：2020年度净利润同比增长12% 拟10派8.2元】卓越新能发布年报，实现营业收入15.98亿元，同比增长23.47%；归属于母公司所有者的净利润2.42亿元，同比增长12.37%；基本每股收益2.02元，拟每10股派现金8.20元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5039119.d.html</link>
-            <guid>2096446</guid>
-            <pubDate>Tue, 30 Mar 2021 13:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天原股份：拟投资5000万元入伙宜宾人才创新合伙企业】天原股份公告，公司拟投资5000万元入伙宜宾人才创新创业股权投资合伙企业（有限合伙）。人才创新合伙企业是宜宾市贯彻落实省委省政府发布的《关于支持两院院士在川创新创业十条措施》的主要载体，旨在更好地促进两院院士暨国青人才科研成果孵化和转化，助力创新创业，所投项目包括智能终端、新能源汽车、新材料、轨道交通、节能环保等领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5037625.d.html</link>
-            <guid>2096444</guid>
-            <pubDate>Tue, 30 Mar 2021 13:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【这些基金重仓股股东数大幅增加 筹码分散】根据基金2020年三季报，截至去年三季度末，公募基金前20大重仓股中，有4家公司在春节后披露了股东户数，值得注意的是，这4家基金重仓股股东户数在春节后均出现增长。其中，立讯精密披露的最新股东户数增长14.07%；顺丰控股披露的最新股东户数增长38.92%；亿纬锂能披露的最新股东户数增长11.94%；长春高新披露的最新股东户数增长2.58%。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1874509.d.html</link>
-            <guid>2096443</guid>
-            <pubDate>Tue, 30 Mar 2021 13:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【江阴银行年度报告：2020年归母净利润升4.36% 拟10派1.8元】江阴银行披露年报，2020年公司实现营业收入33.51亿元，同比下降1.56%；归母净利润10.57亿元，同比增长4.36%；基本每股收益0.4866元，年报推10派现金红利1.8元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5033334.d.html</link>
-            <guid>2096436</guid>
-            <pubDate>Tue, 30 Mar 2021 13:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【SpaceX原型机降落时坠毁，马斯克发推：“至少炸坑的位置是对的！”】据美国消费者新闻和商业频道（CNBC）报道，当地时间30日，美国太空探索技术公司（SpaceX）的SN11原型机在降落时坠毁。报道称，SpaceX公司的直播画面在原型机降落时突然定格，但是由于当天位于得克萨斯州的发射地被浓雾笼罩，现场目击者第一时间无法看清发生了什么。报道提到，SpaceX的CEO马斯克还在坠毁几分钟后发推说：“至少炸坑的位置是对的！”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1869965.d.html</link>
-            <guid>2096434</guid>
-            <pubDate>Tue, 30 Mar 2021 13:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国首批手机北斗检测认证发布会31日举行 助力北斗导航产业发展】3月31日，中国信通院和中电54所联合承办的中国首批手机北斗检测认证发布会将在北京举行。北斗检测认证工作，是北斗质量体系的重要组成部分，也是北斗导航产业规模发展的基础，开展智能手机北斗检测认证工作意义重大。1月19日，市场监管总局就《关于开展北斗基础产品认证工作的实施意见（征求意见稿）》征求意见，产品认证的实施将有助于市场的规范化运行。随着北斗进入大众通讯市场，北斗产业规模有望迅速提升。（怀新资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1869458.d.html</link>
-            <guid>2096433</guid>
-            <pubDate>Tue, 30 Mar 2021 13:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股新能源车股多数走低，理想汽车、Fisker跌超3%，蔚来汽车跌近2%，小牛电动跌1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikkntian1868861.d.html</link>
-            <guid>2096430</guid>
-            <pubDate>Tue, 30 Mar 2021 13:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【48股今日获机构深度覆盖 6股上涨空间超20%】今日获机构深度覆盖个股数量有48家，以公布的预测目标价与最新收盘价进行对比显示，共有14股上涨空间超20%，视觉中国上涨空间最高，国信证券预计公司目标价为21.54元，上涨空间达52.55%。此外还有华友钴业（50.92%）、蔚蓝锂芯（39.66%）、中欣氟材（36.61%）、南京银行（32.87%）、中直股份（28.26%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-30/detail-ikknscsk5031325.d.html</link>
-            <guid>2096429</guid>
-            <pubDate>Tue, 30 Mar 2021 13:46:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

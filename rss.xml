@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 31 Mar 2021 21:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 22:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国际足联确认2023年女足世界杯的比赛城市】 据新西兰媒体报道，新西兰时间4月1日上午，2023年女足世界杯的比赛城市经国际足联确认正式揭晓。这届世界杯将由新西兰和澳大利亚共同主办，比赛将在9个城市举行。其中新西兰有四个城市：奥克兰、但尼丁、汉密尔顿和惠灵顿；澳大利亚有五个城市：阿德莱德、布里斯班、墨尔本、珀斯和悉尼。 决赛将在澳大利亚悉尼举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0405414.d.html</link>
+            <guid>2098144</guid>
+            <pubDate>Wed, 31 Mar 2021 21:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚3月AIG/PWC制造业表现指数公布 59.9，前值 58.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0404032.d.html</link>
+            <guid>2098141</guid>
+            <pubDate>Wed, 31 Mar 2021 21:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登正在接受美国媒体ESPN的采访，将于周三晚上11点（北京时间周四上午11点）播出。]]></title>
+            <guid>2098139</guid>
+            <pubDate>Wed, 31 Mar 2021 21:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登关于基建计划的讲话结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3257681.d.html</link>
+            <guid>2098136</guid>
+            <pubDate>Wed, 31 Mar 2021 21:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股盘后，标普交通运输ETF-SPDR（XTN）涨0.8%，纳斯达克运输业ETF（FTXR）涨超1%；水资源ETF-PowerShares（PHO）涨0.3%，全球清洁能源ETF-iShares（ICLN）涨超1%。美国总统拜登公布了一项价值2万亿美元的就业计划，该计划包含交通、宽带、水和清洁能源等关键领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3257674.d.html</link>
+            <guid>2098135</guid>
+            <pubDate>Wed, 31 Mar 2021 21:13:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登：公司不缴纳所得税是错误的。除了对年收入40万美元以下的人增税以外，对其他建议持开放态度。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0400813.d.html</link>
@@ -268,54 +297,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0290240.d.html</link>
             <guid>2098052</guid>
             <pubDate>Wed, 31 Mar 2021 17:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国计划对从印度、巴林、土耳其进口的铝板征收反补贴税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0290141.d.html</link>
-            <guid>2098051</guid>
-            <pubDate>Wed, 31 Mar 2021 17:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国一季度投资级债券发行规模仅略低于去年一季度的纪录水平，今年一季度的发行量达4350亿美元，而去年创下的纪录为4800亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0290098.d.html</link>
-            <guid>2098050</guid>
-            <pubDate>Wed, 31 Mar 2021 17:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：意大利驱逐俄外交人员不符合两国关系水平】据外媒报道，针对意大利驱逐两名俄外交人员一事，俄罗斯外交部当天发表声明称，意大利此举不符合两国关系水平，可能的回应措施将在此后宣布。声明强调，俄方对意大利驱逐俄外交人员一事感到遗憾。我们正在调查当时的情况。俄总统新闻秘书佩斯科夫当天表示，俄方还不清楚相关细节，但希望俄意之间保持积极且具有建设性的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0288704.d.html</link>
-            <guid>2098049</guid>
-            <pubDate>Wed, 31 Mar 2021 17:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【缅甸联邦议会代表委员会宣布废除缅甸2008年宪法】缅甸联邦议会代表委员会（CRPH）于当地时间3月31日发布通告称，废除缅甸现行的2008年宪法。同时，该委员会起草并公布了《联邦民主宪章》（Federal Democracy Charter of CRPH）。温敏领导的民盟政府于3月31日届满，联邦议会代表委员会称将于4月1日组建新政府“民族团结政府”（National Unity Government）。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3141079.d.html</link>
-            <guid>2098048</guid>
-            <pubDate>Wed, 31 Mar 2021 17:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧佩克+联合部长级监督委员会（JMMC）与会代表对减产执行率和减产赔偿表达了担忧，从2020年5月到2021年2月，总过剩产量略高于300万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0280438.d.html</link>
-            <guid>2098043</guid>
-            <pubDate>Wed, 31 Mar 2021 17:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油期货短线走低0.3美元，现分别报60.40美元/桶和63.88美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0280060.d.html</link>
-            <guid>2098042</guid>
-            <pubDate>Wed, 31 Mar 2021 17:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：欧佩克+联合部长级监督委员会（JMMC）会议上没有给出任何建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0276977.d.html</link>
-            <guid>2098038</guid>
-            <pubDate>Wed, 31 Mar 2021 17:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧佩克+与会代表：欧佩克+部长级委员会已结束谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3131787.d.html</link>
-            <guid>2098036</guid>
-            <pubDate>Wed, 31 Mar 2021 17:13:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

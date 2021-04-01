@@ -4,11 +4,178 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 01 Apr 2021 15:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 16:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  伊拉克石油部：伊拉克3月石油出口总量平均为290万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk0718135.d.html</link>
+            <guid>2099813</guid>
+            <pubDate>Thu, 01 Apr 2021 16:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至3月28日当周，俄罗斯汽油产量达75.1万吨，较此前一周下降5.5%，而上一周降幅达0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk0717170.d.html</link>
+            <guid>2099811</guid>
+            <pubDate>Thu, 01 Apr 2021 16:07:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compass首日开盘报21.25美元，IPO发行价为18美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk0716854.d.html</link>
+            <guid>2099809</guid>
+            <pubDate>Thu, 01 Apr 2021 16:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：意大利3月新车销量同比增长497.16％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3574474.d.html</link>
+            <guid>2099808</guid>
+            <pubDate>Thu, 01 Apr 2021 16:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[趣头条(QTT.O)短线走高，涨超15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3574411.d.html</link>
+            <guid>2099807</guid>
+            <pubDate>Thu, 01 Apr 2021 16:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯去年第四季度经济同比萎缩1.8%，预期为萎缩2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3574373.d.html</link>
+            <guid>2099806</guid>
+            <pubDate>Thu, 01 Apr 2021 16:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰方面表示将致力于顿巴斯地区停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3574279.d.html</link>
+            <guid>2099805</guid>
+            <pubDate>Thu, 01 Apr 2021 16:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：世界贸易恢复的速度比预期的要快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3574052.d.html</link>
+            <guid>2099804</guid>
+            <pubDate>Thu, 01 Apr 2021 15:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰方面称，俄罗斯使乌克兰顿巴斯地区的安全局势升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3574011.d.html</link>
+            <guid>2099803</guid>
+            <pubDate>Thu, 01 Apr 2021 15:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：运输成本加大了近期全球通胀压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3573275.d.html</link>
+            <guid>2099802</guid>
+            <pubDate>Thu, 01 Apr 2021 15:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：在欧佩克+协议下，哈萨克斯坦5月份允许的石油产量将为146.3万桶/日，6月份为147.5万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3572554.d.html</link>
+            <guid>2099797</guid>
+            <pubDate>Thu, 01 Apr 2021 15:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：欧佩克+会议已经结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0714514.d.html</link>
+            <guid>2099795</guid>
+            <pubDate>Thu, 01 Apr 2021 15:48:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧股收盘 三大股指集体收涨】欧股全数收涨，德国DAX指数涨0.63%，法国CAC指数涨0.58%，英国富时指数涨0.41%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3572278.d.html</link>
+            <guid>2099793</guid>
+            <pubDate>Thu, 01 Apr 2021 15:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克代表：欧佩克+讨论了在5月和6月增产35万桶/日，在7月增产44万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3572258.d.html</link>
+            <guid>2099790</guid>
+            <pubDate>Thu, 01 Apr 2021 15:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Drive Tesla：特斯拉(TSLA.O)今日在加拿大推送FSD Beta版。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0714412.d.html</link>
+            <guid>2099789</guid>
+            <pubDate>Thu, 01 Apr 2021 15:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 车队管理软件提供商Karooooo(KARO.O)正式登陆纳斯达克交易所，开涨18%，报33美元，IPO发行价为28美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0714403.d.html</link>
+            <guid>2099788</guid>
+            <pubDate>Thu, 01 Apr 2021 15:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OPEC+同意在未来几个月内逐步增加石油产量】①面对外部和内部的增产压力，OPEC+同意未来几个月内逐步增加石油产量。不具名与会代表透露，沙特阿拉伯提出分阶段增产，其中包括逐步降低沙特额外100万桶/日的减产规模。视频会议仍在继续进行，各国石油部长们正在敲定最后的谈判细节；②俄罗斯副总理诺瓦克在会议开始时表示，我们需要时刻把握市场脉搏，不能允许市场过热或严重供应不足。自从上次会议以来，油市情况已经改善，趋势是积极的；③随着原油突破60美元且汽油零售价格持续攀升，包括美国和印度在内的石油消费大国呼吁OPEC+将油价保持于可控水平，他们担心昂贵的油价可能增加全球通胀压力；④OPEC+会议召开前夕，美国能源部长致电沙特阿拉伯能源大臣阿卜杜勒阿齐兹·本·萨勒曼，强调保持能源价格在可负担水平的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0714199.d.html</link>
+            <guid>2099787</guid>
+            <pubDate>Thu, 01 Apr 2021 15:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Needham：将美光科技目标价调高至130美元 维持买入评级】Needham分析师Rajvindra Gill将美光科技(MU.O)目标价从115美元调高至130美元，并维持买入评级，此前该公司第二季业绩超出预期，且财务指引高于市场共识。该分析师在一份研究报告中告诉投资者，NAND存储业务正在企稳，而DRAM将受益于下一代1-a的过渡以及紧张的市场供应情况，所有终端市场的需求都很强劲，包括零部件短缺最严重的汽车市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3570748.d.html</link>
+            <guid>2099786</guid>
+            <pubDate>Thu, 01 Apr 2021 15:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据路透测算，哈萨克斯坦3月份削减了1.4%的石油产量，但仍然超过了欧佩克+的月度产量配额。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0712324.d.html</link>
+            <guid>2099785</guid>
+            <pubDate>Thu, 01 Apr 2021 15:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：沙特未来三个月将逐步恢复此前自愿减产的100万桶/日，5-7月的规模分别为25万桶/日、35万桶/日和40万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3570065.d.html</link>
+            <guid>2099784</guid>
+            <pubDate>Thu, 01 Apr 2021 15:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【四大纸企集体涨价 纸巾卷纸价格大涨20%】近期，维达、洁柔等国内四家知名纸业公司均发布了调价通知，宣布从4月1日起将上调旗下产品价格。截至目前，市场上部分生活用纸产品价格上调了10%-20%。生活纸企“涨声一片”，主要原因是原材料价格持续走高。生活用纸最重要的原材料是木浆，约占总成本的60%左右。2020年三季度以来，木浆价格持续走高，涨幅近一倍。]]></title>
+            <guid>2099783</guid>
+            <pubDate>Thu, 01 Apr 2021 15:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：将微软(MSFT.O)评级上调至“AAA”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0711366.d.html</link>
+            <guid>2099780</guid>
+            <pubDate>Thu, 01 Apr 2021 15:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丰田汽车(TM.N)：2021年3月美国销量为253,783辆，同比增长87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0711117.d.html</link>
+            <guid>2099778</guid>
+            <pubDate>Thu, 01 Apr 2021 15:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：目前仍不清楚沙特是否会取消额外减产的100万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3568774.d.html</link>
+            <guid>2099777</guid>
+            <pubDate>Thu, 01 Apr 2021 15:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  政府消息人士：印度第一季度黄金进口同比激增158%，达到创纪录的321吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3568667.d.html</link>
+            <guid>2099776</guid>
+            <pubDate>Thu, 01 Apr 2021 15:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：沙特尚未就自愿减产的计划进行沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3567784.d.html</link>
+            <guid>2099772</guid>
+            <pubDate>Thu, 01 Apr 2021 15:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用汽车(GM.N)：公司目标是在可能的情况下，在几年下半年恢复当前损失的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3567083.d.html</link>
+            <guid>2099769</guid>
+            <pubDate>Thu, 01 Apr 2021 15:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧佩克代表：欧佩克+仍在继续就产量细节进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0709475.d.html</link>
+            <guid>2099768</guid>
+            <pubDate>Thu, 01 Apr 2021 15:16:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  葡萄牙总理：葡萄牙可以继续推进放宽限制措施的计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0707938.d.html</link>
@@ -145,65 +312,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0701023.d.html</link>
             <guid>2099715</guid>
             <pubDate>Thu, 01 Apr 2021 14:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧佩克代表：欧佩克+有关产量政策的谈判正在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0699499.d.html</link>
-            <guid>2099710</guid>
-            <pubDate>Thu, 01 Apr 2021 14:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四大纸企集体涨价 纸巾卷纸价格大涨20%】近期，维达、洁柔等国内四家知名纸业公司均发布了调价通知，宣布从4月1日起将上调旗下产品价格。截至目前，市场上部分生活用纸产品价格上调了10%-20%。记者了解到，生活纸企“涨声一片”，主要原因是原材料价格持续走高。生活用纸最重要的原材料是木浆，约占总成本的60%左右。2020年三季度以来，木浆价格持续走高，涨幅近一倍。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0698966.d.html</link>
-            <guid>2099705</guid>
-            <pubDate>Thu, 01 Apr 2021 14:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国美零售全年营收441.2亿元人民币，分析师预估537.3亿元人民币；全年净亏损69.9亿元人民币，分析师预估亏损17.9亿元人民币。]]></title>
-            <guid>2099702</guid>
-            <pubDate>Thu, 01 Apr 2021 14:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股在线教育股涨幅居前，好未来涨超8%，新东方涨近6%，跟谁学、流利说涨约2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0698647.d.html</link>
-            <guid>2099701</guid>
-            <pubDate>Thu, 01 Apr 2021 14:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受益于显示屏市场快速放量 LED芯片价格接连上调】LED芯片部分产品出现供应紧张，各主要大厂均满产满销，对部分毛利率低的产品暂不接单。今年以来已有多家LED芯片企业发布调价通知，部分企业已经是第二次甚至是第三次调价。业内人士介绍，随着成本降低，显示屏市场快速放量，封装厂扩产规模较大，部分小尺寸芯片出现短缺，照明市场需求情况也较为类似，部分企业已涨价约30%。Mini背光方面，由于IC缺货，需求暂未出现爆发式增长。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0698412.d.html</link>
-            <guid>2099700</guid>
-            <pubDate>Thu, 01 Apr 2021 14:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  台积电涨超5%，公司将在三年内投资1000亿美元提高产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0695210.d.html</link>
-            <guid>2099682</guid>
-            <pubDate>Thu, 01 Apr 2021 14:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小米集团：于4月1日以每股26.25-26.35港元的价格回购7,665,000股，耗资约2.01亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3552539.d.html</link>
-            <guid>2099680</guid>
-            <pubDate>Thu, 01 Apr 2021 14:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国商业银行第一季度将计入约4.7亿欧元的重组费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmyaawa3552447.d.html</link>
-            <guid>2099677</guid>
-            <pubDate>Thu, 01 Apr 2021 14:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线跌近5%，首席执行官表示公司将增发5亿股新股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0694055.d.html</link>
-            <guid>2099674</guid>
-            <pubDate>Thu, 01 Apr 2021 14:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国进入汛期】4月1日，我国进入汛期。水利部部长李国英强调，树立强烈的忧患意识和底线思维，超前谋划应对极端气候条件可能造成水旱灾害的风险挑战，尽最大努力提升水旱灾害防御能力。3月29日至31日，我国南方出现强降雨过程，连续3天累积雨量50毫米以上雨区的覆盖面积为15.5万平方公里。依据入汛日期确定的相关规定，4月1日为我国入汛日期。据预测，2021年我国气候年景总体为一般到偏差。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-01/detail-ikmxzfmk0693794.d.html</link>
-            <guid>2099671</guid>
-            <pubDate>Thu, 01 Apr 2021 13:59:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

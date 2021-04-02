@@ -4,11 +4,119 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 02 Apr 2021 16:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 17:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：不知道国会大厦的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4676564.d.html</link>
+            <guid>2101785</guid>
+            <pubDate>Fri, 02 Apr 2021 17:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：预计美国总统拜登的预算计划将“很快”出台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1816753.d.html</link>
+            <guid>2101784</guid>
+            <pubDate>Fri, 02 Apr 2021 17:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据卫星新闻：美国国会工作人员称，美国国会大厦因“外部安全威胁”被封锁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4675764.d.html</link>
+            <guid>2101783</guid>
+            <pubDate>Fri, 02 Apr 2021 17:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据统计：俄罗斯4月离线初级炼油产能较之前计划上调11.9%至378万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1813310.d.html</link>
+            <guid>2101782</guid>
+            <pubDate>Fri, 02 Apr 2021 17:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫经济顾问委员Boushey：劳动力市场仍然疲软，几乎没有过热和通货膨胀的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4671909.d.html</link>
+            <guid>2101781</guid>
+            <pubDate>Fri, 02 Apr 2021 17:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫官员布希质疑，美国在重新开放的问题上是否行动太快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4671401.d.html</link>
+            <guid>2101780</guid>
+            <pubDate>Fri, 02 Apr 2021 17:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌旗下Waymo CEO辞职】 Alphabet旗下自动驾驶汽车公司Waymo首席执行官John Krafcik将辞职。Waymo将任命首席运营官和首席技术官为联合CEO。Krafcik称将以顾问的身份留在公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4667233.d.html</link>
+            <guid>2101779</guid>
+            <pubDate>Fri, 02 Apr 2021 17:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：我们并不期待与伊朗进行直接对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4666070.d.html</link>
+            <guid>2101777</guid>
+            <pubDate>Fri, 02 Apr 2021 17:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：我们对伊朗核谈判仍需采取的步骤非常清楚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1803255.d.html</link>
+            <guid>2101776</guid>
+            <pubDate>Fri, 02 Apr 2021 17:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：在维也纳举行的关于伊朗核计划的会议是一个受欢迎的、可能具有建设性的早期步骤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1802340.d.html</link>
+            <guid>2101775</guid>
+            <pubDate>Fri, 02 Apr 2021 17:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国正在关注并担心俄罗斯在乌克兰问题上的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1800952.d.html</link>
+            <guid>2101773</guid>
+            <pubDate>Fri, 02 Apr 2021 16:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国总统拜登将于4月16日与日本首相菅义伟在白宫会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4659500.d.html</link>
+            <guid>2101772</guid>
+            <pubDate>Fri, 02 Apr 2021 16:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非农就业数据强劲，各期限美债普跌，市场因耶稣受难日提前休市】 周五（4月02日）纽约午时，美国10年期基准国债收益率上涨5.17个基点，报1.7216%；本周（较上周五纽约尾盘）累涨4.56个基点。20年期美债收益率上涨4.07个基点，报2.2706%；本周累跌0.88个基点。30年期美债收益率上涨2.42个基点，报2.3564%；本周累跌2.17个基点。五年期美债收益率上涨7.61个基点，报0.9770%；本周累涨11.18个基点。2年期美债收益率上涨2.77个基点，报0.1862%；本周累涨4.75个基点。10年和2年期美债收益率利差上涨2.617基点，报153.167个基点；30年和5年期美债收益率利差下跌5.428个基点，报137.539个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1793289.d.html</link>
+            <guid>2101770</guid>
+            <pubDate>Fri, 02 Apr 2021 16:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【媒体：比亚迪最早下半年销售其汽车电池，不排除将电池子公司单独上市】比亚迪最早将于今年下半年开始向其他公司销售汽车电池。此举出台之际，比亚迪正寻求通过向其他公司供应电池来扩大电池制造业务规模。比亚迪将专门为其他汽车制造商供应由其子公司富迪电池开发的车载锂离子电池。比亚迪销售子公司副总经理李云飞表示，不排除通过富迪电池上市来加速业务扩张的可能性。（日经新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4645843.d.html</link>
+            <guid>2101767</guid>
+            <pubDate>Fri, 02 Apr 2021 16:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：04月03日00时19分在新疆和田地区于田县发生3.0级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1782322.d.html</link>
+            <guid>2101765</guid>
+            <pubDate>Fri, 02 Apr 2021 16:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据统计，包括京东数科在内，年内已有32家企业终止了科创板IPO审核，其中还包括AI明星企业依图科技、柔宇科技等。有业内人士表示，这些企业终止的原因不外有二：一是IPO监管审核从严；二是企业内部变动。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1780104.d.html</link>
+            <guid>2101762</guid>
+            <pubDate>Fri, 02 Apr 2021 16:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：美国总统拜登告诉我，在俄罗斯问题上，乌克兰永远不会被孤立。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4634412.d.html</link>
+            <guid>2101760</guid>
+            <pubDate>Fri, 02 Apr 2021 16:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：军队准备好报复行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1773299.d.html</link>
+            <guid>2101759</guid>
+            <pubDate>Fri, 02 Apr 2021 16:20:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据悉，美国总统拜登的预算计划要到下周才能出台。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1766639.d.html</link>
@@ -224,95 +332,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1695134.d.html</link>
             <guid>2101667</guid>
             <pubDate>Fri, 02 Apr 2021 14:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国确认出席伊朗核协议维也纳会谈 美伊将进行非直接对话】美国确认出席就讨论重返伊核协议下周在维也纳举行的多国会谈，但美国与伊朗之间将不会进行直接对话。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4549096.d.html</link>
-            <guid>2101665</guid>
-            <pubDate>Fri, 02 Apr 2021 14:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【皖天然气：2020年实现净利润2.09亿元 同比降6.6%】皖天然气4月2日晚间披露年报，公司2020年实现营业收入为47.64亿元，同比增长14.20%；归母净利润2.09亿元，同比下滑6.6%；基本每股收益0.62元。每10股派发现金股利1.9元人民币(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4547870.d.html</link>
-            <guid>2101664</guid>
-            <pubDate>Fri, 02 Apr 2021 14:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗官方媒体报道称，伊朗拒绝美国采取逐步解除制裁的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4541181.d.html</link>
-            <guid>2101658</guid>
-            <pubDate>Fri, 02 Apr 2021 14:10:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【但斌回应减持茅台：仅是某只基金持有超标导致的被动减持】相关数据显示，广深地区的头部私募东方港湾投资的知名基金经理但斌，在其管理的某投顾类产品中，对贵州茅台进行了小幅减持。截至2020年年末，该产品持有贵州茅台1.53万股，较2020年三季度末时减仓了0.15万股。但斌回应该消息称：“仅是某只基金持有超标导致的被动减持。”]]></title>
-            <guid>2101657</guid>
-            <pubDate>Fri, 02 Apr 2021 14:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗官方媒体报道称，伊朗拒绝与美国进行间接会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4540277.d.html</link>
-            <guid>2101656</guid>
-            <pubDate>Fri, 02 Apr 2021 14:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据悉蔚来ET7首台生产线车身已于昨日在合肥先进制造基地正式下线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4539333.d.html</link>
-            <guid>2101655</guid>
-            <pubDate>Fri, 02 Apr 2021 14:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院发言人：会谈的主要议题包括伊朗需要采取哪些措施来恢复遵守协议，以及美国有关解除制裁的措施；目前不打算与伊朗进行直接会谈，但对直接会谈持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4536967.d.html</link>
-            <guid>2101653</guid>
-            <pubDate>Fri, 02 Apr 2021 14:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汉莎航空公司表示，汉莎航空公司计划从4月16日开始恢复从法兰克福飞往德黑兰的航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4533966.d.html</link>
-            <guid>2101650</guid>
-            <pubDate>Fri, 02 Apr 2021 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雅戈尔股东拟减持不超2%公司股份】雅戈尔公告，持股11.43%的股东昆仑信托计划自公告之日起十五个交易日后至2021年10月26日，通过集中竞价减持股份不超过92,580,059股，即不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4533720.d.html</link>
-            <guid>2101649</guid>
-            <pubDate>Fri, 02 Apr 2021 14:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5年期国债收益率升至0.962%，续刷去年2月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1670907.d.html</link>
-            <guid>2101648</guid>
-            <pubDate>Fri, 02 Apr 2021 13:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：美国同意与欧洲、俄罗斯等伙伴国参加伊朗核谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1670162.d.html</link>
-            <guid>2101646</guid>
-            <pubDate>Fri, 02 Apr 2021 13:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国驻贝鲁特大使：只有实施有意义的改革，黎巴嫩当局才能重建信心，吸引投资者的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1667406.d.html</link>
-            <guid>2101645</guid>
-            <pubDate>Fri, 02 Apr 2021 13:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【研究机构：特斯拉Model 3是2月份最畅销电动汽车 共交付2.8万辆】2月份特斯拉Model 3是欧洲电动汽车市场最畅销的电动汽车，交付5506辆。而最新的数据显示，在全球范围内，Model 3也是2月份最畅销的电动汽车，共交付28014辆Model 3，远高于其他型号的电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4527047.d.html</link>
-            <guid>2101643</guid>
-            <pubDate>Fri, 02 Apr 2021 13:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国驻贝鲁特大使：几家私营公司提出了开发贝鲁特港口和附近地区的“全面建议”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4524757.d.html</link>
-            <guid>2101642</guid>
-            <pubDate>Fri, 02 Apr 2021 13:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会拟对5起案件线索的举报人给予奖励】近日，证监会拟对提供江苏四环生物股份有限公司、陆克平等人违法违规、大连天宝绿色食品股份有限公司信息披露违法违规、吉药控股集团股份有限公司信息披露违法、德化恒忆陶瓷艺术股份有限公司信息披露违法、吉林森东电力设备股份有限公司信息披露违法违规等5起案件线索的举报人依《证券法》、《证券期货违法违规行为举报工作暂行规定》给予奖励。我会委托中国证券投资者保护基金有限责任公司办理本次奖励的举报人登记等具体事宜，申请人可登陆中国证券投资者保护基金有限责任公司官方网站“举报奖励”专栏办理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4523971.d.html</link>
-            <guid>2101640</guid>
-            <pubDate>Fri, 02 Apr 2021 13:45:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

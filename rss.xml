@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 13:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 14:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据日经新闻：由于半导体芯片供应短缺，铃木汽车在日本的三个工厂中，有两个将暂时停产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2712423.d.html</link>
+            <guid>2103030</guid>
+            <pubDate>Sat, 03 Apr 2021 13:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯视频VIP宣布涨价】4月3日，腾讯视频VIP发布通知，宣布自4月10日零点起实行新的VIP价格，新价格将调整为连续包月20元、包季58元、包年218元，非连续VIP月卡30元、季卡68元、年卡253元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5570548.d.html</link>
+            <guid>2103029</guid>
+            <pubDate>Sat, 03 Apr 2021 13:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法国电力集团（EDF）将于4月4日至4月5日停止在法国的GRAVELINES 3号反应堆。据悉2月27日该反应堆曾发生计划外停机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2708080.d.html</link>
+            <guid>2103022</guid>
+            <pubDate>Sat, 03 Apr 2021 13:37:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【埃及苏伊士运河管理局：所有滞留船只已全部通过】据法新社、路透社当地时间4月3日报道，埃及苏伊士运河管理局（SCA）表示，所有422艘因苏伊士运河堵塞而滞留在运河两端的船只已于3日当天全部通过苏伊士运河。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5536088.d.html</link>
@@ -254,30 +272,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2456038.d.html</link>
             <guid>2102883</guid>
             <pubDate>Sat, 03 Apr 2021 07:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度可能重新制定向国营Bharat Sanchar Nigam有限公司供应第四代电信设备的招标，以阻止华为技术有限公司和中兴公司参与投标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2442139.d.html</link>
-            <guid>2102879</guid>
-            <pubDate>Sat, 03 Apr 2021 07:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌旗下Waymo CEO突然离职 跟马斯克“互怼”的旧帅去向成疑】全球自动驾驶“先驱”Waymo 首席执行官约翰·科拉菲克宣布辞职。继任者则为Waymo的最高执行官Tekedra Mawakana和Dmitri Dolgov，他们将成为公司的联合首席执行官，二人分别为公司的COO与CTO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2441707.d.html</link>
-            <guid>2102878</guid>
-            <pubDate>Sat, 03 Apr 2021 07:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Citadel Europe LLP报告：Cellnex Telecom SA的净空头头寸为292万股，截至2021年4月1日，占该公司股票的0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5291242.d.html</link>
-            <guid>2102875</guid>
-            <pubDate>Sat, 03 Apr 2021 07:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：ITA银行间基金(ITA INTERBANK FUND)聘请德意志银行担任卡里吉(CARIGE)销售顾问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5287222.d.html</link>
-            <guid>2102873</guid>
-            <pubDate>Sat, 03 Apr 2021 07:11:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

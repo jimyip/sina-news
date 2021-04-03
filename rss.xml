@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 00:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 01:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  德国地学研究中心GFZ：南桑德维奇群岛东部发生6.5级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5026833.d.html</link>
+            <guid>2102219</guid>
+            <pubDate>Sat, 03 Apr 2021 01:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：2020年末小微企业续贷余额达2.25万亿元】记者从中国银保监会获悉，为精准对接小微企业融资需求，银保监会引导银行根据小微企业融资特点合理设置贷款期限和还款方式，主动为符合条件的小微企业办理续贷业务。截至2020年末，小微企业续贷余额达2.25万亿元，同比增长56.41%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2162793.d.html</link>
+            <guid>2102197</guid>
+            <pubDate>Sat, 03 Apr 2021 01:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中联重科与华为达成战略合作】今日，中联重科与华为战略合作签约仪式在长沙举行，根据战略合作内容，华为将在企业数字化转型、智慧园区建设、数字化人才培养等领域为中联重科助力。此次合作，标志着中联重科数字化转型升级再提速。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5018888.d.html</link>
+            <guid>2102162</guid>
+            <pubDate>Sat, 03 Apr 2021 01:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国部分地区气象干旱持续发展】国家气候中心副主任贾小龙日前介绍，目前云南等地干旱持续，华南干旱露头并发展。贾小龙表示，3月，云南中北部、四川南部、贵州西部等地干旱持续发展，普遍达中到重度气象干旱，云南西北部和东北部有特旱；福建南部、广东东部、广西南部气象干旱露头并发展，出现中旱和重旱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2152604.d.html</link>
+            <guid>2102144</guid>
+            <pubDate>Sat, 03 Apr 2021 01:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蔚来：ET7首台生产线车身正式下线】蔚来消息，4月1日，ET7的首台生产线车身，已经在合肥先进制造基地正式下线。生产线车身是指车身结构件及覆盖件焊接总成，这是ET7在验证生产制造流程过程中非常重要的一环，可以充分识别并解决车身在制造阶段的问题，对持续推进ET7的生产有着积极作用。同时，合肥先进制造基地为ET7专门打造的全新焊装生产线也将正式投入使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5010022.d.html</link>
+            <guid>2102142</guid>
+            <pubDate>Sat, 03 Apr 2021 01:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉一季度交付量超预期】 此前市场普遍预期一季度交付量可能会差一些。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5009637.d.html</link>
+            <guid>2102141</guid>
+            <pubDate>Sat, 03 Apr 2021 01:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【46476.45亩 2021年郑州市本级供地计划公布】日前，郑州市自然资源和规划局公布《郑州市市本级2021 年度国有建设用地供应计划》。据供地计划显示，郑州全市2021年度计划供应土地总量为3098.43公顷（折合46476.45亩）。其中，住宅用地1166.29公顷（折合17494.35亩），占计划总量的37.64%；商服用地340.82公顷，占计划总量的11.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2141017.d.html</link>
+            <guid>2102115</guid>
+            <pubDate>Sat, 03 Apr 2021 00:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国会大厦外发生袭警事件 致国会警察1死1伤】美国国会警察局代理局长当地时间2日表示，一名嫌犯当天下午开车冲向美国国会大厦外警察，目前已致1名国会警察死亡、1名国会警察受伤。嫌犯已被击毙。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5001129.d.html</link>
+            <guid>2102113</guid>
+            <pubDate>Sat, 03 Apr 2021 00:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【清明旅游全面爆发 预计全国出游人次将达1亿】今年清明假期交通出行火爆。根据飞常准APP统计，假期间（4月3日-5日）国内—国内计划出港客运航班量为3.47万架次，相比去年同期，出港航班量增长2倍以上。而中国铁路总公司也披露，4月2日至5日，全国铁路预计发送旅客4970万人次，其中最高峰日4月3日预计发送旅客超过1400万人次。而据携程此前的预测，预计清明节假期全国出游人次将达1亿。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2139484.d.html</link>
+            <guid>2102102</guid>
+            <pubDate>Sat, 03 Apr 2021 00:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国口粮库存能满足一年以上需求】目前我国粮食库存储备数量充足，稻谷、小麦两大口粮库存量能够满足一年以上需求。国家粮食和物资储备局副局长梁彦2日在国新办发布会上说，我国粮食安全形势好主要体现为产量高、供应稳、储备足。最低收购价、临时收储政策等形成的政策性库存数量也非常可观。稻谷、小麦库存量能够满足一年以上市场消费需求，36个大中城市米面成品粮有15天以上市场需求量储备。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4988810.d.html</link>
+            <guid>2102030</guid>
+            <pubDate>Sat, 03 Apr 2021 00:41:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【“十四五”广东计划完成水利投资4000亿元】4月2日，广东召开2021年全省水旱灾害防御工作视频会议。从会上获悉，去年10月以来，广东平均降雨偏少34%，局部地区旱情严重，个别地方采取分区轮供、分时限供等措施保障居民供水。为此，会议宣布，为补齐水利短板，保障防洪和供水安全，“十四五”期间，广东计划完成水利投资4000亿元，加快完善防洪抗旱体系建设，提升应对水旱灾害风险能力。（南方日报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4970729.d.html</link>
@@ -38,6 +98,12 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4955715.d.html</link>
             <guid>2101875</guid>
             <pubDate>Fri, 02 Apr 2021 23:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国取消特朗普时期对国际刑事法院相关人员的制裁】当地时间4月2日，美国取消了此前在特朗普时期针对国际刑事法院相关人员的制裁，人员包括国际刑事法院首席检察官法图·本苏达。2020年4月3日，国际刑事法院裁定，批准对塔利班、阿富汗安全部队、美国军事和情报人员在阿富汗所涉战争罪和反人类罪展开调查。本苏达曾表示，有足够证据表明美方人员于2003年至2004年在阿富汗有对在押人员施行虐待、侵犯个人尊严等行为。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2094127.d.html</link>
+            <guid>2101874</guid>
+            <pubDate>Fri, 02 Apr 2021 23:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【我国首台自研低速双燃料发动机交付】我国自主研发的船用低速双燃料发动机首台机2日在江苏镇江正式交付，该机型的成功交付标志着我国船用动力产业链的自主可控水平进一步增强。双燃料发动机指既可以使用燃油作为燃料，又可以选用天然气作为燃料的发动机，它可以在燃油和燃气两种模式下转换。]]></title>
@@ -308,84 +374,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4720714.d.html</link>
             <guid>2101799</guid>
             <pubDate>Fri, 02 Apr 2021 18:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据The Information：自动驾驶技术公司Argo AI预计今年晚些时候或2022年初进行IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4716909.d.html</link>
-            <guid>2101798</guid>
-            <pubDate>Fri, 02 Apr 2021 18:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体援引美国执法部门消息人士：开车袭击国会警察的嫌疑人已经死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1854310.d.html</link>
-            <guid>2101797</guid>
-            <pubDate>Fri, 02 Apr 2021 18:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内已有32家企业终止了科创板IPO审核】据统计，包括京东数科在内，年内已有32家企业终止了科创板IPO审核，其中还包括AI明星企业依图科技、柔宇科技等。有业内人士表示，这些企业终止的原因不外有二：一是IPO监管审核从严；二是企业内部变动。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4704722.d.html</link>
-            <guid>2101795</guid>
-            <pubDate>Fri, 02 Apr 2021 18:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据外媒，在美国国会大厦外开车撞击国会警察的嫌疑人在持刀下车后被警察开枪击中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4699937.d.html</link>
-            <guid>2101794</guid>
-            <pubDate>Fri, 02 Apr 2021 17:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏伊士运河管理局称排队的船只已接近全部通过】苏伊士运河管理局(SCA)周五表示，此前因巨型集装箱船搁浅而在排队的船只已接近全部通过。SCA主席Osama Rabie对埃及Extra News TV表示，仍有61艘船只在等待，它们将于周六通过运河，周一集装箱船刚脱困时排队的船只有422艘。SCA在一份声明中称，周五约有80艘船只双向通过运河，其中包括一艘美国航空母舰、一艘液化天然气油轮和一艘油轮。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1836477.d.html</link>
-            <guid>2101793</guid>
-            <pubDate>Fri, 02 Apr 2021 17:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国会警察：嫌疑犯和两名被撞国会警察已被送往医院。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4686762.d.html</link>
-            <guid>2101788</guid>
-            <pubDate>Fri, 02 Apr 2021 17:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国国会警方表示，“有人用车撞向两名美国国会警察”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4685013.d.html</link>
-            <guid>2101787</guid>
-            <pubDate>Fri, 02 Apr 2021 17:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国国会办公室收到安全威胁建议称，由于安全威胁，所有国会大厦的建筑现在都禁止出入，可以在建筑物内走动，但要远离窗户，如果在室外，寻找掩体。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4681621.d.html</link>
-            <guid>2101786</guid>
-            <pubDate>Fri, 02 Apr 2021 17:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：不知道国会大厦的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4676564.d.html</link>
-            <guid>2101785</guid>
-            <pubDate>Fri, 02 Apr 2021 17:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：预计美国总统拜登的预算计划将“很快”出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1816753.d.html</link>
-            <guid>2101784</guid>
-            <pubDate>Fri, 02 Apr 2021 17:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据卫星新闻：美国国会工作人员称，美国国会大厦因“外部安全威胁”被封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4675764.d.html</link>
-            <guid>2101783</guid>
-            <pubDate>Fri, 02 Apr 2021 17:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据统计：俄罗斯4月离线初级炼油产能较之前计划上调11.9%至378万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk1813310.d.html</link>
-            <guid>2101782</guid>
-            <pubDate>Fri, 02 Apr 2021 17:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫经济顾问委员Boushey：劳动力市场仍然疲软，几乎没有过热和通货膨胀的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa4671909.d.html</link>
-            <guid>2101781</guid>
-            <pubDate>Fri, 02 Apr 2021 17:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

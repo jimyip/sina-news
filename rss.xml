@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Apr 2021 21:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 22:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【一季度地方债发行风格突变，新增仅364亿】①今年一季度地方政府债券发行仿佛进行了“风格切换”，新增地方债迟迟不发，再融资债券则成主力。数据显示，3月份各地组织发行地方债4771亿元，其中包括新增地方债364亿元，再融资债券4407亿元；②截至3月末，各地已组织发行新增地债364亿元，发行再融资债券8587亿元。专家指出，随着经济内生增长动能的恢复和专项债资金闲置问题待需处理，今年新增地方债发行工作有所“迟到”，主要以偿还旧债的再融资债券为主。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3554727.d.html</link>
+            <guid>2105102</guid>
+            <pubDate>Sun, 04 Apr 2021 22:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新疆喀什地区塔什库尔干县发生3.8级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3552012.d.html</link>
+            <guid>2105101</guid>
+            <pubDate>Sun, 04 Apr 2021 21:58:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[韩国3月外汇储备为4461.3亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3510187.d.html</link>
@@ -255,42 +267,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3327086.d.html</link>
             <guid>2104496</guid>
             <pubDate>Sun, 04 Apr 2021 12:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顺丰控股：力争2021年机场工程全场建设项目交工验收并启动校飞】顺丰控股在“互动易”上回答投资者问题时表示，目前机场主体工程建设正在全面推进，力争2021年机场工程全场建设项目交工验收并启动校飞。此外，与嘉里物流的合作完成后，顺丰控股将把嘉里物流作为拓展海外市场的主要平台，将进一步完善公司一体化综合物流解决方案的能力，并有效补充公司在国际货代、清关等方面的资源与能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3326550.d.html</link>
-            <guid>2104493</guid>
-            <pubDate>Sun, 04 Apr 2021 12:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  从卡塔尔出发的液化天然气船Umm Al Amad将于4月10日抵达英国South Hook液化天然气终端。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3325853.d.html</link>
-            <guid>2104492</guid>
-            <pubDate>Sun, 04 Apr 2021 12:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民政部：清明节假期第二天各地祭扫活动安全有序】据民政部清明节祭扫工作办公室统计，4月4日全国各地开放现场祭扫服务的殡葬服务机构33062个，开通网络祭扫平台1308个，参与服务保障的工作人员约47万余人。当天接待现场祭扫群众约3527万人次，疏导车辆约644万台次，登录网络祭扫的群众约378万人次，比第一天分别增加了82.5％、96.9％和104.3％。通过创新祭扫方式，多渠道、多样化满足群众清明祭扫需求，祭扫活动秩序良好，安全平稳有序。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3324862.d.html</link>
-            <guid>2104490</guid>
-            <pubDate>Sun, 04 Apr 2021 12:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度国务部长：马哈拉施特拉邦下令周末全面封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6182357.d.html</link>
-            <guid>2104489</guid>
-            <pubDate>Sun, 04 Apr 2021 12:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【清明节假期第二日 广东重点景区场馆总预约33.7万人次】今天（4日）是清明假期第二日，据广东省文旅厅通报：截至4月4日15时10分，广东省重点景区场馆总预约数为33.7万人次、全国排名第一，其中通过系统对接景区预约总数为27.9万人次，使用分时预约系统景区预约总数为5.8万人次。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6181304.d.html</link>
-            <guid>2104485</guid>
-            <pubDate>Sun, 04 Apr 2021 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度尼西亚国家抗灾署发言人4日说，当天凌晨该国东努沙登加拉省暴雨引发的山洪已造成至少44人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6179690.d.html</link>
-            <guid>2104484</guid>
-            <pubDate>Sun, 04 Apr 2021 11:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

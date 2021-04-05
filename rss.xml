@@ -4,11 +4,56 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Apr 2021 00:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 01:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：LG电子将关停手机业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6568022.d.html</link>
+            <guid>2105171</guid>
+            <pubDate>Mon, 05 Apr 2021 01:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄副外长：美经济政策可预见性正下降，使用美元可靠性存疑】据俄罗斯卫星网刚刚消息，俄罗斯副外交部长潘金4日表示，由于美国经济政策的可预见性正在下降，因此在双边贸易中使用美元的可靠性存疑。俄罗斯在交易中减少使用美元是对当前地缘政治形势作出的反应。“美国经济政策可预见性的下降，以及他们失控的不合理限制措施，给在合约中将美元用作首要货币的可靠性和便捷性带来疑问。”潘金说道。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3701239.d.html</link>
+            <guid>2105166</guid>
+            <pubDate>Mon, 05 Apr 2021 01:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴菲特旗下伯克希尔连续第三年发行日元债】巴菲特旗下伯克希尔哈撒韦公司周一启动了一次多批次日元债券发售的营销活动，此前几个月，该公司该公司宣布投资日本最大的几家贸易公司。这是伯克希尔连续第三年发行日元计价债券。2019年该公司首次发售日元债，规模达4300亿日元（约合38.9亿美元），是当时外国公司最大的日元债发行之一。2020年，该公司又在日本发行了1955亿日元（约合18亿美元）的债券。]]></title>
+            <guid>2105165</guid>
+            <pubDate>Mon, 05 Apr 2021 01:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚3月TD-MI通胀指数月率0.4%，前值 0.10%； 澳大利亚3月TD-MI通胀指数年率1.8%，前值 1.60%。]]></title>
+            <guid>2105160</guid>
+            <pubDate>Mon, 05 Apr 2021 01:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【正式获批，5家银行将合并成山西银行】银保监会发布了《关于筹建山西银行股份有限公司的批复》，同意大同银行、长治银行、晋城银行、晋中银行、阳泉市商业银行合并重组设立山西银行，银行类别为城市商业银行，股东资格由山西银保监局按照有关法律法规审批。批复指出，筹备组应严格按照有关法律法规要求办理筹建事宜，自批复之日起6个月内完成筹建工作。筹建期间接受山西银保监局的监督指导。筹建工作完成后，应按照有关规定和程序向山西银保监局提出开业申请 。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3687262.d.html</link>
+            <guid>2105159</guid>
+            <pubDate>Mon, 05 Apr 2021 00:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诺贝尔经济学家奖获得者蒙代尔去世 享年88岁】北京时间4月4日，1999年诺贝尔经济学奖得主罗伯特·蒙代尔（Robert A． Mundell）在意大利逝世，享年88岁。罗伯特·蒙代尔是“最优货币区理论”的奠基人，被誉为“欧元之父”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6542894.d.html</link>
+            <guid>2105158</guid>
+            <pubDate>Mon, 05 Apr 2021 00:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾3月 Markit制造业PMI为52.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3671772.d.html</link>
+            <guid>2105154</guid>
+            <pubDate>Mon, 05 Apr 2021 00:38:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本3月Markit服务业PMI48.3，前值46.5；日本3月Markit综合PMI49.9，前值48.3。]]></title>
+            <guid>2105149</guid>
+            <pubDate>Mon, 05 Apr 2021 00:31:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【清明假期首日发送旅客同比增长157.26%，民航发送旅客增长360.60%】 据经济日报，交通运输部数据显示，4月3日，全国铁路、公路、水路、民航发送旅客总量5143.4万人次，环比增长14.23%，比2019年同期下降3.04%，比2020年同期增长157.26%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3659997.d.html</link>
@@ -230,77 +275,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6202163.d.html</link>
             <guid>2104550</guid>
             <pubDate>Sun, 04 Apr 2021 16:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国纽约街头两名枪手与警察交火 致1人死亡2人受伤】当地时间4月3日晚，美国纽约市警察局助理局长肯尼思·莱尔在新闻发布会上通报，两名枪手与警察发生交火事件。一人被枪手追赶并被多次击中，最后因伤势过重死亡。一名嫌疑人和一名旁观者受伤，已被送往当地医院接受治疗。目前警方还没有掌握犯罪嫌疑人开枪的动机，另外尚不清楚杀害受害者和伤害旁观者的枪支来自何处。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6201359.d.html</link>
-            <guid>2104549</guid>
-            <pubDate>Sun, 04 Apr 2021 16:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【加密交易所INX已完成3200万美元融资】加密交易所INX在多伦多证券交易所（TSX）筹集了3960万加元（约3200万美元）。此次发行通过与一家特殊目的收购公司（SPAC）Valdy Investments合并进行，市值为2.2亿加元。一旦获得所有监管部门的批准，该公司的股票将开始在TSX上交易。此前有消息报道称，加密交易所INX计划在多伦多证券交易所创业板（TSXV）上市，额外募集近2000万美元资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3343113.d.html</link>
-            <guid>2104548</guid>
-            <pubDate>Sun, 04 Apr 2021 16:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据法新社援引安全部门消息人士称，周日两枚火箭弹击中了伊拉克巴格达北部的美国空军基地附近。]]></title>
-            <guid>2104545</guid>
-            <pubDate>Sun, 04 Apr 2021 16:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国一名资深共和党参议员表示，拜登提出的2.25万亿美元支出计划需要缩减三分之二以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6199020.d.html</link>
-            <guid>2104543</guid>
-            <pubDate>Sun, 04 Apr 2021 15:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：阿富汗喀布尔省境内一辆藏有炸弹的汽车发生爆炸，造成3人死亡，12人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6198849.d.html</link>
-            <guid>2104542</guid>
-            <pubDate>Sun, 04 Apr 2021 15:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：伊朗方面排除了与美国就维也纳举办的核协议会议上进行直接或间接会谈的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3340623.d.html</link>
-            <guid>2104541</guid>
-            <pubDate>Sun, 04 Apr 2021 15:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  埃及内阁：埃及正敲定经济改革方案的新阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6198726.d.html</link>
-            <guid>2104540</guid>
-            <pubDate>Sun, 04 Apr 2021 15:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国弗吉尼亚海滩再发枪击案 造成1人死亡2人受伤】当地时间4月3日晚，美国弗吉尼亚州弗吉尼亚海滩警局通报，弗吉尼亚海滩发生枪击事件，造成1人死亡、2人受伤。警方在晚上10时左右接到报警，赶到现场后发现三人被枪击中，其中一名受害者现场被宣布死亡，另外两名受害者受重伤，被紧急送往医院治疗。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6197948.d.html</link>
-            <guid>2104538</guid>
-            <pubDate>Sun, 04 Apr 2021 15:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印尼发生洪灾至少造成41人遇难】印度尼西亚国家抗灾署4日傍晚向媒体通报，印尼东努沙登加拉省当天凌晨发生洪灾，目前已造成41人死亡、27人失踪。印尼国家抗灾署说，随着搜救和统计工作的继续，预计本次灾害导致的人员伤亡及财产损失还将进一步增加。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6197857.d.html</link>
-            <guid>2104537</guid>
-            <pubDate>Sun, 04 Apr 2021 15:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国经济部长：已与欧盟达成救助法国航空公司的新协议】当地时间4月4日，法国经济、财政与振兴部长布鲁诺·勒梅尔表示，法国政府已经与欧盟达成救助法国航空公司的新协议。勒梅尔拒绝透露协议具体内容。他表示，法国政府与欧盟就向法航提供新的政府援助进行了长时间艰苦谈判，最终就如何保证公平竞争与欧盟达成一致。法航将在5日就此举行董事会。有媒体透露，法国政府或将为法航再提供30亿欧元政府贷款。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6197593.d.html</link>
-            <guid>2104536</guid>
-            <pubDate>Sun, 04 Apr 2021 15:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据法新社援引安全部门消息人士称，周日两枚火箭弹击中了伊拉克巴格达北部的美国空军基地附近。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk3338801.d.html</link>
-            <guid>2104535</guid>
-            <pubDate>Sun, 04 Apr 2021 15:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【3日铁路发送1463.6万人次，创今年单日新高】来自中国国家铁路集团有限公司的统计显示，4月3日，全国铁路发送旅客1463.6万人次，创今年单日旅客发送量新高。4月4日，全国铁路预计发送旅客925万人次，计划加开旅客列车660列。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa6196521.d.html</link>
-            <guid>2104534</guid>
-            <pubDate>Sun, 04 Apr 2021 15:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

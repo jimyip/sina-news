@@ -4,11 +4,21 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 06 Apr 2021 21:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 22:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：04月07日05时48分在西藏那曲市比如县（北纬31.89度，东经92.84度）发生4.7级地震，震源深度10千米。]]></title>
+            <guid>2108390</guid>
+            <pubDate>Tue, 06 Apr 2021 21:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：04月07日05时48分在西藏那曲市比如县附近（北纬31.94度，东经92.85度）发生4.5级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2108389</guid>
+            <pubDate>Tue, 06 Apr 2021 21:53:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  外汇支付公司Tempus负责交易的副总裁John Doyle称，我认为新一季开始我们看到一些获利了结。美债收益率在帮助美元站稳脚跟方面发挥了作用。如今收益率的下降将会给股市添一把火，并降低对美元的需求。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8214186.d.html</link>
@@ -331,42 +341,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8204621.d.html</link>
             <guid>2107869</guid>
             <pubDate>Tue, 06 Apr 2021 17:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  墨西哥国家石油公司：到2024年，公司的原油加工规模将扩大20万桶/天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5346708.d.html</link>
-            <guid>2107865</guid>
-            <pubDate>Tue, 06 Apr 2021 17:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日经新闻：预计CVC最早将于周三正式提出收购东芝的提议，交易规模为200亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5346451.d.html</link>
-            <guid>2107862</guid>
-            <pubDate>Tue, 06 Apr 2021 17:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄罗斯卫星网：法国外长表示，欧盟将对缅甸军政府实施新的经济制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8203854.d.html</link>
-            <guid>2107861</guid>
-            <pubDate>Tue, 06 Apr 2021 17:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯经济部：预计俄罗斯4月通胀率下滑至同比增长5.5%-5.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8203848.d.html</link>
-            <guid>2107860</guid>
-            <pubDate>Tue, 06 Apr 2021 17:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  秘鲁2月份金和银产量较1月份有所下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8203453.d.html</link>
-            <guid>2107857</guid>
-            <pubDate>Tue, 06 Apr 2021 17:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  秘鲁2月份的锌产量较1月份增长了9.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5345932.d.html</link>
-            <guid>2107856</guid>
-            <pubDate>Tue, 06 Apr 2021 17:01:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

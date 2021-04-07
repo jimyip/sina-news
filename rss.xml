@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Apr 2021 15:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 16:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[枪支股涨跌各异，SWBI目前涨2.8%，RGR涨超0.4%，VSTO则跌超1.5%，据Politico报道，美国总统拜登4月7日将针对枪支问题披露行政命令，其将下令对那些未经登记的买家扩大调查，可能会宣布关于酒精、烟草、轻武器官员的人选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8405453.d.html</link>
+            <guid>2110356</guid>
+            <pubDate>Wed, 07 Apr 2021 16:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯加里宁格勒铁路公司新闻处发布消息称，2021年第一季度，通过加里宁格勒铁路中国往返欧洲的集装箱过境运输量增长9倍。（俄罗斯卫星通讯社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5547811.d.html</link>
+            <guid>2110355</guid>
+            <pubDate>Wed, 07 Apr 2021 16:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Politico：拜登将于周四公布有关美国枪支问题的行政措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8404621.d.html</link>
+            <guid>2110353</guid>
+            <pubDate>Wed, 07 Apr 2021 16:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国通过终止利润转移，10年内将产生7000亿美元的税收。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402470.d.html</link>
+            <guid>2110335</guid>
+            <pubDate>Wed, 07 Apr 2021 15:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京再发租赁行业黑名单，70家中介和租赁企业被点名】 4月7日，北京市住建委发布了第二批、42家租赁行业重点关注企业名单，连同首批名单，共有70家中介和租赁企业被“点名”，北京市住建委提醒租房人谨慎选择名单中的企业。未来，主管部门还将根据日常监管和信访投诉情况，梳理违法违规行为较多的租赁和中介企业，定期向社会发布。目前，全国已有多个城市针对住房租赁行业建立了类似的“黑名单“机制。与此同时，针对长租公寓频频“爆雷”暴露出来的监管盲区，北京、上海、杭州、南京、深圳等多地已经加强了对租金贷及租金押金方面的监管。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5544703.d.html</link>
+            <guid>2110330</guid>
+            <pubDate>Wed, 07 Apr 2021 15:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃：目前我们还没有看到系统性的债务危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402283.d.html</link>
+            <guid>2110328</guid>
+            <pubDate>Wed, 07 Apr 2021 15:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃：各国可以相信，特别提款权正在向前发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402179.d.html</link>
+            <guid>2110323</guid>
+            <pubDate>Wed, 07 Apr 2021 15:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国5年期国债收益率跌至0.845%，为3月29日以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402091.d.html</link>
+            <guid>2110321</guid>
+            <pubDate>Wed, 07 Apr 2021 15:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国银行：将巴西2021年通胀预期从4.6％上调至5.2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543998.d.html</link>
+            <guid>2110313</guid>
+            <pubDate>Wed, 07 Apr 2021 15:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃：对于IMF董事会批准特别提款权分配感到乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543852.d.html</link>
+            <guid>2110309</guid>
+            <pubDate>Wed, 07 Apr 2021 15:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃：国际货币基金组织正在寻找改革减贫与增长信托基金的方法，为非洲提供更优惠的融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543756.d.html</link>
+            <guid>2110307</guid>
+            <pubDate>Wed, 07 Apr 2021 15:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四年间国有大行已缩减网点2667个，“5G银行”遍地开花】 根据2016-20年六家大行年报数据统计发现，这四年之间大行网点数量已从10.93万个缩减至10.66万个，共减少2667个网点。2019年建行、工行、中行首推“5G银行”，也是领一时风骚，去年这一概念也在各家银行、各地遍地开花，农行就在28个省级分行建设了69家5G智慧银行网点，其中县域15家。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543752.d.html</link>
+            <guid>2110306</guid>
+            <pubDate>Wed, 07 Apr 2021 15:13:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  希腊教育部长：希腊将从4月12日起开放高中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8401155.d.html</link>
@@ -62,96 +134,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8397602.d.html</link>
             <guid>2110257</guid>
             <pubDate>Wed, 07 Apr 2021 14:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  20国集团：各国必须避免竞争性的汇率贬值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8397393.d.html</link>
-            <guid>2110255</guid>
-            <pubDate>Wed, 07 Apr 2021 14:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2月份贸易逆差扩大至711亿美元，创下历史最高纪录。值得注意的是，自2020年2月以来一直处于盈余（净出口国）后，2月份美国石油产品贸易重回赤字。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5539472.d.html</link>
-            <guid>2110248</guid>
-            <pubDate>Wed, 07 Apr 2021 14:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Snap盘中拉升，现涨6.2%，报60.46美元，本月以来已累涨超15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5539402.d.html</link>
-            <guid>2110246</guid>
-            <pubDate>Wed, 07 Apr 2021 14:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本财务大臣麻生太郎：汇率应该反映经济基本面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8396948.d.html</link>
-            <guid>2110243</guid>
-            <pubDate>Wed, 07 Apr 2021 14:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  20国集团：公平、开放的贸易对恢复经济增长至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8396846.d.html</link>
-            <guid>2110241</guid>
-            <pubDate>Wed, 07 Apr 2021 14:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中概股联代科技上市次日继续暴涨，现涨超115%，此前已触发三次熔断。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8396108.d.html</link>
-            <guid>2110233</guid>
-            <pubDate>Wed, 07 Apr 2021 14:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江淮蔚来先进制造基地第10万辆整车下线】今日，江淮蔚来先进制造基地第10万辆新能源整车成功下线，江汽集团与蔚来汽车的战略合作迎来又一个里程碑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5538067.d.html</link>
-            <guid>2110228</guid>
-            <pubDate>Wed, 07 Apr 2021 14:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲药品管理局局长Cooke：将继续监测科学证据，必要时发布进一步建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8395397.d.html</link>
-            <guid>2110223</guid>
-            <pubDate>Wed, 07 Apr 2021 14:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东部战区新闻发言人就美“麦凯恩”号驱逐舰穿航台湾海峡发表谈话】东部战区新闻发言人张春晖空军大校表示，4月7日，美“麦凯恩”号导弹驱逐舰穿航台湾海峡。中国人民解放军东部战区全程对其进行跟踪监视。美舰此举向“台独”传递错误信号，蓄意干扰破坏地区局势，危害台海和平稳定，我们对此表示坚决反对。战区部队将严密防范警戒，随时应对一切威胁挑衅，忠实履行担负的职责使命。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8394596.d.html</link>
-            <guid>2110214</guid>
-            <pubDate>Wed, 07 Apr 2021 14:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：克马德克群岛发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5536754.d.html</link>
-            <guid>2110212</guid>
-            <pubDate>Wed, 07 Apr 2021 14:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽省委省政府与中国电科举行工作座谈】中国电科消息，4月7日上午，安徽省委省政府与中国电科在合肥举行工作座谈。中国电子科技集团董事长陈肇雄表示，中国电科将主动融入安徽发展大局，不断优化在皖重点业务布局，谋划推出更多技术水平高、市场前景好的重大项目，更好地助推新阶段现代化美好安徽建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8394244.d.html</link>
-            <guid>2110211</guid>
-            <pubDate>Wed, 07 Apr 2021 14:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智能网联汽车将实施准入管理 政策支持力度提升】工信部4月7日发布《智能网联汽车生产企业及产品准入管理指南（试行）》（征求意见稿），提出智能网联汽车生产企业应依法收集、使用和保护个人信息，实施数据分类分级管理，制定重要数据目录，不得泄露涉及国家安全的敏感信息。申万宏源证券朱型檑表示，政策对车联网产业的推动力度自2020年以来明显加大，国内发展车联网的路径和规划已非常明确，推动智能网联汽车大规模应用。相关公司有千方科技、四维图新等。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8394189.d.html</link>
-            <guid>2110210</guid>
-            <pubDate>Wed, 07 Apr 2021 14:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成本推动需求良好 行业巨头大幅上调泛酸钙价格】由于原料价格上涨，国内外厂家全线上调泛酸钙价格。4月6日帝斯曼集团宣布，将其罗维素泛酸钙产品价格调高40%。环保监管趋严，一定程度上影响泛酸钙相关原材料如泛酸内酯的供给，导致原料价格上涨，推动泛酸钙价格上涨；需求方面，泛酸钙有62%用于饲料添加剂，随着国内养猪业大规模扩产，饲料需求大增。自2017年泛酸钙价格创出历史最高价后一路下滑，库存处于极低水平，企业本身有较强提价意愿，短期价格有望继续上涨。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8393981.d.html</link>
-            <guid>2110208</guid>
-            <pubDate>Wed, 07 Apr 2021 14:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲药品管理局（EMA）的安全小组要求对免疫反应进行新的研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8393343.d.html</link>
-            <guid>2110203</guid>
-            <pubDate>Wed, 07 Apr 2021 13:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有色金属行业碳达峰方案研究中 争取提前碳达峰】近日中国有色金属工业协会第四届第一次会员代表大会暨理事会换届会议在北京召开。会议介绍，最近，国家有关部门研究了《有色金属行业碳达峰实施方案》，正在征求行业协会和企业的意见，初步提出到2025有色金属行业力争率先实现碳达峰，2040年力争实现减碳40%。这一计划比全国的碳达峰时间要至少提前五年。（中证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5535663.d.html</link>
-            <guid>2110202</guid>
-            <pubDate>Wed, 07 Apr 2021 13:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

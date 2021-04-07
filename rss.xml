@@ -4,11 +4,95 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Apr 2021 17:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 18:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国总统拜登：（基建）计划是针对蓝领阶层的蓝图。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5555186.d.html</link>
+            <guid>2110439</guid>
+            <pubDate>Wed, 07 Apr 2021 18:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫管理和预算办公室表示，将于周五公布总统对2022财年的预算申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5555162.d.html</link>
+            <guid>2110438</guid>
+            <pubDate>Wed, 07 Apr 2021 18:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：需要看到基础设施对工人的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5555065.d.html</link>
+            <guid>2110436</guid>
+            <pubDate>Wed, 07 Apr 2021 18:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国10年期国债收益率小幅上涨至1.654%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5554621.d.html</link>
+            <guid>2110427</guid>
+            <pubDate>Wed, 07 Apr 2021 18:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿联酋阿布扎比国家石油公司ADNOC：将5月份UMM LULU原油价格设定为较穆尔班原油贴水0.05美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5554147.d.html</link>
+            <guid>2110417</guid>
+            <pubDate>Wed, 07 Apr 2021 17:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿联酋阿布扎比国家石油公司ADNOC：将5月份DAS原油价格设定为较穆尔班原油价格贴水0.35美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8411483.d.html</link>
+            <guid>2110416</guid>
+            <pubDate>Wed, 07 Apr 2021 17:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿联酋阿布扎比国家石油公司ADNOC：将5月份UPPER ZAKUM原油价格设定为较穆尔班原油价格贴水0.15美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8411477.d.html</link>
+            <guid>2110415</guid>
+            <pubDate>Wed, 07 Apr 2021 17:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫考虑就北溪二号项目派遣特使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5553854.d.html</link>
+            <guid>2110412</guid>
+            <pubDate>Wed, 07 Apr 2021 17:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据Politico：美国白宫正在考虑任命“北溪2号”天然气管道项目问题的特使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5553837.d.html</link>
+            <guid>2110410</guid>
+            <pubDate>Wed, 07 Apr 2021 17:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SpaceX：已确认部署了60颗星链卫星，完成了SpaceX今年的第10次任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5553623.d.html</link>
+            <guid>2110408</guid>
+            <pubDate>Wed, 07 Apr 2021 17:42:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  腾讯控股ADR维持7.7%的跌势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5553565.d.html</link>
+            <guid>2110407</guid>
+            <pubDate>Wed, 07 Apr 2021 17:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  PROSUS据悉以595港元出售腾讯的股票，为指导价区间的顶端。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8410848.d.html</link>
+            <guid>2110406</guid>
+            <pubDate>Wed, 07 Apr 2021 17:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国民主党人敦促延长紧急资本投资的最后期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5553258.d.html</link>
+            <guid>2110403</guid>
+            <pubDate>Wed, 07 Apr 2021 17:33:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：希望“缩减版”的预算在本周出炉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5552983.d.html</link>
+            <guid>2110401</guid>
+            <pubDate>Wed, 07 Apr 2021 17:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  fuboTV(FUBO.N)盘中跌超5%，报21.23美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8410231.d.html</link>
@@ -188,72 +272,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8404621.d.html</link>
             <guid>2110353</guid>
             <pubDate>Wed, 07 Apr 2021 16:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：美国通过终止利润转移，10年内将产生7000亿美元的税收。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402470.d.html</link>
-            <guid>2110335</guid>
-            <pubDate>Wed, 07 Apr 2021 15:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京再发租赁行业黑名单，70家中介和租赁企业被点名】 4月7日，北京市住建委发布了第二批、42家租赁行业重点关注企业名单，连同首批名单，共有70家中介和租赁企业被“点名”，北京市住建委提醒租房人谨慎选择名单中的企业。未来，主管部门还将根据日常监管和信访投诉情况，梳理违法违规行为较多的租赁和中介企业，定期向社会发布。目前，全国已有多个城市针对住房租赁行业建立了类似的“黑名单“机制。与此同时，针对长租公寓频频“爆雷”暴露出来的监管盲区，北京、上海、杭州、南京、深圳等多地已经加强了对租金贷及租金押金方面的监管。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5544703.d.html</link>
-            <guid>2110330</guid>
-            <pubDate>Wed, 07 Apr 2021 15:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：目前我们还没有看到系统性的债务危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402283.d.html</link>
-            <guid>2110328</guid>
-            <pubDate>Wed, 07 Apr 2021 15:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：各国可以相信，特别提款权正在向前发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402179.d.html</link>
-            <guid>2110323</guid>
-            <pubDate>Wed, 07 Apr 2021 15:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国5年期国债收益率跌至0.845%，为3月29日以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8402091.d.html</link>
-            <guid>2110321</guid>
-            <pubDate>Wed, 07 Apr 2021 15:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行：将巴西2021年通胀预期从4.6％上调至5.2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543998.d.html</link>
-            <guid>2110313</guid>
-            <pubDate>Wed, 07 Apr 2021 15:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：对于IMF董事会批准特别提款权分配感到乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543852.d.html</link>
-            <guid>2110309</guid>
-            <pubDate>Wed, 07 Apr 2021 15:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：国际货币基金组织正在寻找改革减贫与增长信托基金的方法，为非洲提供更优惠的融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543756.d.html</link>
-            <guid>2110307</guid>
-            <pubDate>Wed, 07 Apr 2021 15:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四年间国有大行已缩减网点2667个，“5G银行”遍地开花】 根据2016-20年六家大行年报数据统计发现，这四年之间大行网点数量已从10.93万个缩减至10.66万个，共减少2667个网点。2019年建行、工行、中行首推“5G银行”，也是领一时风骚，去年这一概念也在各家银行、各地遍地开花，农行就在28个省级分行建设了69家5G智慧银行网点，其中县域15家。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543752.d.html</link>
-            <guid>2110306</guid>
-            <pubDate>Wed, 07 Apr 2021 15:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  希腊教育部长：希腊将从4月12日起开放高中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmyaawa8401155.d.html</link>
-            <guid>2110302</guid>
-            <pubDate>Wed, 07 Apr 2021 15:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：国际货币基金组织强烈支持各国加强减排承诺的势头。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-07/detail-ikmxzfmk5543359.d.html</link>
-            <guid>2110300</guid>
-            <pubDate>Wed, 07 Apr 2021 15:08:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

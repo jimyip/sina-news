@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Apr 2021 20:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 21:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2021年一季度IPO融资全球大比拼：纳斯达克第一，港交所第二，上交所第五】 德勤中国全国上市业务组发布2021年第一季度中国内地和香港新股市场回顾及展望的报告显示，根据募集资金和新股数量，2021年第一季，纳斯达克夺得全球新股市场的头把交椅，有87只新股在纳斯达克上市，融资1962亿港元。香港交易所由于3只极大型新股上市（快手科技、百度集团、哔哩哔哩）的助推位居第二，它有32只新股上市，融资1328亿港元；排第三位的纽约证券交易所有25只新股上市，融资1295亿港元；排名第四位的伦敦证券交易所有21只新股上市，融资670亿港元；而上海证券交易以57只新股、融资626亿港元排名第五位。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5561644.d.html</link>
+            <guid>2110501</guid>
+            <pubDate>Wed, 07 Apr 2021 21:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  嘉年华邮轮(CCL.N)CEO：美国疾病控制与预防中心(CDC)有关邮轮的指导方针“完全不可行”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8418202.d.html</link>
+            <guid>2110497</guid>
+            <pubDate>Wed, 07 Apr 2021 20:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：我对北爱尔兰发生的暴力事件深感担忧，特别是对警察、公交车司机和一名记者的袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8417816.d.html</link>
+            <guid>2110495</guid>
+            <pubDate>Wed, 07 Apr 2021 20:38:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国总统拜登的基础设施计划要求1000亿美元用于新消费电动汽车的部分退款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8417484.d.html</link>
+            <guid>2110493</guid>
+            <pubDate>Wed, 07 Apr 2021 20:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11个板块涨跌各异，通信服务板块收涨0.72%，科技板块涨0.54%，能源和金融板块均涨超0.4%，原材料板块表现最差，收跌1.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5560229.d.html</link>
+            <guid>2110492</guid>
+            <pubDate>Wed, 07 Apr 2021 20:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：据悉Twitter已经讨论过通过投资40亿美元接手Clubhouse的事宜。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5559557.d.html</link>
@@ -193,54 +223,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5553258.d.html</link>
             <guid>2110403</guid>
             <pubDate>Wed, 07 Apr 2021 17:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：希望“缩减版”的预算在本周出炉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5552983.d.html</link>
-            <guid>2110401</guid>
-            <pubDate>Wed, 07 Apr 2021 17:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  fuboTV(FUBO.N)盘中跌超5%，报21.23美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8410231.d.html</link>
-            <guid>2110399</guid>
-            <pubDate>Wed, 07 Apr 2021 17:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  热门中概股跌幅扩大，逸仙电商跌超11%，亿航智能跌9.53%，拼多多跌近7%，趣头条跌6.43%，哔哩哔哩跌6.4%，爱奇艺、雾芯科技、晶科能源、唯品会跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5552701.d.html</link>
-            <guid>2110398</guid>
-            <pubDate>Wed, 07 Apr 2021 17:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国防合约商雷神：拜登的税收计划将使公司损失约10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8409966.d.html</link>
-            <guid>2110397</guid>
-            <pubDate>Wed, 07 Apr 2021 17:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国气候特使KERRY：与印度总理莫迪讨论了美国如何帮助筹集资金，以降低生产替代能源的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8409960.d.html</link>
-            <guid>2110396</guid>
-            <pubDate>Wed, 07 Apr 2021 17:21:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据CNN：美国专车公司LYFT的总裁ZIMMER表示支持拜登的增税举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8409644.d.html</link>
-            <guid>2110392</guid>
-            <pubDate>Wed, 07 Apr 2021 17:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛聘用瑞银前银行家，以将该行在中东地区的财富业务翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5552134.d.html</link>
-            <guid>2110391</guid>
-            <pubDate>Wed, 07 Apr 2021 17:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国气候特使KERRY：市场正在从化石燃料转向可再生能源。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8409550.d.html</link>
-            <guid>2110390</guid>
-            <pubDate>Wed, 07 Apr 2021 17:12:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

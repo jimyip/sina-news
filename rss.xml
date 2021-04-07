@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Apr 2021 19:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 20:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：据悉Twitter已经讨论过通过投资40亿美元接手Clubhouse的事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5559557.d.html</link>
+            <guid>2110486</guid>
+            <pubDate>Wed, 07 Apr 2021 20:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美股经纪商Robinhood据悉将在IPO之前寻求更多的银行信贷；据悉该公司正在与贷方谈判增加信贷额度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5559316.d.html</link>
+            <guid>2110485</guid>
+            <pubDate>Wed, 07 Apr 2021 20:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院发言人表示，美国准备解除对伊朗的制裁，包括与伊朗核协议不一致的制裁，但是没有给出细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8415842.d.html</link>
+            <guid>2110483</guid>
+            <pubDate>Wed, 07 Apr 2021 19:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院表示，伊朗核谈判困难重重，原因有很多，包括美国和伊朗之间缺乏信任。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5558231.d.html</link>
+            <guid>2110482</guid>
+            <pubDate>Wed, 07 Apr 2021 19:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 中国地震台网正式测定：04月08日03时25分在山西临汾市洪洞县（北纬36.28度，东经111.70度）发生3.1级地震，震源深度10千米。]]></title>
+            <guid>2110481</guid>
+            <pubDate>Wed, 07 Apr 2021 19:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率刷新日高至1.67%上方，日内整体涨幅扩大至超过1.2个基点，欧市盘初曾走软至1.6261%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5558048.d.html</link>
+            <guid>2110479</guid>
+            <pubDate>Wed, 07 Apr 2021 19:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：04月08日03时25分在山西临汾市洪洞县附近发生3.3级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5557820.d.html</link>
+            <guid>2110477</guid>
+            <pubDate>Wed, 07 Apr 2021 19:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纽元兑美元NZD/USD跌至0.7下方，现跌0.82%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8415070.d.html</link>
+            <guid>2110475</guid>
+            <pubDate>Wed, 07 Apr 2021 19:26:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  加拿大安大略省宣布从周四开始实施为期四周的居家令，关闭除杂货店和药房外的所有零售商店。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8413605.d.html</link>
@@ -194,114 +241,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8409550.d.html</link>
             <guid>2110390</guid>
             <pubDate>Wed, 07 Apr 2021 17:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  布伦特原油期货回升至63美元/桶，日内涨0.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5551515.d.html</link>
-            <guid>2110386</guid>
-            <pubDate>Wed, 07 Apr 2021 17:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果推出更新版的 'FIND MY'应用程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5551329.d.html</link>
-            <guid>2110385</guid>
-            <pubDate>Wed, 07 Apr 2021 17:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【3月末我国外储规模为31700亿美元】根据国家外汇管理局4月7日发布的数据，截至2021年3月末，我国外汇储备规模为31700亿美元，较2月末下降350亿美元，降幅为1.09%。业内人士表示，3月份我国外汇储备规模环比回落主要是估值因素变动导致的，属正常现象。展望未来，我国国内经济发展动力不断增强，积极因素明显增多，有利于外汇储备规模保持基本稳定。数据显示，2021年3月，美元指数上涨，非美元货币相对美元下跌，主要国家金融资产价格涨跌互现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8408561.d.html</link>
-            <guid>2110383</guid>
-            <pubDate>Wed, 07 Apr 2021 16:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：谷歌I/O大会将于5月18日至20日在线上举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5551050.d.html</link>
-            <guid>2110382</guid>
-            <pubDate>Wed, 07 Apr 2021 16:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  机构调查：预计周四的EIA报告显示，截至4月2日当周的天然气库存增加210亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5550985.d.html</link>
-            <guid>2110381</guid>
-            <pubDate>Wed, 07 Apr 2021 16:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫新闻秘书珍·普萨基：政府计划雇佣更多的国税局人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8408462.d.html</link>
-            <guid>2110380</guid>
-            <pubDate>Wed, 07 Apr 2021 16:53:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMD预计和赛灵思的交易将于2021年底完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8408396.d.html</link>
-            <guid>2110379</guid>
-            <pubDate>Wed, 07 Apr 2021 16:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMD和XILINX的股东以压倒性多数批准AMD收购XILINX。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8408318.d.html</link>
-            <guid>2110378</guid>
-            <pubDate>Wed, 07 Apr 2021 16:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商务部长雷蒙多：将使用一切可用的工具来保护美国的就业机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8408301.d.html</link>
-            <guid>2110377</guid>
-            <pubDate>Wed, 07 Apr 2021 16:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西总统博索纳罗：将尽一切可能将国有企业私有化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8408300.d.html</link>
-            <guid>2110376</guid>
-            <pubDate>Wed, 07 Apr 2021 16:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商务部长雷蒙多：对钢铁和铝征收关税有助于保住美国钢铁和铝行业的就业机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5550820.d.html</link>
-            <guid>2110375</guid>
-            <pubDate>Wed, 07 Apr 2021 16:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  SpaceX：猎鹰9号的一级火箭已经成功降落在海上无人驾驶驳船上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5550609.d.html</link>
-            <guid>2110374</guid>
-            <pubDate>Wed, 07 Apr 2021 16:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉推迟了新款Model S和Model X电动汽车的交付】据ELECTREK，订购特斯拉新款Model S和Model X的买家发现，由于车辆的生产推迟，它们的交货时间也随之推迟。新款Model S的买家发现交货日期被推迟了几个月，其中大多数本来预计在3月和4月交货，但现在已经被推迟到5月至7月。对于新款Model X，特斯拉预计显著的新订单交付时间在5月到6月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8407863.d.html</link>
-            <guid>2110373</guid>
-            <pubDate>Wed, 07 Apr 2021 16:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美、布两油短线走高0.3美元，跌幅均收窄至1%以内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8407688.d.html</link>
-            <guid>2110371</guid>
-            <pubDate>Wed, 07 Apr 2021 16:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国SEC官员对SPAC上市热潮发出警告】 美国证券交易委员会（SEC）官员John Coates出席一场法律会议时警告称，特殊目的收购公司（SPAC）存在“一些重大但尚未发现的”问题，这些问题“不会以任何方式被阻止，这是一种相对来说尚未完善的机制，尽管它们已经存在了一段时间”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8407565.d.html</link>
-            <guid>2110370</guid>
-            <pubDate>Wed, 07 Apr 2021 16:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  SpaceX在美国佛罗里达州执行第24次星链卫星发射任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8407536.d.html</link>
-            <guid>2110369</guid>
-            <pubDate>Wed, 07 Apr 2021 16:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国商务部长雷蒙多：美国必须投资半导体制造。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8407160.d.html</link>
-            <guid>2110368</guid>
-            <pubDate>Wed, 07 Apr 2021 16:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【尽管涨势停滞，摩根士丹利仍看好特斯拉】摩根士丹利表示，特斯拉可能会从美国的基础设施计划中受益，而汽车行业的投资者如果不持有特斯拉的股票，则有亏损的风险。该行分析师Adam Jonas在报告中表示，拜登政府提议拨款1740亿美元开发美国的电动汽车生态系统，这可能会加大特斯拉相对于传统汽车公司、甚至一些新竞争者的优势。然而，他警告称，情况的发展可能会出现波动，带来一些近期的不确定性，每年都可能有所不同。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8406638.d.html</link>
-            <guid>2110366</guid>
-            <pubDate>Wed, 07 Apr 2021 16:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

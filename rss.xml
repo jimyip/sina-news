@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Apr 2021 18:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 19:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  加拿大安大略省宣布从周四开始实施为期四周的居家令，关闭除杂货店和药房外的所有零售商店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8413605.d.html</link>
+            <guid>2110458</guid>
+            <pubDate>Wed, 07 Apr 2021 18:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特小幅拉升，涨幅扩大至3.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8413542.d.html</link>
+            <guid>2110457</guid>
+            <pubDate>Wed, 07 Apr 2021 18:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特：人们最终可能会在推特上完成购物交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5556261.d.html</link>
+            <guid>2110456</guid>
+            <pubDate>Wed, 07 Apr 2021 18:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西总统博索纳罗：计划重新提出取消商业流转燃油税的法案。会干涉巴西国家石油公司，但有可能改变定价政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5556231.d.html</link>
+            <guid>2110455</guid>
+            <pubDate>Wed, 07 Apr 2021 18:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西总统博索纳罗：巴西石油公司方面的问题必须是可预测的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8413429.d.html</link>
+            <guid>2110453</guid>
+            <pubDate>Wed, 07 Apr 2021 18:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：缅甸驻英国伦敦大使表示，他被挡在了使馆门外。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5555984.d.html</link>
+            <guid>2110451</guid>
+            <pubDate>Wed, 07 Apr 2021 18:40:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收涨0.44美元，涨幅0.74%，报59.77美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5555821.d.html</link>
+            <guid>2110449</guid>
+            <pubDate>Wed, 07 Apr 2021 18:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：愿意听取公司税率低于28%的建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8412931.d.html</link>
+            <guid>2110444</guid>
+            <pubDate>Wed, 07 Apr 2021 18:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：28%的企业税提案不会掏空企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8412772.d.html</link>
+            <guid>2110442</guid>
+            <pubDate>Wed, 07 Apr 2021 18:23:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：不会对年收入低于40万美元的人增税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8412682.d.html</link>
+            <guid>2110441</guid>
+            <pubDate>Wed, 07 Apr 2021 18:20:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国总统拜登：（基建）计划是针对蓝领阶层的蓝图。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5555186.d.html</link>
@@ -242,36 +302,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8406638.d.html</link>
             <guid>2110366</guid>
             <pubDate>Wed, 07 Apr 2021 16:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola(NKLA.O)盘中跌幅扩大至5%，报12.55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5548501.d.html</link>
-            <guid>2110360</guid>
-            <pubDate>Wed, 07 Apr 2021 16:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  安哥拉方面表示，需要实现经济多样化，结束对石油的依赖。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8405712.d.html</link>
-            <guid>2110358</guid>
-            <pubDate>Wed, 07 Apr 2021 16:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[枪支股涨跌各异，SWBI目前涨2.8%，RGR涨超0.4%，VSTO则跌超1.5%，据Politico报道，美国总统拜登4月7日将针对枪支问题披露行政命令，其将下令对那些未经登记的买家扩大调查，可能会宣布关于酒精、烟草、轻武器官员的人选。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8405453.d.html</link>
-            <guid>2110356</guid>
-            <pubDate>Wed, 07 Apr 2021 16:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯加里宁格勒铁路公司新闻处发布消息称，2021年第一季度，通过加里宁格勒铁路中国往返欧洲的集装箱过境运输量增长9倍。（俄罗斯卫星通讯社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmxzfmk5547811.d.html</link>
-            <guid>2110355</guid>
-            <pubDate>Wed, 07 Apr 2021 16:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据Politico：拜登将于周四公布有关美国枪支问题的行政措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-08/detail-ikmyaawa8404621.d.html</link>
-            <guid>2110353</guid>
-            <pubDate>Wed, 07 Apr 2021 16:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

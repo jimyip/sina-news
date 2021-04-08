@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Apr 2021 21:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 22:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[消息人士：美国总统拜登的预算大纲将作为折中方案提交给民主党人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5764167.d.html</link>
+            <guid>2111833</guid>
+            <pubDate>Thu, 08 Apr 2021 22:11:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：美国总统拜登在第一份预算大纲中寻求为五角大楼提供7150亿美元的预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5764134.d.html</link>
+            <guid>2111832</guid>
+            <pubDate>Thu, 08 Apr 2021 22:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3月份集合信托成立规模增至1600亿元，平均收益率仅为6.88%】3月份，集合信托市场产品成立数量及规模大幅反弹，环比增幅双双超50%。在集合信托产品升温的同时，平均收益率却走低。3月份，集合信托产品的平均收益率仅为6.88%，破“7”阻力增大。过去的一个月里，在理财市场中，信托产品深受投资者青睐，超1600亿元资金用于购买集合信托产品。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8622344.d.html</link>
+            <guid>2111830</guid>
+            <pubDate>Thu, 08 Apr 2021 22:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦交所（LSE）集团：旗下数据与交易供应商Refinitive曾在周四（4月8日）GMT 07:30开始陷入宕机——持续时间超过五个小时，造成大部分应用最为广泛的服务中断，其中包括Eikon终端、FXall外汇交易平台、以及与反洗钱相关的World-Check One。]]></title>
+            <guid>2111825</guid>
+            <pubDate>Thu, 08 Apr 2021 21:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：瓦努阿图Isangel以北116公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8620899.d.html</link>
+            <guid>2111822</guid>
+            <pubDate>Thu, 08 Apr 2021 21:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国贸易代表Tai与比利时副首相进行了会面，讨论了减少过剩的钢铁、飞机产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8620118.d.html</link>
+            <guid>2111817</guid>
+            <pubDate>Thu, 08 Apr 2021 21:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果隐私新规将落地 广告营销游戏分发直面冲击】苹果公司4月5日向开发者发布了一则通知，提醒开发者确保其应用已经为即将发布的iOS 14.5做好准备。在iOS 14.5版本中，所有应用都必须征得用户许可，才能对其进行跟踪或访问其设备的IDFA。IDFA可以帮助开发者获取用户信息，更好地向用户展示个性化广告。以往，IDFA分享功能为默认开启状态，各大开发者得以利用IDFA向用户精准推送广告。但在iOS 14.5版本中，IDFA将默认关闭，用户首次打开应用时，会弹窗提示是否允许应用获取IDFA，如果选择关闭，开发者将无法向用户精准推送广告。在IDFA新规下，受到直接影响的是广告营销行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8619853.d.html</link>
+            <guid>2111816</guid>
+            <pubDate>Thu, 08 Apr 2021 21:14:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[标普500指数11个板块涨跌各异，科技板块收涨1.42%领跑，能源板块表现最差，收跌1.36%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8619556.d.html</link>
@@ -233,66 +274,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8610494.d.html</link>
             <guid>2111734</guid>
             <pubDate>Thu, 08 Apr 2021 17:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：奈飞(NFLX.O)和索尼影业已经签署了一项多年授权协议，包括即将上映的《蜘蛛侠》电影。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5752006.d.html</link>
-            <guid>2111733</guid>
-            <pubDate>Thu, 08 Apr 2021 17:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：意大利不能接受欧盟对意大利航空公司的不公平待遇。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5751868.d.html</link>
-            <guid>2111731</guid>
-            <pubDate>Thu, 08 Apr 2021 17:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋的国有控股公司MUBADALA据悉计划在美国申请上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5751702.d.html</link>
-            <guid>2111730</guid>
-            <pubDate>Thu, 08 Apr 2021 16:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货短线走低0.2美元，现报59.32美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609957.d.html</link>
-            <guid>2111729</guid>
-            <pubDate>Thu, 08 Apr 2021 16:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日经新闻：闻泰科技将投资120亿人民币（18亿美元）在上海建立一家生产电动汽车半导体的工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609664.d.html</link>
-            <guid>2111724</guid>
-            <pubDate>Thu, 08 Apr 2021 16:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTO总干事恩戈齐·奥孔乔：需要改革争端解决机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5751036.d.html</link>
-            <guid>2111722</guid>
-            <pubDate>Thu, 08 Apr 2021 16:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第九城市盘中直线拉涨超11%，报27.67美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750986.d.html</link>
-            <guid>2111721</guid>
-            <pubDate>Thu, 08 Apr 2021 16:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世贸组织总干事奥孔乔：希望美国和欧盟就飞机钢材问题找到解决方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609251.d.html</link>
-            <guid>2111719</guid>
-            <pubDate>Thu, 08 Apr 2021 16:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登起草的命令将要求4个月内出台政府层面的气候风险计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8609239.d.html</link>
-            <guid>2111718</guid>
-            <pubDate>Thu, 08 Apr 2021 16:43:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：软银将向抵押贷款初创公司BETTER投资5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750656.d.html</link>
-            <guid>2111716</guid>
-            <pubDate>Thu, 08 Apr 2021 16:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

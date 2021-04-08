@@ -4,11 +4,52 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Apr 2021 20:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 21:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普500指数11个板块涨跌各异，科技板块收涨1.42%领跑，能源板块表现最差，收跌1.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8619556.d.html</link>
+            <guid>2111815</guid>
+            <pubDate>Thu, 08 Apr 2021 21:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  华特迪士尼(DIS.N)：加州阿纳海姆的复仇者基地（Avengers Campus）将于6月4日开放。]]></title>
+            <guid>2111813</guid>
+            <pubDate>Thu, 08 Apr 2021 21:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全球首个区块链电子发票国际标准发布】近日，由深圳市税务局主导推进的《基于区块链技术的电子发票应用推荐规程》国际标准(下称“国际标准”)正式经IEEE-SA(电子电气工程师协会标准协会)确认发布，成为全球首个基于区块链的电子发票应用的国际标准。此次标准的确认，意味着我国在区块链电子发票场景下的技术实践获得国际权威机构认可，为规范和引导全球区块链电子发票应用做出了中国贡献。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618788.d.html</link>
+            <guid>2111809</guid>
+            <pubDate>Thu, 08 Apr 2021 20:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Bitstamp两名法务主管离职，竞争对手Coinbase却忙着美国IPO】 数字货币交易所Bitstamp与2020年年初聘请的首席法务官Mary Beth Buchanan及2019年年中加盟的美国首席合规官Caitlin Barnett分道扬镳，其中，Buchanan已于2021年稍早离职，加入数字资产投资银行初创公司Menai Financial Group LLc.、出任首席法务与合规官，而Barnett也在3月份离职，成为区块链分析、研究、与风险管理初创公司Chainalysis Inc.的监管与合规总监。作为Bitstamp的头号竞争对手，旧金山Coinbase Global Inc.正紧锣密鼓地筹备美国IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8618282.d.html</link>
+            <guid>2111805</guid>
+            <pubDate>Thu, 08 Apr 2021 20:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美墨边境非法移民数量创新高】 美国政府4月8日公布的数据显示，美国海关与边境保护局3月在美墨边境拦截非法移民总数达17.2万，创下历史新高，环比增幅达到71%，为十几年来单月新高，其中多数人是单身成年人；3月拦截的非法移民中包括近1.9万名无人陪伴未成年非法移民，这一数字是2009年开始公布数据以来的单月最高纪录。此外，截至4月6日，美国国土安全部和卫生部监护的无人陪伴未成年非法移民数量已超过两万人，这一数字再次突破纪录。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8617994.d.html</link>
+            <guid>2111802</guid>
+            <pubDate>Thu, 08 Apr 2021 20:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特国家电视台：沙特领导的联盟摧毁了也门胡塞武装向吉赞发射的一架满载爆炸物的无人驾驶飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8617882.d.html</link>
+            <guid>2111801</guid>
+            <pubDate>Thu, 08 Apr 2021 20:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  李维斯(LEVI.N)盘后涨超10%，此前公布财报，第一季度营收为13.1亿美元，市场预期12.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5759426.d.html</link>
+            <guid>2111800</guid>
+            <pubDate>Thu, 08 Apr 2021 20:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  fuboTV(FUBO.N)盘后涨超5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5759236.d.html</link>
@@ -252,41 +293,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750656.d.html</link>
             <guid>2111716</guid>
             <pubDate>Thu, 08 Apr 2021 16:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登起草的命令将审查金融资产面临的气候风险。拜登起草的命令将要求美国金融稳定监督委员会（FSOC）在六个月内就气候风险进行报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750639.d.html</link>
-            <guid>2111715</guid>
-            <pubDate>Thu, 08 Apr 2021 16:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登计划为金融资产制定气候风险战略。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8608930.d.html</link>
-            <guid>2111714</guid>
-            <pubDate>Thu, 08 Apr 2021 16:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  IMF总裁格奥尔基耶娃：更担心新兴市场的通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5750527.d.html</link>
-            <guid>2111713</guid>
-            <pubDate>Thu, 08 Apr 2021 16:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTO总干事恩戈齐·奥孔乔：苏伊士运河事件证明了供应链的重要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5749960.d.html</link>
-            <guid>2111704</guid>
-            <pubDate>Thu, 08 Apr 2021 16:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：亚马逊(AMZN.O)计划于6月举办2021年的会员日（Prime Day）。]]></title>
-            <guid>2111702</guid>
-            <pubDate>Thu, 08 Apr 2021 16:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内涨幅扩大至0.55%，报0.7656。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8607758.d.html</link>
-            <guid>2111700</guid>
-            <pubDate>Thu, 08 Apr 2021 16:25:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

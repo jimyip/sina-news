@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Apr 2021 21:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 22:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【突遭利空！苹果被诉专利侵权 iPhone 12躺枪】近期，苹果等公司成为了专利侵权诉讼的“热门被告”。据媒体报道称，日前，专利授权公司Red Rock向美国得州南区地方法院提起诉讼，指控高通5G无线收发器侵犯该公司的专利。由于iPhone 12和iPhone 12 Pro使用了高通5G基带，也集成了被指控侵权的收发器技术，因此苹果也被列为被告。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6112379.d.html</link>
+            <guid>2114032</guid>
+            <pubDate>Sat, 10 Apr 2021 21:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【净流出超50亿元！北向资金大调仓】本周市场震荡下跌，上证指数、深证成指、创业板指分别累计下跌0.97%、2.19%、2.42%。北向资金在4月1日-4月6日暂停交易。Choice数据显示，4月7日开始恢复交易的北向资金本周持续减仓，累计净流出53.25亿元。其中沪股通资金净流出57.57亿元，深股通资金净流入4.32亿元。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8970065.d.html</link>
+            <guid>2114030</guid>
+            <pubDate>Sat, 10 Apr 2021 21:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国工业协会主席：再次封锁和停产将对德国造成巨大损失】4月10日，德国工业协会BDI主席鲁斯乌尔姆在接受德国媒体采访时表示，再次封锁和停产将对德国经济造成巨大损失，“关闭工业生产需要至少一周的时间，因为仍有许多卡车已经在运输的路上，化工厂不能在一夜之间关闭，高温炉也不能紧急关闭，这些都需要时间。而等到锁定结束后，受影响的供应链又将需要数周的时间才能恢复正常。四周的工业停产损失的不仅是时间，而是更多。这很容易使我们今年的国内生产总值（GDP）增长遭受重大打击，这样我们将无法弥补去年所受的损失。”（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6109993.d.html</link>

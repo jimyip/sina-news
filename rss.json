@@ -6,6 +6,34 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2117919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9314404.d.html",
+            "title": "  消息人士：高盛(GS.N)的风险部门正在研究2021年主要市场事件以吸取教训，高盛合规、风险管理人士希望更好地为像ARCHEGOS爆仓这样的市场事件做好准备。",
+            "date_modified": "2021-04-12T19:09:59.000Z"
+        },
+        {
+            "id": 2117882,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6453829.d.html",
+            "title": "热塑型树脂生产商Braskem S.A.(BAK.N)盘中涨超7%，此前金融博客网站《巴西日报》报道有潜在的竞标者。",
+            "date_modified": "2021-04-12T18:40:20.000Z"
+        },
+        {
+            "id": 2117874,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9312732.d.html",
+            "title": "  英特尔(INTC.O)CEO：美国的芯片生产得到了支持，白宫将与国会合作获得资金。",
+            "date_modified": "2021-04-12T18:34:12.000Z"
+        },
+        {
+            "id": 2117860,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6452923.d.html",
+            "title": "  英伟达(NVDA.O)：将用于加密货币挖矿的新CMP产品的第一季度营收估值从之前的5000万美元上调至1.5亿美元。",
+            "date_modified": "2021-04-12T18:17:27.000Z"
+        },
+        {
             "id": 2117854,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9311920.d.html",
@@ -333,27 +361,6 @@
             "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9301487.d.html",
             "title": "  【湖南省与国务院发展研究中心签署战略合作框架协议】今天下午，湖南省与国务院发展研究中心签署战略合作框架协议。省委书记、省人大常委会主任许达哲，省委副书记、省长毛伟明会见了国务院发展研究中心党组书记马建堂一行。马建堂、毛伟明分别代表双方签约。根据协议，双方将本着“优势互补、资源共享、合作共赢、共同发展”的原则，在推进重大战略决策咨询、联合举办重要会议论坛、基层调研点建设、经济形势监测网络建设、干部人才交流培养等方面深化合作，并建立沟通联络、交流合作机制。",
             "date_modified": "2021-04-12T15:48:55.000Z"
-        },
-        {
-            "id": 2117704,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9300334.d.html",
-            "title": "  市场消息：爱立信(ERIC.O)、沃达丰(VOD.O)将在德国主要城市部署5G独立网络。",
-            "date_modified": "2021-04-12T15:32:56.000Z"
-        },
-        {
-            "id": 2117702,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmxzfmk6441187.d.html",
-            "title": "【花旗联手美银打造固收交易平台，或将解放手工编竞价清单的CLO交易员】 花旗和美国银行声明称，双方联手美银打造固收交易平台，均在测试这个平台，计划一年内推出新平台，最终这将成为交易员查看结构性信贷产品及其它基础担保品市场数据的中央平台，以期大大提高担保贷款凭证(CLO)的交易效率。花旗全球CLO二级市场交易负责人、董事总经理Vitaliy Kozak表示，手动编制竞价（BWIC）清单非常耗时，“我12年前进入花旗的时候在CLO二级交易台任分析师，现如今的交易方式跟那时候相比仍然很像”。",
-            "date_modified": "2021-04-12T15:31:18.000Z"
-        },
-        {
-            "id": 2117701,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-04-12/detail-ikmyaawa9300231.d.html",
-            "title": "  【Stratas Advisors：二季度布伦特油价平均料达65.75美元/桶】Stratas Advisors在报告中称，二季度布伦特原油期货价格平均料达65.75美元/桶，WTI原油期货料为62美元/桶。",
-            "date_modified": "2021-04-12T15:31:04.000Z"
         }
     ]
 }

@@ -4,11 +4,299 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Apr 2021 05:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 06:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据意大利《共和报》：意大利新的借款预算可能达到500亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6555349.d.html</link>
+            <guid>2118972</guid>
+            <pubDate>Tue, 13 Apr 2021 06:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：英国对欧盟出口较1月份的下降大幅回升，但仍低于2020年的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9413978.d.html</link>
+            <guid>2118971</guid>
+            <pubDate>Tue, 13 Apr 2021 06:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：英国对欧盟的商品出口（不包括非货币黄金和其他贵金属）在2021年2月出现部分反弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9413482.d.html</link>
+            <guid>2118968</guid>
+            <pubDate>Tue, 13 Apr 2021 06:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：2月份的GDP比2020年2月低7.8%，比2020年10月初的复苏峰值低3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6554274.d.html</link>
+            <guid>2118967</guid>
+            <pubDate>Tue, 13 Apr 2021 06:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月GDP环比 0.4%，预期 0.5%，前值 -2.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9413062.d.html</link>
+            <guid>2118964</guid>
+            <pubDate>Tue, 13 Apr 2021 06:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月对非欧盟商品贸易帐 -107.28亿英镑，前值 -17.56亿英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6553899.d.html</link>
+            <guid>2118963</guid>
+            <pubDate>Tue, 13 Apr 2021 06:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月工业产出同比 -3.5%，预期 -4.5%，前值 -4.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6553829.d.html</link>
+            <guid>2118962</guid>
+            <pubDate>Tue, 13 Apr 2021 06:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月制造业产出同比 -4.2%，预期 -5.1%，前值 -5.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6553802.d.html</link>
+            <guid>2118960</guid>
+            <pubDate>Tue, 13 Apr 2021 06:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月商品贸易帐 -164.42亿英镑，预期 -105亿英镑，前值 -98.26亿英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6553780.d.html</link>
+            <guid>2118959</guid>
+            <pubDate>Tue, 13 Apr 2021 06:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神州信息人工智能、区块链等产品亮相第九届中国电子信息博览会并斩获重磅奖项】近日，第九届中国电子信息博览会在深圳举办。神州信息作为绿色计算产业联盟（GCC）成员亮相本届博览会，展出“AI能力及产品”，引发关注。同时，神州信息自主研发的“区块链技术平台Sm@rtGAS”荣获“第九届中国电子信息博览会创新奖”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9412499.d.html</link>
+            <guid>2118957</guid>
+            <pubDate>Tue, 13 Apr 2021 05:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【字节跳动将开启员工期权兑换 价格为126美元/股】从多位字节跳动员工处获悉，字节跳动即将开启2020年度员工期权兑换计划，主要岗位员工可选将年终奖兑换成期权，价格为126美元/股，目前外部市场价格为180美元/股，相当于70%折价。（银柿财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9412314.d.html</link>
+            <guid>2118955</guid>
+            <pubDate>Tue, 13 Apr 2021 05:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家能源集团召开碳达峰行动方案专题会议】国家能源集团近日召开碳达峰行动方案专题会议，研讨碳达峰行动方案成果。集团公司总经理刘国跃指出，碳达峰行动方案编制工作意义重大，进一步明确了集团公司未来发展的方向、目标和路径。战规部、各产业部门、技经院、共享公司要结合自身职责，将这项工作作为当前最重要的工作来抓，不断完善碳达峰行动方案，确保高质量完成方案编制工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9412152.d.html</link>
+            <guid>2118954</guid>
+            <pubDate>Tue, 13 Apr 2021 05:57:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苏伊士集团CEO:还需要一年时间才能完成与威立雅的并购交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6552895.d.html</link>
+            <guid>2118953</guid>
+            <pubDate>Tue, 13 Apr 2021 05:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中欧班列（西安）2021年开行突破1000列 运送货物41286车】4月13日，2021年陕西开行的第1000列中欧班列X9041次中欧班列（西安），从中国铁路西安局集团有限公司西安国际港站驶出开往哈萨克斯坦。截至4月12日，西安国际港站运送货物41286车，同比去年增长26.76%，重箱率100%，稳居全路第一。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6552728.d.html</link>
+            <guid>2118952</guid>
+            <pubDate>Tue, 13 Apr 2021 05:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北向资金净流入达70亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6552510.d.html</link>
+            <guid>2118951</guid>
+            <pubDate>Tue, 13 Apr 2021 05:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[券商板块小幅异动，光大证券涨超3%，方正证券、中金公司等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6551985.d.html</link>
+            <guid>2118949</guid>
+            <pubDate>Tue, 13 Apr 2021 05:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为云在中国公有云服务市场位居第二】4月12日~14日，第18届华为全球分析师大会在深圳召开。在4月13日举办的“云与计算，开启数字化转型新阶段”峰会上，华为公布2020年云与计算业务进展：华为云在中国公有云服务市场位居第二、全球IaaS市场位居第六，全球增速最快；鲲鹏、昇腾计算蓬勃发展，赋能千行百业；华为存储市场份额位居全球第三、中国第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9410698.d.html</link>
+            <guid>2118947</guid>
+            <pubDate>Tue, 13 Apr 2021 05:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  农业板块午后反弹，大北农、丰乐种业、宏辉果蔬午后拉升涨逾5%，荃银高科、万向德农、农发种业等纷纷冲高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9410589.d.html</link>
+            <guid>2118946</guid>
+            <pubDate>Tue, 13 Apr 2021 05:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[
+【东南亚网约车巨头Grab据悉将通过SPAC方式在美上市 估值400亿美元】东南亚网约车Grab据悉将于周二宣布通过与美国上市空白支票公司Altimeter合并上市，合并后估值近400亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6551035.d.html</link>
+            <guid>2118941</guid>
+            <pubDate>Tue, 13 Apr 2021 05:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  粤港澳大湾区板块午后异动拉升，粤泰股份涨停，香江控股涨8%，广州浪奇涨3.5%，香江控股涨1.61%，此前深圳拟谋划多机场发展格局，共建世界级机场群。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6550938.d.html</link>
+            <guid>2118940</guid>
+            <pubDate>Tue, 13 Apr 2021 05:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中兴通讯与中图云创签订创新视频业务战略合作协议】近日，中兴通讯与中图云创智能科技（北京）有限公司在深圳签订创新视频业务全面合作战略协议，双方将发挥各自领域的核心优势，联合打造一款全新视频应用内容产品“云中新视界”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9409866.d.html</link>
+            <guid>2118939</guid>
+            <pubDate>Tue, 13 Apr 2021 05:44:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  宇泽（江西）半导体：公司的订单已经排到了3年后，现有的8条生产线满负荷生产，新上的10条生产线3月底投产，5月中旬可新增1.5GW的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6550705.d.html</link>
+            <guid>2118938</guid>
+            <pubDate>Tue, 13 Apr 2021 05:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9409265.d.html</link>
+            <guid>2118935</guid>
+            <pubDate>Tue, 13 Apr 2021 05:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳：拟谋划多机场发展格局 共建世界级机场群】深圳市交通运输局发布《深圳市综合交通“十四五”规划》（公众咨询稿）：谋划多机场发展格局，共建世界级机场群。强化与惠州机场战略协同，推动惠州机场建设大湾区东部干线机场，完善深圳与惠州机场的交通联系，切实发挥深圳第二机场作用。加快南头直升机场迁建，推动马峦山通航综合体规划建设。进一步研究探索区域机场群提质扩容发展条件。推动大湾区空域管理体制机制改革，探索在深圳设立大湾区联合管制中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9409208.d.html</link>
+            <guid>2118934</guid>
+            <pubDate>Tue, 13 Apr 2021 05:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳：拟积极推动国际航线有序恢复 持续优化航线网络结构】深圳市交通运输局发布《深圳市综合交通“十四五”规划》（公众咨询稿）：建设高质量、可持续的航线网络，打造国际一流航空服务品牌。积极推动国际航线有序恢复，强化机场与基地航空公司的战略协同，打造与全球创新型城市、欧美澳热点城市及“一带一路”新兴市场国家节点城市连接的航线网络，持续优化航线网络结构，加快提升城市国际化水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6550131.d.html</link>
+            <guid>2118933</guid>
+            <pubDate>Tue, 13 Apr 2021 05:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南能投一度触及跌停，上演天地板。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6549924.d.html</link>
+            <guid>2118932</guid>
+            <pubDate>Tue, 13 Apr 2021 05:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联想中国区总裁刘军透露新财年目标：PC市场份额超越42%】4月13日，联想集团执行副总裁兼中国区总裁刘军透露新财年目标，PC市场份额超越42%，智能产品营业额同比提升80%，智能基础设施营业额同比提升15%，智慧服务营业额同比提升36%。他同时透露联想智慧服务成功中标北京2022年冬奥会和冬残奥会组织委员会租用赛事计算机及打复印设备和采购相关服务项目。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9408586.d.html</link>
+            <guid>2118931</guid>
+            <pubDate>Tue, 13 Apr 2021 05:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[景点旅游板块下挫，宋城演艺大跌逾11%，三特索道跌超4%，凯撒旅业跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9408449.d.html</link>
+            <guid>2118930</guid>
+            <pubDate>Tue, 13 Apr 2021 05:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宋城演艺午后跳水，一度跌近11%，目前成交额超8亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6549247.d.html</link>
+            <guid>2118928</guid>
+            <pubDate>Tue, 13 Apr 2021 05:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【博鳌乐城国际创新药械展开幕，810种创新药械集体亮相】4月13日，海南博鳌乐城国际医疗旅游先行区国际创新药械转换中心正式投入使用，来自16个国家36个地区的80家全球参展厂商进驻药械展，带来了810种药械产品，其中441种未在国内上市、394种首次在国内亮相。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9406604.d.html</link>
+            <guid>2118924</guid>
+            <pubDate>Tue, 13 Apr 2021 05:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年福建5G项目预计投资45亿元】从福建省通信管理局获悉，2021年，福建信息通信基础设施重点项目计划投资100亿元，其中5G预计投资45亿元。目前，福建已完成5G基站建设计划地市分解，推动基础电信企业和铁塔公司完成2.1万个5G基站用电账户进入电力市场交易。（福建日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9406242.d.html</link>
+            <guid>2118923</guid>
+            <pubDate>Tue, 13 Apr 2021 05:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国信通院：将共同推动编制车联网基础设施标准化建设方案】中国信息通信研究院近日在郑州组织召开车联网基础设施建设与运营模式研究会议，本次会议各方达成诸多共识：一是各方要持续推动基础设施建设的标准化，共同推动编制“车联网基础设施标准化建设方案”。二是各方要加强打造可规模化推广的应用场景，合力编制“车联网应用推广时间表与路线图”并推动达成行业共识。三是分场景探索业务模式成熟度，综合从ToG、ToB、ToC三端综合考虑形成可持续的商业模式与投资回报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9406092.d.html</link>
+            <guid>2118922</guid>
+            <pubDate>Tue, 13 Apr 2021 05:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京环球主题公园临近开园，周边环境整治提升工程下月开工】北京环球主题公园已进入临近开园的关键阶段，从通州区城市管理委了解到，城市副中心将结合城市双修、街区更新，全面开展环球主题公园周边区域环境综合整治提升工程。该工程预计5月进场施工，2022年6月完工。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9406014.d.html</link>
+            <guid>2118921</guid>
+            <pubDate>Tue, 13 Apr 2021 05:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国投集团增资山东特检，将加大与山东合作力度】4月12日，山东省委书记刘家义说，希望国投集团积极参与山东发展，在基础设施、海洋经济、医养健康、文化旅游、国企改革等方面深化交流合作，共享发展机遇。白涛表示，作为经济大省，山东是国投集团投资的重点省份。集团将加大与山东合作力度，推动更多投资项目落实落地、见到实效。会见后，举行了国投集团增资山东特检签约仪式。（大众日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9405870.d.html</link>
+            <guid>2118920</guid>
+            <pubDate>Tue, 13 Apr 2021 05:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长致信联合国：故意针对核设施是“核恐怖主义行径”】伊朗纳坦兹核设施内发生供电系统故障之后，伊朗外长扎里夫当地时间12日晚在社交媒体上发文称：“我已经向联合国安理会致信，故意针对处于安全保障之下的核设施，具有引发放射性物质任意泄漏的高风险，是‘核恐怖主义行径’和战争罪。”当地时间11日上午，伊朗纳坦兹核设施内部分供电系统发生故障，造成一些第一代离心机的损坏。伊朗外交部发言人哈蒂布扎德当地时间12日就此事表示，以色列是这起故障的背后主谋，伊朗将对以色列采取报复措施。（央视）]]></title>
+            <guid>2118918</guid>
+            <pubDate>Tue, 13 Apr 2021 05:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拓维信息：公司与华为在智慧教育等打造软硬件结合产品及解决方案】拓维信息在互动平台表示，公司于今年3月与华为签署《合作备忘录》，双方将基于HarmonyOS共建联合创新实验室，整合双方优势资源，成立联合团队，在智慧教育、工业互联网等领域打造软硬件结合产品及解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9405571.d.html</link>
+            <guid>2118917</guid>
+            <pubDate>Tue, 13 Apr 2021 05:23:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[快手概念持续下挫，广博股份跌超6%，蓝色光标、因赛集团、元隆雅图跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9405489.d.html</link>
+            <guid>2118916</guid>
+            <pubDate>Tue, 13 Apr 2021 05:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国中免午后闪崩，股价触及跌停，成交量明显放大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9405045.d.html</link>
+            <guid>2118915</guid>
+            <pubDate>Tue, 13 Apr 2021 05:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国信证券：给予盛新锂能买进的初始评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9404902.d.html</link>
+            <guid>2118912</guid>
+            <pubDate>Tue, 13 Apr 2021 05:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东港股股价再度跌破300港元关口，现跌3.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9404223.d.html</link>
+            <guid>2118906</guid>
+            <pubDate>Tue, 13 Apr 2021 05:18:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上证指数跌至3400点下方，跌幅0.41%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6545124.d.html</link>
+            <guid>2118905</guid>
+            <pubDate>Tue, 13 Apr 2021 05:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[免税概念午后走弱，中国中免跳水跌幅扩大至8％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9404033.d.html</link>
+            <guid>2118904</guid>
+            <pubDate>Tue, 13 Apr 2021 05:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  大和证券将特斯拉目标价从从845美元下调至700美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9403615.d.html</link>
+            <guid>2118902</guid>
+            <pubDate>Tue, 13 Apr 2021 05:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长致信联合国：故意针对核设施是“核恐怖主义行径”】伊朗纳坦兹核设施内发生供电系统故障之后，伊朗外长扎里夫当地时间12日晚在其社交媒体上发文称：“我已经向联合国安理会致信，故意针对处于安全保障之下的核设施，具有引发放射性物质任意泄漏的高风险，是‘核恐怖主义行径’和战争罪。”当地时间11日上午，伊朗纳坦兹核设施内部分供电系统发生故障，造成一些第一代离心机的损坏。伊朗外交部发言人哈蒂布扎德当地时间12日就此事表示，以色列是这起故障的背后主谋，伊朗将对以色列采取报复措施。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9403455.d.html</link>
+            <guid>2118898</guid>
+            <pubDate>Tue, 13 Apr 2021 05:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[医美概念股再度走强，金发拉比、悦心健康涨停，华熙生物、昊海生科等涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9403101.d.html</link>
+            <guid>2118897</guid>
+            <pubDate>Tue, 13 Apr 2021 05:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中石化与天合光能将在新能源领域进一步深化合作】4月12日，中国石化集团公司董事长、党组书记张玉卓在总部会见天合光能董事长兼首席执行官高纪凡一行。双方表示将加强沟通交流，发挥各自优势，在新能源领域进一步深化合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9403073.d.html</link>
+            <guid>2118896</guid>
+            <pubDate>Tue, 13 Apr 2021 05:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[免税概念午后走弱，中国中免跳水跌幅扩大至3%，早盘一度涨逾2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6543974.d.html</link>
+            <guid>2118894</guid>
+            <pubDate>Tue, 13 Apr 2021 05:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京6条高速逐步开放自动驾驶测试 年内尝试安全员撤出车辆】近日，北京市政府办公厅印发《北京市智能网联汽车政策先行区总体实施方案》。在13日上午的发布会上，经开区管委会副主任孔磊透露，政策先行区实施范围包括亦庄新城225平方公里规划范围及大兴国际机场，涵盖城市道路、快速路、高速路等多场景，6条高速、快速路将逐步开放自动驾驶测试。同时，政策先行区也将逐步尝试安全员撤出自动驾驶车辆。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6543930.d.html</link>
+            <guid>2118893</guid>
+            <pubDate>Tue, 13 Apr 2021 05:13:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【贝莱德、淡马锡携手进军碳减排领域 将为初创企业筹集数十亿美元】据媒体报道，贝莱德公司和新加坡的淡马锡控股成立了一家名为Decarbonization Partners的新公司，将投资一些有潜力减少全球对化石燃料的依赖并在30年内实现零碳排放目标的初创企业。他们承诺总共投入6亿美元，其中包括3亿美元的种子资金，以建立10亿美元的第一支基金，其余则从外部投资者筹集。贝莱德首席执行官Larry Fink表示，最终Decarbonization Partners的目标是管理数以10亿美元计的多个基金。他又说：“我视此为我们一生中最大的投资机会之一。”]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6543535.d.html</link>
@@ -104,216 +392,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6535497.d.html</link>
             <guid>2118864</guid>
             <pubDate>Tue, 13 Apr 2021 04:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：亚洲债券第一季度契约质量触及历史最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6535412.d.html</link>
-            <guid>2118863</guid>
-            <pubDate>Tue, 13 Apr 2021 04:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音电商副总裁王月伟：广东省是“富域计划”首批重点落地的省份之一】4月13日，抖音电商副总裁王月伟表示，广东省是“富域计划”首批重点落地的省份之一。近日，抖音电商与广东省商务厅签署框架合作协议并启动“富域计划”。未来两年，双方将持续在广东特色产品销售、产业带集聚升级、本土品牌数字化营销、电商人才培养、打造乡村文旅新名片等领域，多方面合力推动广东电商发展。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6534474.d.html</link>
-            <guid>2118860</guid>
-            <pubDate>Tue, 13 Apr 2021 04:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金杯电工：铜价一直上涨 电缆行业成本会有所上升】金杯电工(002533)表示，铜价一直上涨，电缆行业成本会有所上升，利润率会有所下降，但公司会加强原材料采购管控及做好原材料套期保值工作，避免铜价大幅波动带来的不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9392719.d.html</link>
-            <guid>2118859</guid>
-            <pubDate>Tue, 13 Apr 2021 04:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【未来5年湖南将建充电桩40万个】新出炉的湖南省“十四五”规划提出：加快充电基础设施建设，建成充电桩40万个，形成“车桩相随、开放通用、标准统一、智能高效”的充电网。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6531452.d.html</link>
-            <guid>2118853</guid>
-            <pubDate>Tue, 13 Apr 2021 04:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海中谷物流计划融资30亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9389946.d.html</link>
-            <guid>2118852</guid>
-            <pubDate>Tue, 13 Apr 2021 04:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【午间公告】午间多家上市公司发布公告：①万润股份公告称，于近日收到由山东省科学技术厅、山东省财政厅和国家税务总局山东省税务局联合下发的高新技术企业证书。②新金路公告称，预计一季度净利润6300万元-7500万元，同比增长105.4%-144.52%；预计2020年净利润7153.7万元，同比增长15.36%。③百川股份公告称，预计一季度净利润3200万元-4200万元，去年同期亏损1579.46万元；预计2020年净利润6575.5万元，同比增长1.6%。④中天精装公告称，预计一季度净利润2808万元-3209万元，同比增长40%-60%；预计2020年净利润1.89亿元，同比增长3.05%。⑤西部材料公告称，控股子公司西诺稀贵于2021年4月12日在全国中小企业股份转让系统正式挂牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6529658.d.html</link>
-            <guid>2118848</guid>
-            <pubDate>Tue, 13 Apr 2021 03:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4月13日，华为技术有限公司公开“一种制动系统、制动方法及汽车”专利，申请日期为2020年3月，公开号为CN112654538A。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9388346.d.html</link>
-            <guid>2118847</guid>
-            <pubDate>Tue, 13 Apr 2021 03:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：有序发行县城新型城镇化建设专项企业债券】国家发改委4月13日消息，近日，国家发改委发布《2021年新型城镇化和城乡融合发展重点任务》明确，在债务风险可控前提下，加大中央预算内投资和地方政府专项债券等财政性资金统筹支持力度，有序发行县城新型城镇化建设专项企业债券。协调引导有实力的大型企业承担相关建设任务，吸引开发性政策性和商业性金融机构中长期信贷资金积极投入，利用现有国外优惠贷款渠道予以投入。发挥120个县城建设示范地区带动作用，支持在有条件县城建设一批产业转型升级示范园区。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6529319.d.html</link>
-            <guid>2118846</guid>
-            <pubDate>Tue, 13 Apr 2021 03:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为云与计算业务高速发展 开启数字化转型新阶段】在4月13日举办的“云与计算，开启数字化转型新阶段”峰会上，华为公布2020年云与计算业务进展：华为云在中国公有云服务市场位居第二、全球IaaS市场位居第六，全球增速最快；鲲鹏、昇腾计算蓬勃发展，赋能千行百业；华为存储市场份额位居全球第三、中国第一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9386609.d.html</link>
-            <guid>2118843</guid>
-            <pubDate>Tue, 13 Apr 2021 03:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京对360搜索发布虚假违法广告案处罚200万元】4月13日，北京市市场监管局对今年中央电视台3·15晚会曝光的360搜索发布虚假违法广告案完成立案调查，对北京好搜点睛科技有限公司依法做出罚款200万元的行政处罚决定。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9386141.d.html</link>
-            <guid>2118841</guid>
-            <pubDate>Tue, 13 Apr 2021 03:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Redmi携手使命召唤手游进军游戏手机 首款电竞旗舰4月底亮相】4月13日，Redmi品牌宣布进军游戏手机领域，将于4月底推出首款游戏手机。同时Redmi品牌也正式成为使命召唤手游（国服）官方战略合作伙伴，并且经过多项比赛环境专业测试，Redmi K40 系列也成为使命召唤手游（国服）官方指定用机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9384442.d.html</link>
-            <guid>2118835</guid>
-            <pubDate>Tue, 13 Apr 2021 03:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[旅游板块临近午盘异动拉升，桂林旅游涨停，腾邦国际涨1.05%，华天酒店跌幅收窄至0.3%，西域旅游、云南旅游等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9382487.d.html</link>
-            <guid>2118828</guid>
-            <pubDate>Tue, 13 Apr 2021 03:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国政府：持工作签证的外籍人员居留期限延长一年】韩国雇佣劳动部和法务部当地时间13日表示，韩国境内持访问就业（H-2）和非专业就业（E-9）签证的外籍人员居留期限，将自动延长一年。这也意味着，相关外籍人员可在韩国工作的期限也将延长一年。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9382156.d.html</link>
-            <guid>2118825</guid>
-            <pubDate>Tue, 13 Apr 2021 03:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【滴滴已于北京时间4月9日在美秘密提交IPO文件】 一位接近此次IPO人士说，第三季度上市的确定性很高，但最终还是要取决于大股东。滴滴目前的第一大股东为软银集团。（一线）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6522910.d.html</link>
-            <guid>2118823</guid>
-            <pubDate>Tue, 13 Apr 2021 03:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国3月稀土出口录得4837.1吨，创去年3月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9381635.d.html</link>
-            <guid>2118822</guid>
-            <pubDate>Tue, 13 Apr 2021 03:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【银保监会拟制定人身保险销售管理办法】从业内获悉，为了规范市场行为，银保监会相关部门正就人身保险销售管理情况展开调研。下一步银保监会拟制定人身险销售管理办法，目前正向业内征意见建议，包括不限于思路框架、适用范围等。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6522356.d.html</link>
-            <guid>2118821</guid>
-            <pubDate>Tue, 13 Apr 2021 03:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【惠伦晶体：目前温补晶振的生产由于市场缺货 订单较为饱满】惠伦晶体(300460)4月13日在互动平台，IC是温补晶振的主要材料，IC缺货必然导致温补晶振价格上升。也会导致温补晶振下游供应短缺。我公司目前温补晶振的生产由于市场缺货，订单较为饱满。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9380963.d.html</link>
-            <guid>2118820</guid>
-            <pubDate>Tue, 13 Apr 2021 03:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东海化：日本计划于4月13号开始向大海排放核废水事件不会影响公司生产经营】山东海化在互动平台表示，日本计划于4月13号开始向大海排放核废水事件不会影响公司生产经营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6522096.d.html</link>
-            <guid>2118819</guid>
-            <pubDate>Tue, 13 Apr 2021 03:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新机票预订数据显示，北京成“五一”出游最热门城市】同程旅行数据显示，截至上周的机票预订数据显示，北京将是“五一”假期期间最热门的出发地和目的地。受旺盛需求刺激，部分从北京出发的热门航线机票价格上涨，平均票价（不含机建燃油费）甚至超过了2019年同期。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6521990.d.html</link>
-            <guid>2118817</guid>
-            <pubDate>Tue, 13 Apr 2021 03:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关总署：外贸已三个季度保持同比正增长 未来一段时期这一趋势有望维持】海关总署新闻发言人、统计分析司司长李魁文今日介绍2021年一季度进出口情况，表示自去年三季度以来，我国外贸已连续三个季度保持同比正增长。我认为，未来一段时期这一趋势有望维持，但具体走势还需要进一步观察。综合来看，未来一段时期我国外贸运行有利因素较多，但外部挑战也不少，外贸稳定增长仍然任重道远。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6520737.d.html</link>
-            <guid>2118810</guid>
-            <pubDate>Tue, 13 Apr 2021 03:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月大豆进口量为777万吨，1-2月为1340.7万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9379247.d.html</link>
-            <guid>2118808</guid>
-            <pubDate>Tue, 13 Apr 2021 03:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关总署：今年一季度出口环比下降12.3%，进口增长0.1%】 海关总署新闻发言人称，据海关统计，今年一季度我国进出口同比增长29.2%，如果与2018年、2019年同期相比，分别增长25.3%和20.5%。另外，今年一季度与去年四季度相比，进出口下降7.1%，其中出口下降12.3%，进口增长0.1%。需要说明的是，因为一季度中国有传统春节假期因素，外贸进出口规模往往和上年四季度相比是偏低的，这也是个常态。数据显示，2016年-2020年，一季度进出口环比均呈现两位数下降，今年一季度环比降幅是近年来最小的，这也进一步印证了今年一季度我国外贸向好的态势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6520317.d.html</link>
-            <guid>2118806</guid>
-            <pubDate>Tue, 13 Apr 2021 03:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关总署：制定了《“十四五”推进“一带一路”高质量发展海关工作方案》】海关总署新闻发言人、统计分析司司长李魁文今日介绍2021年一季度进出口情况：制定《“十四五”推进“一带一路”高质量发展海关工作方案》。今年是“十四五”的开局之年，海关总署制定了《“十四五”推进“一带一路”高质量发展海关工作方案》，坚持问题导向和目标导向，聚焦重点国家、重点领域、重点项目，统筹整体推进与重点突破，着力打造更多共建“一带一路”的亮点，推动“一带一路”建设高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9379004.d.html</link>
-            <guid>2118805</guid>
-            <pubDate>Tue, 13 Apr 2021 03:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月煤及褐煤进口量为2732.9万吨，1-2月为4112.6万吨。中国3月铜矿砂及其精矿进口量为217.1万吨，1-2月为379万吨。中国3月铁矿砂及其精矿进口量为10210.9万吨，1-2月为18150.6万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6520169.d.html</link>
-            <guid>2118804</guid>
-            <pubDate>Tue, 13 Apr 2021 03:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月成品油进口量为210.2万吨，1-2月为398.3万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6520038.d.html</link>
-            <guid>2118802</guid>
-            <pubDate>Tue, 13 Apr 2021 03:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月钢材出口为754.2万吨，1-2月为1014万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9378785.d.html</link>
-            <guid>2118801</guid>
-            <pubDate>Tue, 13 Apr 2021 03:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月未锻轧铝及铝材出口443483.7吨，1-2月为842124.9吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6519372.d.html</link>
-            <guid>2118800</guid>
-            <pubDate>Tue, 13 Apr 2021 03:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海关总署：中国3月原油进口量为4965.9万吨，1-2月为8956.8万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6519241.d.html</link>
-            <guid>2118799</guid>
-            <pubDate>Tue, 13 Apr 2021 03:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济产业省：日本4-6月粗钢产量季度环比减少1.8%，为2324万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376878.d.html</link>
-            <guid>2118797</guid>
-            <pubDate>Tue, 13 Apr 2021 03:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台积电：相信亚利桑那州晶圆厂计划将获得成功】台积电发言人Nina Kao在电邮中称，该公司在亚利桑那州的项目位列美国历史上最大的外国直接投资行列，公司相信这项与美国政府合作的计划将获得成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376482.d.html</link>
-            <guid>2118792</guid>
-            <pubDate>Tue, 13 Apr 2021 03:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泓德睿源三年持有期灵活配置今日发行，截至10时30分认购规模近10亿】从渠道人士处获悉，截至上午10点30分，由泓德基金研究部总监秦毅拟管理的泓德睿源三年持有期灵活配置混合型基金认购规模接近10亿元。据悉，该基金的最低募集份额总额为2亿份，最低募集金额为2亿元人民币；募集规模上限为80亿元人民币（不包含募集利息），采用末日比例确认的方式实现募集规模的有效控制。数据显示，截至2020年12月31日，秦毅目前在管4只权益型基金与1只债券型基金，整体管理规模为229.88亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9375572.d.html</link>
-            <guid>2118787</guid>
-            <pubDate>Tue, 13 Apr 2021 03:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福岛渔业界强烈反对核废水入海】今天，日本政府正式决定排核废水入海。有民调显示，50%日本国民不同意核废水排放入海。福岛渔业界强烈反对该决定，称恐将给当地渔业造成沉重打击。据了解，2011年福岛核电站核泄漏严重影响福岛县渔业，2020年福岛县近海捕鱼量不足事故前两成。韩国民众也对此深表担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9375407.d.html</link>
-            <guid>2118786</guid>
-            <pubDate>Tue, 13 Apr 2021 03:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股航运板块短线走高，太平洋航运涨4.2%，中远海运涨2.8%，中国外运涨2.6%，中远海发涨2.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9375231.d.html</link>
-            <guid>2118785</guid>
-            <pubDate>Tue, 13 Apr 2021 03:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据韩联社，由31个韩国公民团体组成的“脱核市民行动”13日发表声明，谴责日本政府擅自决定向大海排放核电站废水，并将日本政府的决定界定为核恐怖活动，称将谋求一切手段阻止污水入海。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9373971.d.html</link>
-            <guid>2118782</guid>
-            <pubDate>Tue, 13 Apr 2021 02:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【FF选择英伟达NVIDIA Drive Orin平台芯片 全力升级自动驾驶】北京时间4月13日，总部位于美国加州的全球共享智能出行生态系统公司法拉第未来（FF）宣布将在其极致奢华旗舰产品FF 91电动车上搭载英伟达NVIDIA Drive Orin平台芯片。FF91计划在2022年上市时实现先进的高速公路自动驾驶功能和先进的停车和召唤功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6514936.d.html</link>
-            <guid>2118779</guid>
-            <pubDate>Tue, 13 Apr 2021 02:56:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

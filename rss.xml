@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Apr 2021 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 22:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：埃克森美孚石油表示圭亚那Liza-1离岸平台产量因技术原因产量从每日12万桶下降至3万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6663604.d.html</link>
+            <guid>2120324</guid>
+            <pubDate>Tue, 13 Apr 2021 22:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生猪价格连降10周 上市猪企直面成本压力】今年春节后，国内生猪出栏价格降幅明显。养猪数据中心显示，本周之前，国内外三元生猪价格连降10周，一度跌破22元/公斤。成本关乎了猪企的盈利规模，在猪价大幅下跌之际，规模化养殖的A股上市猪企的盈利能力不免令市场担忧。据悉，仔猪育肥户的成本约23~24元/公斤，若3月份出售以外购仔猪育肥的商品猪，很可能已经出现亏损。此外，猪价大跌也令自繁自养的盈利跌幅超40%，成本线岌岌可危。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9522762.d.html</link>
+            <guid>2120322</guid>
+            <pubDate>Tue, 13 Apr 2021 21:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国邮政服务计划支持邮资NFT】美国邮政服务(USPS)将很快进入NFT市场，不是将发布艺术品或音乐，而是帮助客户购买邮费。通信即服务平台CaseMail在周二的公告中表示，USPS已认证其邮资NFT，供在美国使用。代币被数字标记在USPS的ePostage标签及邮寄的实物上，从而将数字和实物资产建立可验证的监管链，因为所有数据都记录在区块链上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6663192.d.html</link>
+            <guid>2120320</guid>
+            <pubDate>Tue, 13 Apr 2021 21:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国得州电力可靠性委员会敦促消费者在晚上减少用电量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9522368.d.html</link>
+            <guid>2120319</guid>
+            <pubDate>Tue, 13 Apr 2021 21:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得州电价再次飙升，因电网发出供应预警】周二，美国得州现货电价一度飙涨逾3300%。美国得州电网运营商警告称，由于一股冷空气正穿过该州，风力和太阳能发电受到了限制，同时发电机组正停机进行定期维修工作，电力供应料出现紧张现象。美国得州电力可靠性委员会（ERCOT）周二也表示，该委员会认为周二下午和傍晚早些时候电力系统存在备用容量短缺的风险，呼吁准备备用容量以防供应短缺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6662831.d.html</link>
+            <guid>2120315</guid>
+            <pubDate>Tue, 13 Apr 2021 21:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：英国将从阿富汗撤走几乎所有的驻军。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6662740.d.html</link>
+            <guid>2120314</guid>
+            <pubDate>Tue, 13 Apr 2021 21:34:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国生物科技股普遍收涨，Novocure收涨逾49.6%，刷新收盘历史高位至197.33美元，该公司与ZLAB共同宣布在第IV期非小细胞肺癌关键肿瘤治疗领域的III期临床试验取得积极结果，一个独立的委员会支持Novocure加速进行癌症治疗的穿戴设备试验。Flexion Therapeutics涨超13.1%，PACB涨超8.4%，EDIT涨超5.4%，NVTA涨超4.7%，ADVM则跌超0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6661465.d.html</link>
@@ -174,53 +210,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9515134.d.html</link>
             <guid>2120232</guid>
             <pubDate>Tue, 13 Apr 2021 18:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水泥价格持续调涨迎旺季，多家上市公司一季度业绩大增】清明节后，水泥价格再次提涨。受需求增加、价格普涨的影响，多家水泥行业上市公司交出亮眼的2021年一季度成绩单或业绩预告。浙江晓德律师事务所创始人陈文明主任接受《证券日报》记者采访时表示：“进入二季度，全国基建项目集中开工，且重大项目较多，水泥作为必需品，价格上涨是必然的。”（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6655296.d.html</link>
-            <guid>2120227</guid>
-            <pubDate>Tue, 13 Apr 2021 18:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【医药基本面向好逐渐验证，39股获险资调研】随着年报季报业绩陆续披露，医药行业基本面向好趋势逐渐得到验证。从行业整体业绩看，数据显示，截至4月13日发稿时，144家上市药企发布了2020年年报，其中归母净利润实现正增长的有99家，占比近七成。从今年一季报情况看，九家披露一季度业绩情况的药企中七家实现净利润正增长。值得关注的是，近期险资对医药股关注度有所提升。数据显示，3月以来，已有39家A股上市药企获保险机构调研，迈瑞医疗、一心堂、药石科技、海尔生物、长春高新、贝达药业、新产业、爱博医疗、云南白药等九家公司受到10家以上保险机构关注。而今年前两个月，仅26家上市药企被险资调研。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9513966.d.html</link>
-            <guid>2120222</guid>
-            <pubDate>Tue, 13 Apr 2021 18:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募管理规模续创新高，行业头部效应凸显】中国证券投资基金业协会最新数据显示，2021年3月私募管理基金规模达17.22万亿元，连续9个月实现正增长，同时也刷新了私募管理规模的历史新高。规模增长的同时，私募基金行业内部分化加剧，头部机构资源进一步集中。与此前相比，私募基金管理人数量却出现了下降，而对于违规私募的监管也在持续深入进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9513844.d.html</link>
-            <guid>2120220</guid>
-            <pubDate>Tue, 13 Apr 2021 18:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国气候问题特使将访问上海及首尔】当地时间13日，美国国务院宣布美国气候问题特使约翰·克里将于4月14日至17日访问上海和首尔。出访期间，克里将重点讨论全球气候变化问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmyaawa9513289.d.html</link>
-            <guid>2120210</guid>
-            <pubDate>Tue, 13 Apr 2021 17:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare(NET.N)涨幅扩大至11%，此前宣布与英伟达(NVDA.O)达成合作。]]></title>
-            <guid>2120209</guid>
-            <pubDate>Tue, 13 Apr 2021 17:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：预计伊朗将继续进行外交努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6654018.d.html</link>
-            <guid>2120208</guid>
-            <pubDate>Tue, 13 Apr 2021 17:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：汽车行业向电动智能网联升级带来行业价值体系重估】当前，科技巨头参与造车渐成趋势。以智能电动车为代表的新能源车持续高速增长，成为这些企业纷纷跨界的内在逻辑。机构分析认为，随着汽车行业向智能网联电动方向深度变革，有望带来板块的价值重估。在此背景下，汽车行业传统产业链条将发生改变，并催生出新的子赛道和细分行业龙头企业。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6653954.d.html</link>
-            <guid>2120206</guid>
-            <pubDate>Tue, 13 Apr 2021 17:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫新闻秘书珍·普萨基：美国认为伊朗宣布提高铀浓缩浓度是挑衅行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-14/detail-ikmxzfmk6653891.d.html</link>
-            <guid>2120205</guid>
-            <pubDate>Tue, 13 Apr 2021 17:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

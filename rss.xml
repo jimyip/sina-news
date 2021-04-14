@@ -4,11 +4,82 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Apr 2021 17:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 18:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  苹果跌1.9%，特斯拉跌2.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9717401.d.html</link>
+            <guid>2122518</guid>
+            <pubDate>Wed, 14 Apr 2021 18:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  富国银行：将摩根大通(JPM.N)目标价从185美元上调至190美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9716654.d.html</link>
+            <guid>2122495</guid>
+            <pubDate>Wed, 14 Apr 2021 17:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【家族信托规模暴增八成：50家信托公司参与“竞技”，银行是首选】根据中国信托登记有限公司数据显示，2020年家族信托规模较年初增长80.29％，且连续四个季度持续上升。据不完全统计，到2020年底，在国内68家信托公司中，开展家族信托业务公司数量估计增至50家。根据《2020中国家族信托报告》显示，78.98%的人群依然会将银行作为家族信托首选，而信托公司只占12.5%。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6857013.d.html</link>
+            <guid>2122494</guid>
+            <pubDate>Wed, 14 Apr 2021 17:49:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股炼油概念股普涨，瓦莱罗能源(VLO.N)涨3.46%，菲利普66(PSX.N)、马拉松原油涨近3%。]]></title>
+            <guid>2122493</guid>
+            <pubDate>Wed, 14 Apr 2021 17:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员Romney：正与民主党人Sinema就最低薪资问题进行合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6856714.d.html</link>
+            <guid>2122488</guid>
+            <pubDate>Wed, 14 Apr 2021 17:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯片短缺涨价潮蔓延：珠三角有下游企业暂停接单】当下，蔓延整个电子产业链的芯片短缺和涨价潮还在持续，据了解，压力之下，一些下游厂商陷入有单不敢接的境地，只得被迫减产。有些细分品类的电子产品，芯片涨价潮已经传导至终端市场，安防产品就是其中的代表。多位业内人士分析称，芯片短缺及涨价现象，将会贯穿整个2021年。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6856649.d.html</link>
+            <guid>2122486</guid>
+            <pubDate>Wed, 14 Apr 2021 17:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯外长：俄罗斯希望和平解决冲突】当地时间4月14日，据俄罗斯外交部官网消息，俄罗斯外长拉夫罗夫与瑞典外长林德进行了通话。拉夫罗夫表示，俄罗斯对由于乌克兰向接触线附近部署军队以及乌克兰时常炮击顿涅茨克和卢甘斯克地区造成的局势升级情况表示关切。俄外长再次重申，莫斯科希望能在明斯克协议的基础上以和平方式解决冲突。拉夫罗夫指出，基辅、顿涅茨克和卢甘斯克应当严格执行2020年7月签订的全面停火协议补充措施。同时，拉夫罗夫表示，希望瑞典作为欧洲安全与合作组织的现任主席，能够尽一切努力确保基辅履行承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6856544.d.html</link>
+            <guid>2122484</guid>
+            <pubDate>Wed, 14 Apr 2021 17:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新增万亿负债 头部券商杠杆率再创新高】2020年券商行业负债合计6.43万亿元，较2019年整体负债5.34万亿增加1.09万亿。2020年，券商杠杆率再创新高，由2019年的3.48倍提升至3.57倍。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9715925.d.html</link>
+            <guid>2122482</guid>
+            <pubDate>Wed, 14 Apr 2021 17:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  数字货币交易平台Coinbase涨幅扩大至70%，现报424.8美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6856411.d.html</link>
+            <guid>2122480</guid>
+            <pubDate>Wed, 14 Apr 2021 17:34:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国核监督机构表示，伊朗几乎完成了在纳坦兹核电站将浓缩铀丰度提高至60%的工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6856405.d.html</link>
+            <guid>2122479</guid>
+            <pubDate>Wed, 14 Apr 2021 17:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构（IAEA）表示，伊朗对其发出通知称，计划在纳坦兹核电站在安装6台IR-1级离心机，总共达1024台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9715838.d.html</link>
+            <guid>2122478</guid>
+            <pubDate>Wed, 14 Apr 2021 17:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：通用汽车和LG化学将于周五宣布成立第二家合资电池工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6856000.d.html</link>
+            <guid>2122473</guid>
+            <pubDate>Wed, 14 Apr 2021 17:24:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫新闻秘书珍·普萨基：气候峰会不是达成双边气候协议的论坛。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9715174.d.html</link>
@@ -142,54 +213,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6852320.d.html</link>
             <guid>2122423</guid>
             <pubDate>Wed, 14 Apr 2021 16:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国税局（IRS）正在调查暗网，以寻找加密货币和不可替代代币（NFT）领域的逃税行为。IRS局长Charles Rettig表示，美国未能征收的税款每年高达1万亿美元，部分原因是加密货币的爆炸式增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6852248.d.html</link>
-            <guid>2122422</guid>
-            <pubDate>Wed, 14 Apr 2021 16:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑挪威克朗USD/NOK日内跌幅达1%，现报8.3823。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6851718.d.html</link>
-            <guid>2122410</guid>
-            <pubDate>Wed, 14 Apr 2021 16:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非合作治理和传统事务部长德拉米尼·祖马当地时间14日宣布将南非国家灾难状态再延长一个月，持续到2021年5月15日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6851655.d.html</link>
-            <guid>2122408</guid>
-            <pubDate>Wed, 14 Apr 2021 16:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内油价调价窗口15日开启，搁浅和小降的可能并存】4月15日24时，国内成品油新一轮调价窗口将再次开启。据机构测算，截至本调价周期第9个工作日，参考原油变化率为-0.99%，对应汽柴油下调45元/吨，届时油价搁浅或小幅下调均有可能。根据国内成品油调价机制，成品油调价10个工作日一调，当汽、柴油调价幅度低于每吨50元时，不作调整，纳入下次调价时累加或冲抵。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6850685.d.html</link>
-            <guid>2122395</guid>
-            <pubDate>Wed, 14 Apr 2021 16:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗总统：愿意“按照自己的逻辑”参与重回伊核协议谈判】伊朗总统鲁哈尼14日在内阁会议上表示，伊朗愿意就重回伊朗核问题全面协议参与谈判，但将“按照自己的逻辑”进行谈判。鲁哈尼重申伊朗在重回伊核协议上的立场，即美国应率先完整履行伊核协议，伊朗在核实后也将“立即履行所有义务”。鲁哈尼说，伊朗政府已经为核查程序制定了计划，因此核查美国是否完整履约不会花很长时间。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6850338.d.html</link>
-            <guid>2122390</guid>
-            <pubDate>Wed, 14 Apr 2021 16:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Coinbase(COIN.O)A类股票在纳斯达克上市首日的开盘价料为364美元，参考价格为每股250美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6850135.d.html</link>
-            <guid>2122385</guid>
-            <pubDate>Wed, 14 Apr 2021 16:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国方面针对Greensill基金的调查将于下周启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmxzfmk6849867.d.html</link>
-            <guid>2122376</guid>
-            <pubDate>Wed, 14 Apr 2021 16:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1亿大号改名了】即日起，新华社法人微博@新华视点正式更名为@新华社。（新华社官微）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-15/detail-ikmyaawa9708973.d.html</link>
-            <guid>2122374</guid>
-            <pubDate>Wed, 14 Apr 2021 16:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

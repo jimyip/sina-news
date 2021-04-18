@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 18:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据媒体消息，俄罗斯驱逐20名捷克外交官，限其必须在4月19日前离开俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0440518.d.html</link>
+            <guid>2128976</guid>
+            <pubDate>Sun, 18 Apr 2021 18:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及卫生部：火车脱轨事故造成11人死亡，98人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7578228.d.html</link>
+            <guid>2128969</guid>
+            <pubDate>Sun, 18 Apr 2021 18:14:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[香港特区政府18日晚宣布，将对印度、巴基斯坦及菲律宾实施地区性航班熔断机制。从4月20日零时零分起禁止所有从这些地区来港的民航客机着陆香港，为期14天。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0436689.d.html</link>
@@ -241,18 +253,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0403752.d.html</link>
             <guid>2128816</guid>
             <pubDate>Sun, 18 Apr 2021 11:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年年报到了4月最后收官阶段，更多股票风险即将暴露】据不完全统计，4月以来已有20多只股票发布面临退市风险警示，也就是*ST戴帽的风险；更有4家发布了终止上市风险公告，也就是濒临退市的公告。就上述这些股票，已经涉及股东户数高达100万户。这其中，既有央企旗下大唐电信面临退市风险警示戴帽，也有上市才一年半的米奥会展也要戴帽了；更有曾经市值高达2000亿的*ST信威濒临退市。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7541990.d.html</link>
-            <guid>2128778</guid>
-            <pubDate>Sun, 18 Apr 2021 11:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据沙特媒体援引沙外交部官员：目前，沙特与伊朗之间没有任何会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7540060.d.html</link>
-            <guid>2128761</guid>
-            <pubDate>Sun, 18 Apr 2021 11:22:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 05:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 06:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以色列国防部表示，以色列和希腊签署了有史以来最大的国防采购协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7495842.d.html</link>
+            <guid>2127796</guid>
+            <pubDate>Sun, 18 Apr 2021 06:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东风汽车发布“十四五”战略规划，打造整车、科技、服务三大事业群】4月17日，在2021年上海车展前夕，东风汽车正式发布了“十四五”发展战略规划，即“东方风起”计划，打造打造整车、科技、服务三大事业群。在“十四五”期间，东风制定了3个“一百万”计划，到2025年，商用车、自主乘用车和新能源汽车销量分别达到100万。东风将实现L4级智能网联汽车规模化示范应用，并掌握L5级智能网联汽车关键核心技术。当天，东风无人驾驶品牌“无限星”正式亮相，产品将覆盖L4、L5级别的无人驾驶智能集卡。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0353391.d.html</link>
+            <guid>2127790</guid>
+            <pubDate>Sun, 18 Apr 2021 05:30:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英军舰将在5月进入黑海以示对乌支持】英国《泰晤士报》援引海军消息人士称，英国皇家海军的一艘驱逐舰和一艘反潜护卫舰将于5月份进入黑海，以在俄乌边境局势的背景下对乌克兰表示声援。最近一段时间，乌克兰和西方国家对所谓的俄罗斯加强在乌克兰“侵略行动”表示关切。美国宣称“俄罗斯侵略”升级，以及俄军向克里米亚和乌克兰东部边境调动。俄总统新闻秘书佩斯科夫表示，俄罗斯是在本国境内酌情调动军队。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0350994.d.html</link>
@@ -304,24 +316,6 @@
             <title><![CDATA[【尼古拉斯·伯恩斯或将出任美国驻中国大使】据美国短新闻网站“AXIOS”援引知情人士消息报道，美国总统拜登准备任命哈佛大学教授、资深外交官尼古拉斯·伯恩斯(Nicholas Burns)为驻中国大使并正在对其进行最后的审查。（中新网）]]></title>
             <guid>2127678</guid>
             <pubDate>Sat, 17 Apr 2021 23:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南省17日新增1例境外输入确诊病例 无新增本土病例】4月17日0时至24时，云南省无新增本土确诊病例和无症状感染者；新增境外输入确诊病例1例，中国籍，缅甸输入。确诊病例治愈出院2例（均为本土）；无症状感染者解除隔离医学观察3例（本土1例，境外输入2例）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7439537.d.html</link>
-            <guid>2127677</guid>
-            <pubDate>Sat, 17 Apr 2021 22:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉发布2021年第一季度安全报告，马斯克推特评论称： 使用自动驾驶仪的特斯拉现在发生事故的几率比一般车辆低10倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0299300.d.html</link>
-            <guid>2127676</guid>
-            <pubDate>Sat, 17 Apr 2021 22:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及开罗国际机场查获毒品走私和携带违禁武器案】埃及媒体17日报道，当天，开罗国际机场2号航站楼的海关人员成功查获一起走私毒品案件和一起携带违禁武器案件。据悉，海关人员在一名从法兰克福抵达开罗的乘客的手提箱中，发现被列为毒品的曲马多，共计1249片。此外，一名从多哈抵达开罗的乘客被查获携带两把匕首和六把折叠刀。埃及海关总署已对两名乘客采取法律措施，并将他们移交给埃及检察机关。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0299076.d.html</link>
-            <guid>2127674</guid>
-            <pubDate>Sat, 17 Apr 2021 22:36:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

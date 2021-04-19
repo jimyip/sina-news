@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 19 Apr 2021 17:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 18:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[日本2020财年累计发行6.96万亿日元市政债券，野村在承销业务上21.1%的市场份额保住头把交椅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7783369.d.html</link>
+            <guid>2130938</guid>
+            <pubDate>Mon, 19 Apr 2021 18:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【亚马逊计划发射首批卫星 与马斯克的星链争高下】当地时间周一，亚马逊(AMZN.O)宣布与联合发射联盟公司（ULA）签署合同，ULA是波音(BA.N)与洛克希德马丁(LMT.N)的合资企业。据悉，ULA将使用来Atlas-5火箭发射柯伊伯星座项目的卫星，总共将进行9次发射。亚马逊方面没有透露合同的具体数额，也没有透露每次发射的卫星数目。亚马逊创始人杰夫•贝索斯发表声明称:“我们希望让世界各地的客户和社区都能负担得起宽带。ULA是非常棒的合作伙伴，它已经成功地为商业和政府客户执行了几十次发射任务，我们非常感谢他们对柯伊伯的支持。亚马逊目前并未公布柯伊伯的发射时间表，不过根据FCC的要求，亚马逊需要在六年内部署一半计划中的卫星，即在2026年7月之前，将约1600颗卫星送入太空。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7782251.d.html</link>
+            <guid>2130937</guid>
+            <pubDate>Mon, 19 Apr 2021 17:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Verizon(VZ.N)宣布最近开始部署C波段5G设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0643050.d.html</link>
+            <guid>2130935</guid>
+            <pubDate>Mon, 19 Apr 2021 17:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登愿意就基建法案妥协】美国总统拜登周一表示，愿意就基建法案妥协，并在未来数月讨论该问题。此外，拜登还称，即将与美国国会议员就该一揽子方案的内容和融资问题进行讨论。美国政府官员透露，预计国会通过该项法案的时间会在7月中旬，所以还有很多时间。今日早些时候还再度讨论了调高公司税至25%，而不是最初提议的28%，目前仅为21%。提高燃油税可能是计划的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7781771.d.html</link>
+            <guid>2130934</guid>
+            <pubDate>Mon, 19 Apr 2021 17:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：Facebook(FB.O)正与Spotify(SPOT.N)合作推出一项在Facebook上播放和分享音乐的新功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7781187.d.html</link>
+            <guid>2130931</guid>
+            <pubDate>Mon, 19 Apr 2021 17:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登：将与国会议员讨论基建法案的内容以及如何为其融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7780889.d.html</link>
+            <guid>2130929</guid>
+            <pubDate>Mon, 19 Apr 2021 17:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：美国必须在气候问题上发挥领导作用，创造高质量的就业机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0640894.d.html</link>
+            <guid>2130926</guid>
+            <pubDate>Mon, 19 Apr 2021 17:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车高管Bob Carter：芯片供应前景将在夏季“变得更加清晰”。芯片供应短缺问题对本公司的影响并没有竞争对手们那么大。预计本公司4-5月芯片供应“良好”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7779543.d.html</link>
+            <guid>2130925</guid>
+            <pubDate>Mon, 19 Apr 2021 17:25:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Facebook(FB.O)CEO扎克伯格：Facebook正在开发短音频版本的Reels。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0640248.d.html</link>
@@ -326,58 +374,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0627892.d.html</link>
             <guid>2130838</guid>
             <pubDate>Mon, 19 Apr 2021 14:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据CNN：苹果将让Parler重回应用商店。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7766444.d.html</link>
-            <guid>2130835</guid>
-            <pubDate>Mon, 19 Apr 2021 14:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利总理德拉吉：意大利支持（欧洲多个）足球主管部门关于创立超级联赛的想法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0627586.d.html</link>
-            <guid>2130834</guid>
-            <pubDate>Mon, 19 Apr 2021 14:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：政府强烈支持意大利和欧洲足球当局捍卫国家比赛和体育价值观。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7765891.d.html</link>
-            <guid>2130832</guid>
-            <pubDate>Mon, 19 Apr 2021 14:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通以48亿美元支持欧洲超级足球联赛】摩根大通斥资40亿欧元（约48亿美元）支持欧洲12支欧洲足球豪门组建欧洲超级联赛，此举已招致球迷、国内联赛和政界人士的强烈批评。据知情人士透露，美国投行同意承销一笔35亿欧元的初始投资，以帮助一群世界上最富有的足球俱乐部建立一个顶级足球超级联赛，在额外付款和支出后，总额将达到40亿欧元。知情人士补充称，这项投资目前由摩根大通提供资金，可能在晚些时候向投资者提供。目前已有六支英格兰、三支意大利和三支西班牙球队与欧洲联赛签约，并承诺在一定年限内继续留在欧洲联赛。知情人士补充称，这份有约束力的协议是摩根大通投资的关键推动因素。对此，摩根大通发言人拒绝置评，欧洲超级联赛没有及时做出回应。]]></title>
-            <guid>2130831</guid>
-            <pubDate>Mon, 19 Apr 2021 14:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证监会：近日，个别媒体有关“证监会系统离职人员投资入股拟上市企业的，证监会一律不予受理，已受理的暂停审核”的报道内容不实。对于涉及系统离职人员投资入股的IPO申请，证监会均正常受理，并严格依法推进审核复核程序。]]></title>
-            <guid>2130830</guid>
-            <pubDate>Mon, 19 Apr 2021 14:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Nikola跌5%，此前韦德布什将Nikola目标价从25美元下调至13美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0626477.d.html</link>
-            <guid>2130827</guid>
-            <pubDate>Mon, 19 Apr 2021 14:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：美国对俄罗斯主权债务的制裁似乎是可控的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0626166.d.html</link>
-            <guid>2130824</guid>
-            <pubDate>Mon, 19 Apr 2021 14:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅：支持东盟以“东盟方式”建设性参与缅国内和解进程】2021年4月19日，国务委员兼外长王毅作为习近平主席特别代表出席联合国安理会“加强联合国同区域和次区域组织合作”高级别公开辩论会。王毅表示，国际社会应尊重和维护东盟在东亚地区合作中的中心地位。当前，支持东盟以“东盟方式”建设性参与缅甸国内和解进程，推动缅甸局势缓和降温，符合缅甸人民和国际社会的利益。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7764736.d.html</link>
-            <guid>2130822</guid>
-            <pubDate>Mon, 19 Apr 2021 14:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛：美股市场的三个决定性主题将是税制改革、基础设施建设和定价能力】①高盛首席美国股票策略师David Kostin在周一的一份报告中称：标准普尔500指数已达到新高，而市场波动性却急剧下降。波动性的下降超过了股票之间的低相关性，使回报率分散度跌破了长期平均水平；②Kostin表示，随着美国的2020年大选、1.9万亿美元的财政刺激方案等宏观事件的影响逐渐消退，并且经济活动重回高峰期，我们预计市场的三个决定性主题将是税制改革、基础设施建设，以及定价能力；③Kostin说，税制改革的细节，将对公司收益产生大小不一的影响，而只有少数特定公司才有可能成为基础建设开支的直接受益者。与此类似，输入成本上涨的影响将取决于公司的利润率概况，以及将成本转嫁给最终消费者的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0625979.d.html</link>
-            <guid>2130821</guid>
-            <pubDate>Mon, 19 Apr 2021 14:25:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

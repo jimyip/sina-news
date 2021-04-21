@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 21 Apr 2021 17:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 18:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：巴基斯坦警方称，巴基斯坦西南部一家高级酒店发生爆炸，造成3人死亡，11人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmyaawc1065037.d.html</link>
+            <guid>2134248</guid>
+            <pubDate>Wed, 21 Apr 2021 18:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  维珍银河盘中走高，现涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmxzfmk8204084.d.html</link>
+            <guid>2134232</guid>
+            <pubDate>Wed, 21 Apr 2021 17:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部长雷蒙多：需要坚定地实施大规模基建计划，6000亿美元是一个良好的开端，但远远不够。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmyaawc1063405.d.html</link>
+            <guid>2134230</guid>
+            <pubDate>Wed, 21 Apr 2021 17:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民间投资加速回暖，一揽子新举措蓄势再发力】为充分激发民间投资活力，优化投资结构，一揽子促民间投资新举措还在蓄势发力。从部委到地方正在紧锣密鼓部署，进一步拓宽民间投资渠道、降低民间投资成本、加大对民营企业信贷支持，推动PPP项目尽快落地实施。从引资领域看，基础设施和民生补短板项目，以及“两新一重”项目仍是重头戏。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmxzfmk8203740.d.html</link>
+            <guid>2134228</guid>
+            <pubDate>Wed, 21 Apr 2021 17:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果：苹果研究员Phil Schiller将参加与Epic Games的整个反垄断审判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmxzfmk8203488.d.html</link>
+            <guid>2134220</guid>
+            <pubDate>Wed, 21 Apr 2021 17:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【央地密集部署 新一轮智能制造施工方略浮现】目前国家发展改革委、工信部、国务院国资委等多个部门正密集展开部署，从加快5G、大数据等新一代信息技术在制造业的应用，到加快培育有影响力的工业互联网平台，再到加快重点骨干企业实现数字化、智能化转型，系统施工方案已经浮现。与此同时，包括财政资金、投资基金在内的多元资金也将进一步支持企业上云和数字化改造，加快数字车间、智能工厂应用落地，为制造业转型升级按下“加速键”。 (经参)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmyaawc1062975.d.html</link>
+            <guid>2134218</guid>
+            <pubDate>Wed, 21 Apr 2021 17:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息称特斯拉德国工厂无法于7月按期投产】据悉特斯拉德国工厂的投产日期可能大幅推迟。特斯拉曾于2019年11月宣布，计划在德国东部勃兰登堡州的格伦海德建造一座新工厂，以迎合欧洲对电动汽车迅速增长的需求。根据特斯拉的计划，该工厂将于今年7月1日前投入运营，开始生产跨界电动车ModelY。但由于环保等问题，特斯拉的建厂进程非常缓慢。而最新消息称，特斯拉还需要公开更多与建厂相关的文件，并等待相关部门的批准。为此，特斯拉德国工厂可能无法按预期在7月前投产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmxzfmk8202727.d.html</link>
+            <guid>2134204</guid>
+            <pubDate>Wed, 21 Apr 2021 17:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员威克：共和党希望周四公布基础设施提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmxzfmk8202451.d.html</link>
+            <guid>2134200</guid>
+            <pubDate>Wed, 21 Apr 2021 17:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[可口可乐任命Monica Howard Douglas为高级副总裁兼法律总顾问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmyaawc1061810.d.html</link>
+            <guid>2134197</guid>
+            <pubDate>Wed, 21 Apr 2021 17:27:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国提出解除制裁 伊朗核协议谈判取得进展】据知情人士透露，美国总统拜登的政府表示愿意放松针对伊朗石油、金融和其他行业的限制措施，但伊朗方面希望看到更加具体的举措，这将有助于缩小谈判分歧。尽管取得了进展，但高级外交官警告称，关于伊核协议的艰难谈判仍将持续数周，进展仍很脆弱。由于美伊双方复杂的国内政治以及伊朗拒绝与美国代表直接会面，这场在维也纳举行的会谈变得更加复杂。参与谈判的人士称，随着美国更清晰地列出它准备提出的解除制裁的方案，谈判取得了进展。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-22/detail-ikmxzfmk8202085.d.html</link>
@@ -233,48 +287,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc1053289.d.html</link>
             <guid>2134105</guid>
             <pubDate>Wed, 21 Apr 2021 15:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.74%，报436.99点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc1053160.d.html</link>
-            <guid>2134100</guid>
-            <pubDate>Wed, 21 Apr 2021 15:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特斯拉代理总法律顾问加入Luminar(LAZR.O)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc1053146.d.html</link>
-            <guid>2134099</guid>
-            <pubDate>Wed, 21 Apr 2021 15:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dish Network(DISH.O)涨超5%，此前公司决定基于亚马逊云服务(AWS)建设5G网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc1052945.d.html</link>
-            <guid>2134097</guid>
-            <pubDate>Wed, 21 Apr 2021 15:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在昨天的发布会上，苹果CEO库克提及博客订阅服务将于下月在170个地区和国家推出，但在发布会上或新闻稿中均为提及价格信息。据Recode，有消息人士称，苹果将让博客出版商自己设定价格，但苹果将从中抽成30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk8192847.d.html</link>
-            <guid>2134090</guid>
-            <pubDate>Wed, 21 Apr 2021 15:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富途控股跌幅收窄至1%，盘初一度跌近7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc1052158.d.html</link>
-            <guid>2134088</guid>
-            <pubDate>Wed, 21 Apr 2021 15:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内涨0.50%，现报0.7761。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmxzfmk8192258.d.html</link>
-            <guid>2134081</guid>
-            <pubDate>Wed, 21 Apr 2021 15:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中钢协：4月以来钢材价格总体延续波动上行走势】中国钢铁工业协会表示，3月份，国内市场需求旺盛，钢材价格波动上行，升幅较上月有所加大。进入4月份以来，钢材价格先升后降，总体延续波动上行走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-21/detail-ikmyaawc1051595.d.html</link>
-            <guid>2134078</guid>
-            <pubDate>Wed, 21 Apr 2021 15:13:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

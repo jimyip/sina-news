@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 22 Apr 2021 20:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 21:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国国家公路交通安全管理局：有关特斯拉的消费者报告结果“令人担忧”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1284230.d.html</link>
+            <guid>2137653</guid>
+            <pubDate>Thu, 22 Apr 2021 21:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空追加采购25架空客A321neo飞机，并保留另外补充采购25架的选择权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8423917.d.html</link>
+            <guid>2137651</guid>
+            <pubDate>Thu, 22 Apr 2021 20:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【华尔街认为拜登上调资本利得税可能刺激卖盘】美国总统拜登可能提议将资本利得税率上调近一倍，华尔街交易员认为，如果投资者寻求避免被征收更高的利得税，加税的前景可能导致近期市场面临卖压。Logan资管总经理预测，初步影响是人们决定赶在加税前现在就了结获利，资金流可能下降。独立顾问联盟首席投资官表示，该计划将激发今年的卖盘，但接下来几年可能一定程度上阻止卖盘，也可能阻止买盘。富国银行市场策略师认为，市场涨势可能更加动荡。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8421331.d.html</link>
@@ -264,48 +276,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1273443.d.html</link>
             <guid>2137351</guid>
             <pubDate>Thu, 22 Apr 2021 16:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯下令军队从其与乌克兰接壤的边境撤出，此前俄罗斯大规模军事集结引起了西欧和美国的警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8413592.d.html</link>
-            <guid>2137348</guid>
-            <pubDate>Thu, 22 Apr 2021 16:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空(LUV.N)CEO：由于停飞一些波音737 MAX客机，公司没有遭遇操作中断问题。 每架737 MAX客机需要花2-3天以解决其电气问题。 公司目前有64架Max飞机在舰队中，其中32架飞机目前停用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8413439.d.html</link>
-            <guid>2137347</guid>
-            <pubDate>Thu, 22 Apr 2021 16:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[合成生物学公司Zymergen(ZY.O)正式登陆纳斯达克，开涨超29%，报40.3美元，发行价为31美元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8413396.d.html</link>
-            <guid>2137346</guid>
-            <pubDate>Thu, 22 Apr 2021 16:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[资产管理规模为1200亿美元的丹麦养老基金PFA对债券丧失信心，该公司CIO Kasper Lorenzen认为，是时候切割笃定收益资产了，应该转而投资更大范围的股票市场——无论具体的公司是否上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8413239.d.html</link>
-            <guid>2137343</guid>
-            <pubDate>Thu, 22 Apr 2021 16:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：Square(SQ.N)宣布为零售商提供新的库存管理功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1273074.d.html</link>
-            <guid>2137342</guid>
-            <pubDate>Thu, 22 Apr 2021 16:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：修正案草案将授予美国国家公路交通安全管理局权力，允许自动驾驶公司在车辆完全自动驾驶时禁用人类驾驶控制装置。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8412482.d.html</link>
-            <guid>2137325</guid>
-            <pubDate>Thu, 22 Apr 2021 16:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国共和党参议员Capito：拜登鼓励购买电动汽车的条款不在共和党计划之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1271839.d.html</link>
-            <guid>2137319</guid>
-            <pubDate>Thu, 22 Apr 2021 16:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

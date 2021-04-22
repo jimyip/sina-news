@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 22 Apr 2021 21:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 22:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【严打规避退市，深交所年报审查聚焦五大风险】 据悉，深交所正紧锣密鼓开展年报监管服务工作，在年报审查中聚焦业绩真实性、资金占用与违规担保、公司治理规范性、资产减值准备计提、重组标的资产整合与业绩承诺履行情况五大突出风险，尤其重点关注存在退市风险公司财务处理的合规性。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1286692.d.html</link>
+            <guid>2137667</guid>
+            <pubDate>Thu, 22 Apr 2021 22:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英特尔(INTC.O)CEO Swan：对向云计算客户授权其x86与arm技术相结合持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1286385.d.html</link>
+            <guid>2137665</guid>
+            <pubDate>Thu, 22 Apr 2021 22:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vertiv将更新2020年业绩报告声明，以应对美国证券交易委员会（SEC）针对特殊目的收购公司（SPAC）募资/合并活动的指导原则。]]></title>
+            <guid>2137660</guid>
+            <pubDate>Thu, 22 Apr 2021 21:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报头版评论：警惕大宗商品“涨声”背后的终端成本风险】 一年多来，对于大宗商品市场的异常表现，市场似乎已见怪不怪。不可否认，目前国内大宗商品价格上涨的主要原因，包括市场对供给端受限的炒作。在我国力争2030年前实现碳达峰、2060年前实现碳中和的重大战略决策推进下，包括钢材在内的大宗商品供给端压缩预期增强，或也将使得市场供需格局持续趋紧。上游商品涨价难续，但大幅降价短期或也难实现。产业链上成本压力转嫁的规律不可逆，“涨声一片”背后，尤需警惕终端商品成本风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8425762.d.html</link>
+            <guid>2137659</guid>
+            <pubDate>Thu, 22 Apr 2021 21:37:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国国家公路交通安全管理局：有关特斯拉的消费者报告结果“令人担忧”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1284230.d.html</link>
@@ -44,6 +67,12 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1280877.d.html</link>
             <guid>2137552</guid>
             <pubDate>Thu, 22 Apr 2021 19:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员Scott将于4月28日向美国总统拜登反馈共和党人的回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1280428.d.html</link>
+            <guid>2137541</guid>
+            <pubDate>Thu, 22 Apr 2021 19:36:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  美国总统气候问题特使约翰·克里：每个国家都必须加入对抗气候变化的斗争。]]></title>
@@ -216,66 +245,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1274944.d.html</link>
             <guid>2137392</guid>
             <pubDate>Thu, 22 Apr 2021 17:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西南航空(LUV.N)：4月份的前景可能包括对客座率将陆续改善的预期，与3月份相比，乘客收入将有所提高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1274829.d.html</link>
-            <guid>2137387</guid>
-            <pubDate>Thu, 22 Apr 2021 17:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五年期通胀保值国债（TIPS）收益率跌至纪录新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1274692.d.html</link>
-            <guid>2137384</guid>
-            <pubDate>Thu, 22 Apr 2021 17:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西南航空(LUV.N)：预计收益将低于2019年的水平，因为在复苏的这一点上，公司完全依赖于休闲旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1274683.d.html</link>
-            <guid>2137383</guid>
-            <pubDate>Thu, 22 Apr 2021 17:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将特斯拉目标价从880美元上调至900美元】摩根士丹利分析师将特斯拉(TSLA.O)的目标股价从880美元上调至900美元，并在该公司于4月26日发布的第一季度报告之前维持“增持”评级。分析师正在更新他此前预测的第一季度交付量18.48万辆的模型，并对今年剩余时间的产量预测进行了调整，以说明该公司今年表现的“强劲开局”。他将特斯拉2021财年的交付量预测上调了3%，至80.9万部，同时指出这一预期“略低于市场预期”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8414489.d.html</link>
-            <guid>2137377</guid>
-            <pubDate>Thu, 22 Apr 2021 17:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西南航空(LUV.N)：到年底，商务旅行预计同比下降50%-60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8414166.d.html</link>
-            <guid>2137369</guid>
-            <pubDate>Thu, 22 Apr 2021 16:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ Uber(UBER.N)涨幅扩大至2%，外卖业务Uber Eats计划在德国开启业务；获瑞银上调目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8414158.d.html</link>
-            <guid>2137368</guid>
-            <pubDate>Thu, 22 Apr 2021 16:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西南航空(LUV.N)：737 MAX飞机的维修工作预计在3周内完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1273640.d.html</link>
-            <guid>2137361</guid>
-            <pubDate>Thu, 22 Apr 2021 16:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团(C.N)小幅上扬。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1273569.d.html</link>
-            <guid>2137355</guid>
-            <pubDate>Thu, 22 Apr 2021 16:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：花旗集团(C.N)的零售（银行）部门营收预计达60亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8413730.d.html</link>
-            <guid>2137354</guid>
-            <pubDate>Thu, 22 Apr 2021 16:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸内政部宣布通缉民族团结政府主要成员】当地时间4月22日晚，缅甸国家电视台发布消息称，缅甸内政部已对民族团结政府的26名主要成员签发通缉令，指控其触犯缅甸法律有关非法结社和叛国罪有关条款。目前，缅甸民族团结政府任命的总统温敏和国务资政昂山素季正在被军方拘押，并遭到多项指控。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1273443.d.html</link>
-            <guid>2137351</guid>
-            <pubDate>Thu, 22 Apr 2021 16:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

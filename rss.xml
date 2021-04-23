@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 Apr 2021 16:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 17:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[江西铜业副总经理陈羽年日前在上海一个行业会议上称，市场基本面对铜价有利，相信可以达到每吨10,000美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1467041.d.html</link>
+            <guid>2139157</guid>
+            <pubDate>Fri, 23 Apr 2021 17:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑日元EUR/JPY升至日高，报130.38。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1465966.d.html</link>
+            <guid>2139154</guid>
+            <pubDate>Fri, 23 Apr 2021 16:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据悉，雀巢正在就以数十亿美元的价格收购天然Bounty维生素制造商进行谈判。雀巢最早有可能在下周与Bountiful敲定协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8606151.d.html</link>
+            <guid>2139153</guid>
+            <pubDate>Fri, 23 Apr 2021 16:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[医疗设备制造商Treace Medical Concepts(TMCI.O)开涨超46%，发行价为17美元/股。]]></title>
+            <guid>2139150</guid>
+            <pubDate>Fri, 23 Apr 2021 16:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luminar(LAZR.O)盘中涨幅一度扩大至18%，现涨16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1463264.d.html</link>
+            <guid>2139148</guid>
+            <pubDate>Fri, 23 Apr 2021 16:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  游泳池制造商Latham Group(SWIM.O)上市首日涨超28%，一度涨超33%，发行价为19美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1462839.d.html</link>
+            <guid>2139144</guid>
+            <pubDate>Fri, 23 Apr 2021 16:12:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[新股肿瘤生物技术公司Rain Therapeutics(RAIN.O)转跌，此前一度涨超30%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8602072.d.html</link>
@@ -203,48 +238,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8590641.d.html</link>
             <guid>2139049</guid>
             <pubDate>Fri, 23 Apr 2021 13:53:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国期待着与俄罗斯就碳排放努力展开合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1450178.d.html</link>
-            <guid>2139046</guid>
-            <pubDate>Fri, 23 Apr 2021 13:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：气候峰会取得了很大进展，但这只是个开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1449736.d.html</link>
-            <guid>2139044</guid>
-            <pubDate>Fri, 23 Apr 2021 13:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国宝安：一季度净利同比增373.43%】中国宝安(000009)4月23日晚间公告，公司一季度实现营业收入37.01亿元，同比增129.33%；净利润1.9亿元，同比增373.43%；基本每股收益0.0738元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1448766.d.html</link>
-            <guid>2139041</guid>
-            <pubDate>Fri, 23 Apr 2021 13:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚行贷款4000万美元支持中国乡村振兴】亚洲开发银行23日与中国中和农信项目管理有限公司签署4000万美元等值人民币贷款融资协议，用以助力乡村振兴。未来五年，这笔贷款将通过中和农信提供的小额贷款服务，为广大农民和农村地区小微企业主发展生产提供急需资金，提高生活质量。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8588848.d.html</link>
-            <guid>2139040</guid>
-            <pubDate>Fri, 23 Apr 2021 13:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥地利计划在5月19日放宽病毒限制措施，允许餐馆、咖啡馆、酒店和剧院重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8588453.d.html</link>
-            <guid>2139038</guid>
-            <pubDate>Fri, 23 Apr 2021 13:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国运通(AXP.N)跌3.7%，2021年Q1营收同比下滑12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8588114.d.html</link>
-            <guid>2139035</guid>
-            <pubDate>Fri, 23 Apr 2021 13:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英特尔(INTC.O)跌超5%，第一季度净利润不及市场预期，数据中心收入同比下降20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8588031.d.html</link>
-            <guid>2139034</guid>
-            <pubDate>Fri, 23 Apr 2021 13:30:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

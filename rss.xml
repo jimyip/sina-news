@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 Apr 2021 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 22:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IMF：上调智利2021年GDP预期至增长6.5%，之前料增6.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476859.d.html</link>
+            <guid>2139346</guid>
+            <pubDate>Fri, 23 Apr 2021 21:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季报解密公募基金动向：增仓1114只个股，银行等三行业受追捧】 截至4月23日，东方财富数据显示，基金一季度末持有1680只A股股票，从持股总市值来看，贵州茅台、五粮液、海康威视、中国中免、招商银行等5只个股位列基金一季度末持仓股市值前五名。上述1680只个股主要扎堆在医药生物、电子、化工、机械设备、计算机等五大行业。有1114只个股获得基金加仓。新进股方面，有379只个股为新进个股。从行业角度来看，银行、钢铁、食品饮料三大行业基金加仓股占行业股比例最高。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8617225.d.html</link>
+            <guid>2139345</guid>
+            <pubDate>Fri, 23 Apr 2021 21:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  强生回应美国疾控中心的决定：将继续与疾控中心和食品药品监督管理局合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476053.d.html</link>
+            <guid>2139341</guid>
+            <pubDate>Fri, 23 Apr 2021 21:27:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[在美上市iShares安硕MSCI印度ETF收涨0.63%，报40.05美元，但3月11日以43.79美元创收盘历史新高之后，持续走软，目前已经走出倒V看跌形态。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8614939.d.html</link>
@@ -279,30 +297,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8599608.d.html</link>
             <guid>2139110</guid>
             <pubDate>Fri, 23 Apr 2021 15:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：我们将在气候问题上处于关键时刻。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8599586.d.html</link>
-            <guid>2139109</guid>
-            <pubDate>Fri, 23 Apr 2021 15:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：美国总统拜登将于6月访问英国和比利时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8599576.d.html</link>
-            <guid>2139108</guid>
-            <pubDate>Fri, 23 Apr 2021 15:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：美国总统拜登将出席在英国康沃尔举行的G7峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1459188.d.html</link>
-            <guid>2139107</guid>
-            <pubDate>Fri, 23 Apr 2021 15:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲理事会主席Michel：呼吁5月25日在布鲁塞尔举办面对面的欧洲理事会会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8598927.d.html</link>
-            <guid>2139102</guid>
-            <pubDate>Fri, 23 Apr 2021 15:10:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

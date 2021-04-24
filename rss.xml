@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Apr 2021 22:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 23:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国家能源局：一季度新增发电装机2351万千瓦】国家能源局获悉透露，一季度，全国基建新增发电装机容量2351万千瓦，比三峡电站2250万千瓦的总装机容量还要大，比上年同期多投产996万千瓦。其中，水电109万千瓦、火电1060万千瓦、核电115万千瓦、风电526万千瓦、太阳能发电533万千瓦。可再生能源发电新增装机占比超过50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8760535.d.html</link>
+            <guid>2140478</guid>
+            <pubDate>Sat, 24 Apr 2021 23:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日在售高收益银行理财产品一览】今日业绩比较基准在5%以上的银行人民币理财产品共9款。理财非存款、产品有风险、投资须谨慎！]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8759340.d.html</link>
+            <guid>2140474</guid>
+            <pubDate>Sat, 24 Apr 2021 22:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国首个国产大飞机生产试飞中心竣工】由我国自主设计建造的首个国产大飞机生产试飞中心——中国商飞江西生产试飞中心24日全面竣工，标志着我国已形成从科研设计、生产试飞到交付运营一整套相对完善的大飞机产业链条。据中铁十八局集团商飞项目负责人张明灿介绍，中国商飞江西生产试飞中心主要功能是承担国产ARJ21飞机的生产试飞支持和运营保障等。项目正式投产后，可实现每年完工交付约30架次飞机的产能目标。]]></title>
+            <guid>2140473</guid>
+            <pubDate>Sat, 24 Apr 2021 22:51:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【尼日利亚伊莫州州长住所遇袭 造成3人死亡】据尼日利亚伊莫州政府证实，4月24日上午9时许，约15名匪徒驾驶装满废旧轮胎的自卸车袭击了该州州长霍普·乌佐丁玛位于其家乡的住所。 伊莫州警方事发后通报称，袭击者将汽油炸弹扔进了州长住所院内，导致2辆汽车被烧毁，房屋被引燃；驻守州长住所的警卫人员与袭击者发生交火，最终成功击退袭击者；1名疾控中心工作人员在袭击过程被打死，袭击者遭逃跑过程中又杀害了1名警察和1名民防队员。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8756880.d.html</link>
@@ -292,23 +309,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1568747.d.html</link>
             <guid>2140052</guid>
             <pubDate>Sat, 24 Apr 2021 10:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国盛金控：营业总收入约22.06亿元、同比增长32.12%；实现归属于上市公司股东的净利润约-3.66亿元，同比下降573.14%。]]></title>
-            <guid>2140050</guid>
-            <pubDate>Sat, 24 Apr 2021 10:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：埃及希望通过“高潜力”的金矿开采合同来刺激投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1565775.d.html</link>
-            <guid>2140044</guid>
-            <pubDate>Sat, 24 Apr 2021 10:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【覃伟中任深圳市政府副市长、代理市长】据深圳卫视深视新闻消息，4月24日下午，市六届人大常委会第五十次会议表决通过系列决议和人事任免事项。会议任命覃伟中为深圳市副市长、代理市长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8704639.d.html</link>
-            <guid>2140041</guid>
-            <pubDate>Sat, 24 Apr 2021 10:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

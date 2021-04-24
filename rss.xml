@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Apr 2021 17:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 18:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国地质勘探局：菲律宾萨兰加尼省以东117公里处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1608388.d.html</link>
+            <guid>2140142</guid>
+            <pubDate>Sat, 24 Apr 2021 17:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据伊朗Alalam电视台：遇袭油轮是最近抵达Baniyas石油终端的三艘油轮之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1608056.d.html</link>
+            <guid>2140141</guid>
+            <pubDate>Sat, 24 Apr 2021 17:37:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据伊朗Alalam电视台：知情人士称，在叙利亚Baniyas运输终端附近海域起火的油轮曾遭到两枚炮弹击中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8747253.d.html</link>
@@ -328,24 +340,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1555824.d.html</link>
             <guid>2140020</guid>
             <pubDate>Sat, 24 Apr 2021 08:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陕西发布便携式卫星运维设备“备战”商业卫星需求】西安中科天塔科技股份有限公司23日公开发布了一款卫星测控数传一体化处理平台——天枢G100。该公司负责人曾伟刚表示，天枢G100能在保障工作效率的同时，极大降低商业卫星用户的建设和运营成本，更好应对快速增长的我国卫星商业需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1555382.d.html</link>
-            <guid>2140017</guid>
-            <pubDate>Sat, 24 Apr 2021 08:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国西部大片区域遭遇大旱】当地时间4月23日，美国加州圣克拉拉县一处河床干涸龟裂。近期，美国西部大约75%的区域处于“大旱”之中。过去几个月，包括内华达、亚利桑那、新墨西哥和犹他在内的多个州经历了自2000年干旱监测仪开始工作以来最为严重的干旱时期。加州水资源局说，今年是该州有记录以来第四干旱的年份。白宫21日宣布成立一个工作组，以解决美国西部日益严峻的旱情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8695375.d.html</link>
-            <guid>2140016</guid>
-            <pubDate>Sat, 24 Apr 2021 08:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家电网辛保安：积极支持国家级海上风电检测中心建设】据国家电网消息，4月23日，国家电网有限公司董事长、党组书记辛保安一行与福建省委书记尹力，省委副书记、省长王宁举行会谈。尹力表示，希望国家电网公司进一步推动国家级海上风电检测中心落户福建，在福州—厦门特高压项目推进、电力外送通道建设、分布式能源发展、储能技术研发等方面给予更多支持，促进风能、太阳能等清洁能源开发利用。辛保安说，国家电网公司将继续加大福建电网投入，大力促进福建绿色发展，积极支持国家级海上风电检测中心建设，持续优化新能源汽车充电桩布局。希望福建省在电价政策、营商环境等方面给予更多理解和支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8695355.d.html</link>
-            <guid>2140015</guid>
-            <pubDate>Sat, 24 Apr 2021 08:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

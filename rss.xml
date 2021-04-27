@@ -4,11 +4,123 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 27 Apr 2021 21:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 22:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  微软：预计Q4生产与业务流程营收区间为138-140.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2216904.d.html</link>
+            <guid>2146209</guid>
+            <pubDate>Tue, 27 Apr 2021 22:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMD(AMD.O)：目前没有计划开发一款基于ARM的服务芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2216701.d.html</link>
+            <guid>2146208</guid>
+            <pubDate>Tue, 27 Apr 2021 22:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软：MINECRAFT月活跃用户近1.4亿，同比增长30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2216505.d.html</link>
+            <guid>2146206</guid>
+            <pubDate>Tue, 27 Apr 2021 21:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据AXIOS网站：美国总统拜登将要求国会为“美国家庭计划”全额提供资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9356867.d.html</link>
+            <guid>2146204</guid>
+            <pubDate>Tue, 27 Apr 2021 21:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  微软：Microsoft Teams日活跃用户超过1.45亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2216254.d.html</link>
+            <guid>2146203</guid>
+            <pubDate>Tue, 27 Apr 2021 21:51:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登据称将在其“美国家庭计划”中放弃提高遗产税】据悉美国总统拜登及其经济团队计划在即将公布的加税计划中放弃提高遗产税。拜登在2020年竞选期间曾承诺提高遗产税，并且提高资本利得和公司所得税，以此迫使企业和和富人为联邦政府收入贡献更多资金。有消息称，在拜登周三公布的为“美国家庭计划”提供资金的措施中，将不会包含提高遗产税。目前美国的遗产税最高可达40%。]]></title>
+            <guid>2146202</guid>
+            <pubDate>Tue, 27 Apr 2021 21:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3月末中国银行业理财市场规模达25.03万亿，净值型占比73%】4月27日，银行业理财登记托管中心在北京发布中国理财市场2021年一季度报告，报告显示中国银行业理财市场运行平稳。截至3月末，理财市场规模达到25.03万亿元，同比增长7.02%;全市场新增理财投资者817.15万个，达到4979.63万，今年前三个月累计实现理财投资收益2095.83亿元;净值型理财产品规模达到18.28万亿元，较去年同期占比提高23.88个百分点。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2216067.d.html</link>
+            <guid>2146201</guid>
+            <pubDate>Tue, 27 Apr 2021 21:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大家保险试水独立个人保险代理人模式】继华泰保险的EA门店模式后，大家保险也开始在独立个人保险代理人制度上迈出探索之路，旗下的保险事务所合伙人模式已初具雏形，并将于近期全面启动“星链计划”，陆续在全国19个城市开展线下路演。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9356224.d.html</link>
+            <guid>2146198</guid>
+            <pubDate>Tue, 27 Apr 2021 21:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌A：将积极地、投机地进行投资；服务器仍然是最大的投资驱动力。]]></title>
+            <guid>2146195</guid>
+            <pubDate>Tue, 27 Apr 2021 21:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保险业协会开展普惠保险调研，“惠民保”定价不足、可持续性风险待解】中国保险行业协会向各人身险公司下发了《关于开展人身险行业开展普惠保险情况调研的通知》，拟对人身险行业普惠保险情况进行调研，涉及险种范围主要包括：面向老年人、农民、低收入人群、残疾人等群体的人身保险产品，面向老年人开发的各类商业健康保险产品，面向不同收入群体的商业养老保险产品，城乡居民大病保险，针对县域居民的健康险，因地制宜的农村意外险、定期寿险，养老年金保险产品等。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9355723.d.html</link>
+            <guid>2146194</guid>
+            <pubDate>Tue, 27 Apr 2021 21:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据不完全统计，4月A股至少有12家上市公司披露氢能相关业务情况，其中多家公司宣布将开展氢能新业务或新合作，合计金额超160亿元。在地方层面，相关统计显示，截至今年4月全国至少已有27个省份出台了氢能领域政策（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2215088.d.html</link>
+            <guid>2146193</guid>
+            <pubDate>Tue, 27 Apr 2021 21:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国总统拜登在未来的经济计划中将不提高遗产税。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9355549.d.html</link>
+            <guid>2146192</guid>
+            <pubDate>Tue, 27 Apr 2021 21:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌A：YouTube每月的登录用户超过20亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2214837.d.html</link>
+            <guid>2146189</guid>
+            <pubDate>Tue, 27 Apr 2021 21:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌A：除搜索广告外，其他收益的增长受GOOGLE PLAY和YouTube推动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9355120.d.html</link>
+            <guid>2146186</guid>
+            <pubDate>Tue, 27 Apr 2021 21:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国1季度卖出约550万支枪 创历史新高】根据美国国家体育射击基金会的数据，今年前三个月美国枪支销售量创下了历史新高，共卖出近550万支枪，同比增长13%，是1999年以来销量最多的季度；仅三月份就有469万支枪售出，同比增长25%。福布斯报道称，枪支销售商将三月份销量暴增的原因归结为民众收到了政府发放的经济纾困支票，同时还有近期频发的大规模枪击案促使拜登收紧枪支管控的因素。据联邦调查局FBI的数据，在3月亚特兰大发生8人死亡枪击案的那一个星期里，FBI完成了超121万次枪支购买背景调查，是1998年以来最多的一周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9355040.d.html</link>
+            <guid>2146185</guid>
+            <pubDate>Tue, 27 Apr 2021 21:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【葡萄牙总统宣布不再延长国家紧急状态】当地时间4月27日，葡萄牙总统马塞洛、总理科斯塔与相关政府官员和医学专家召开会议，并决定不再延长紧急状态]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9355032.d.html</link>
+            <guid>2146184</guid>
+            <pubDate>Tue, 27 Apr 2021 21:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌A首席商务官Philipp Schindler：搜索广告支出由零售、科技、CPG的强劲需求带动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2214567.d.html</link>
+            <guid>2146183</guid>
+            <pubDate>Tue, 27 Apr 2021 21:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：美国和俄罗斯正在就拜登总统和俄罗斯总统普京的会晤时间进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9354934.d.html</link>
+            <guid>2146181</guid>
+            <pubDate>Tue, 27 Apr 2021 21:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pinterest(PINS.N)盘后跌近11%，第一季度录得净亏损0.216亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2214490.d.html</link>
+            <guid>2146180</guid>
+            <pubDate>Tue, 27 Apr 2021 21:14:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  公布财报后，流利说盘后跌0.5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9354675.d.html</link>
@@ -293,185 +405,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212475.d.html</link>
             <guid>2146114</guid>
             <pubDate>Tue, 27 Apr 2021 20:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特王储本·萨勒曼：沙特今年失业率将降至11％以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212432.d.html</link>
-            <guid>2146112</guid>
-            <pubDate>Tue, 27 Apr 2021 20:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pinterest：2021年Q1每股亏损0.03美元，市场预期亏损0.07美元，去年同期亏损0.25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212419.d.html</link>
-            <guid>2146111</guid>
-            <pubDate>Tue, 27 Apr 2021 20:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pinterest：2021年Q1营收4.85亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212406.d.html</link>
-            <guid>2146110</guid>
-            <pubDate>Tue, 27 Apr 2021 20:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD(AMD.O)：预计第二季度营收35亿美元至37亿美元，市场预估32.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352868.d.html</link>
-            <guid>2146109</guid>
-            <pubDate>Tue, 27 Apr 2021 20:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD(AMD.O)：预计第二季度经调整毛利率大约+47%，市场预估+46.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212385.d.html</link>
-            <guid>2146108</guid>
-            <pubDate>Tue, 27 Apr 2021 20:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，Illumina(ILMN.O)盘后涨0.83%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352741.d.html</link>
-            <guid>2146107</guid>
-            <pubDate>Tue, 27 Apr 2021 20:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Illumina(ILMN.O)：2021年Q1每股盈利1美元，市场预期1.29美元，去年同期1.17美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212269.d.html</link>
-            <guid>2146106</guid>
-            <pubDate>Tue, 27 Apr 2021 20:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Illumina(ILMN.O)：2021年Q1营收10.93亿美元，市场预期10.01亿美元，去年同期8.59亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212268.d.html</link>
-            <guid>2146105</guid>
-            <pubDate>Tue, 27 Apr 2021 20:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，AMD(AMD.O)盘后涨3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352698.d.html</link>
-            <guid>2146104</guid>
-            <pubDate>Tue, 27 Apr 2021 20:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD(AMD.O)：2021年Q1每股盈利0.45美元，市场预期0.38美元，去年同期0.14美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212218.d.html</link>
-            <guid>2146103</guid>
-            <pubDate>Tue, 27 Apr 2021 20:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD(AMD.O)：2021年Q1营收34.45亿美元，市场预期32.14亿美元，去年同期17.86亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212204.d.html</link>
-            <guid>2146102</guid>
-            <pubDate>Tue, 27 Apr 2021 20:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克(SBUX.O)：第二季度美国同店销售+9%，市场预估+7.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352607.d.html</link>
-            <guid>2146101</guid>
-            <pubDate>Tue, 27 Apr 2021 20:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，星巴克(SBUX.O)盘后跌近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212064.d.html</link>
-            <guid>2146100</guid>
-            <pubDate>Tue, 27 Apr 2021 20:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克(SBUX.O)：预计全年调整后每股收益2.90美元至3美元，市场预估2.86美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2212017.d.html</link>
-            <guid>2146098</guid>
-            <pubDate>Tue, 27 Apr 2021 20:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克(SBUX.O)：预计全年营收285亿美元至293亿美元，市场预估286亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211997.d.html</link>
-            <guid>2146097</guid>
-            <pubDate>Tue, 27 Apr 2021 20:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VISA第二季度净营收57亿美元，市场预估55.5亿美元；第二季度调整后每股收益1.38美元，市场预估1.27美元。]]></title>
-            <guid>2146096</guid>
-            <pubDate>Tue, 27 Apr 2021 20:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软盘后跌幅扩大至4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211959.d.html</link>
-            <guid>2146095</guid>
-            <pubDate>Tue, 27 Apr 2021 20:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克(SBUX.O)：2021财年Q2每股盈利0.56美元，市场预期0.51美元，去年同期0.28美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211950.d.html</link>
-            <guid>2146094</guid>
-            <pubDate>Tue, 27 Apr 2021 20:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克(SBUX.O)：2021财年Q2营收66.68亿美元，市场预期68.15亿美元，去年同期59.96亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352382.d.html</link>
-            <guid>2146093</guid>
-            <pubDate>Tue, 27 Apr 2021 20:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安进一季度经调整EPS 3.70美元，市场预期4.03美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352351.d.html</link>
-            <guid>2146091</guid>
-            <pubDate>Tue, 27 Apr 2021 20:07:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A：2021年Q1每股盈利26.29美元，市场预期15.84美元，去年同期9.87美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211790.d.html</link>
-            <guid>2146090</guid>
-            <pubDate>Tue, 27 Apr 2021 20:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A：第一季度营业毛利率30%，市场预估22.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211786.d.html</link>
-            <guid>2146089</guid>
-            <pubDate>Tue, 27 Apr 2021 20:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A：第一季度经营利润164.4亿美元，市场预估120.2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211773.d.html</link>
-            <guid>2146088</guid>
-            <pubDate>Tue, 27 Apr 2021 20:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德州仪器预计二季度营收41.3-44.7亿美元，分析师预期41.6亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211724.d.html</link>
-            <guid>2146085</guid>
-            <pubDate>Tue, 27 Apr 2021 20:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[公布财报后，微软(MSFT.O)盘后跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211702.d.html</link>
-            <guid>2146084</guid>
-            <pubDate>Tue, 27 Apr 2021 20:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：2021财年第三季度营收417亿美元，市场预期410.3亿美元，去年同期350.21亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352128.d.html</link>
-            <guid>2146083</guid>
-            <pubDate>Tue, 27 Apr 2021 20:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A财报公布后，股价盘后涨近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9352124.d.html</link>
-            <guid>2146082</guid>
-            <pubDate>Tue, 27 Apr 2021 20:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球最大碳市场启动渐近，多方加速备战】即将于6月底正式启动运行的全国碳排放权交易市场（简称“全国碳市场”）渐行渐近，多方加速备战。记者获悉，目前，全国碳市场注册登记系统与交易系统进一步建设正在稳步推进，登记交易结算相关规则、管理条例等将尽快发布，预计5月底前所有的筹备工作将完成。而首批纳入的电力企业已完成线上开户资料审核工作，目前正抓紧在4月底前完成数据填报，准备迎接第三方核查（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211670.d.html</link>
-            <guid>2146081</guid>
-            <pubDate>Tue, 27 Apr 2021 20:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A：2021年第一季度营收553.1亿美元，市场预期515.49亿美元，去年同期411.59亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211648.d.html</link>
-            <guid>2146080</guid>
-            <pubDate>Tue, 27 Apr 2021 20:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫发言人：拜登将在国会联席会议上宣布访问计划】美国白宫新闻发言人珍·普萨基在当地时间4月27日举行的白宫媒体简报会上表示，总统拜登将颁布一项旨在提高全美最低工资标准的行政命令，要求自2022年1月开始将合同制工作者的每小时最低工资提升至15美元。此外，拜登总统签署了一项名为“美国制造”的行政令，并任命塞莱斯特·德雷克（CelesteDrake）为负责人，以支持美国制造业发展。普萨基表示，拜登将于当地时间28日晚在国会联席会议上致辞，并将宣布启动“让美国重回正轨”访问计划。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2211629.d.html</link>
-            <guid>2146079</guid>
-            <pubDate>Tue, 27 Apr 2021 20:02:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

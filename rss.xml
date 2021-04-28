@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 28 Apr 2021 16:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 17:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【得州消防局披露特斯拉致命性撞车事故的细节】美国得克萨斯州Harris县消防部门一份报告显示，在4月17日发生的Woodlands特斯拉汽车撞击树木的事故中，2019款灰色Model S电动汽车“前端发生猛烈撞击”，造成车体严重损坏，可能造成其电池损毁并起火。当地调查员Chris Johnson在总结时排除了与撞车事故没有明确关联的因素，称虽然无法确定第一热源，但碰撞造成了（电池）起火。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9557232.d.html</link>
+            <guid>2148235</guid>
+            <pubDate>Wed, 28 Apr 2021 17:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  优信二手车(UXIN.O)涨近40%，2021财年三季度收入3.23亿，毛利率转正。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2416637.d.html</link>
+            <guid>2148230</guid>
+            <pubDate>Wed, 28 Apr 2021 17:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国光伏零部件供应商FTC Solar美国IPO首日开盘上涨17%，报15.21美元，此前给出的IPO发行价为每股13.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2415671.d.html</link>
+            <guid>2148216</guid>
+            <pubDate>Wed, 28 Apr 2021 17:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党议员Brady：预计两党都会反对拜登的税收计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2414969.d.html</link>
+            <guid>2148214</guid>
+            <pubDate>Wed, 28 Apr 2021 16:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  逸仙电商(YSG.N)持续走低，跌幅扩大至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2414469.d.html</link>
+            <guid>2148207</guid>
+            <pubDate>Wed, 28 Apr 2021 16:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  最近半年，张坤罕见“出手”，多次参与医药生物、食品饮料等细分行业龙头股的定增，其中，参与百润股份定增浮盈接近100%，天味食品上的定增目前仍处浮亏状态。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9554399.d.html</link>
+            <guid>2148206</guid>
+            <pubDate>Wed, 28 Apr 2021 16:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国食品药品管理局（FDA）将于4月29日发布关于禁止薄荷型卷烟的决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9553908.d.html</link>
+            <guid>2148204</guid>
+            <pubDate>Wed, 28 Apr 2021 16:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国卫生大臣汉考克：英国永远不会阻止医药产品的出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9553312.d.html</link>
+            <guid>2148201</guid>
+            <pubDate>Wed, 28 Apr 2021 16:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中潜股份：2021年第一季度亏损1620万元 上年同期亏损1689万元】中潜股份公告，2020年亏损1.86亿元，上年同期盈利2083万元；2021年一季度亏损1620万元，上年同期亏损1689.37万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9553165.d.html</link>
+            <guid>2148199</guid>
+            <pubDate>Wed, 28 Apr 2021 16:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广西反兴奋剂中心正式成立】据广西壮族自治区体育局，广西反兴奋剂中心28日正式成立。据介绍，广西反兴奋剂中心将承担自治区体育运动反兴奋剂相关工作，包括组织开展自治区反兴奋剂宣传教育和培训，制定反兴奋剂检查工作计划并组织实施，配合中国反兴奋剂中心开展自治区兴奋剂检查官的招募、培训和管理，依法依规参与配合对涉嫌兴奋剂违规行为的调查、听证、结果管理和监督，以及协调和监督相关体育组织反兴奋剂的具体工作等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2412153.d.html</link>
+            <guid>2148195</guid>
+            <pubDate>Wed, 28 Apr 2021 16:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  穆迪：将可口可乐(KO.N)的美元和欧元债券评级定为A1，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9552098.d.html</link>
+            <guid>2148192</guid>
+            <pubDate>Wed, 28 Apr 2021 16:14:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[穆迪：欧洲企业似乎对其整体流动性水平感到满意。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411102.d.html</link>
@@ -194,119 +260,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544367.d.html</link>
             <guid>2148112</guid>
             <pubDate>Wed, 28 Apr 2021 14:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音公司（BA）维持超过3.3%的跌幅，徘徊于日低232.85美元附近。该公司表示，自3月份后期以来，已经交付9架787梦想飞机（Dreamliner）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404116.d.html</link>
-            <guid>2148110</guid>
-            <pubDate>Wed, 28 Apr 2021 14:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【居然之家：一季度净利润同比增长145%】居然之家发布2021年一季报，实现营业收入33.42亿元，同比增长39.05%；净利润6.15亿元，同比增长144.58%；基本每股收益0.09元。同日发布2020年年报，实现营业收入89.93亿元，同比下降2.56%；净利润13.63亿元，同比下降56.81%；基本每股收益0.22元；拟10派0.52元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544138.d.html</link>
-            <guid>2148109</guid>
-            <pubDate>Wed, 28 Apr 2021 14:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CEO：因此前报告的电气故障，已经暂停交付737 Max客机。预计737 Max客机将在下半年在中国获批。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403623.d.html</link>
-            <guid>2148106</guid>
-            <pubDate>Wed, 28 Apr 2021 14:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国东海岸馏分油库存上周降至2020年4月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9543507.d.html</link>
-            <guid>2148104</guid>
-            <pubDate>Wed, 28 Apr 2021 14:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMD转跌0.21%，现报85美元，此前一度涨超5%，暂成交38.13亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9543418.d.html</link>
-            <guid>2148102</guid>
-            <pubDate>Wed, 28 Apr 2021 14:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国中西部汽油库存上周降至去年10月以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403185.d.html</link>
-            <guid>2148101</guid>
-            <pubDate>Wed, 28 Apr 2021 14:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500能源指数最高涨3%，成分股中，阿帕奇石油涨5.3%，德文能源涨4.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2402970.d.html</link>
-            <guid>2148100</guid>
-            <pubDate>Wed, 28 Apr 2021 14:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月23日当周除却战略储备的商业原油进口量为2020年7月3日当周以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542712.d.html</link>
-            <guid>2148096</guid>
-            <pubDate>Wed, 28 Apr 2021 14:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为1968万桶/日，较去年同期增加35.5%。除却战略储备的商业原油上周进口661.6万桶/日，较前一周增加121.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542666.d.html</link>
-            <guid>2148095</guid>
-            <pubDate>Wed, 28 Apr 2021 14:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度和俄罗斯将建立新型2+2部长级对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2402215.d.html</link>
-            <guid>2148092</guid>
-            <pubDate>Wed, 28 Apr 2021 14:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百济神州(BGNE.O)涨8.3%，报351.16美元。今日公司公告，其药物Brukinsa对复发/难治性慢性淋巴细胞白血病或小淋巴细胞淋巴瘤效果出色。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542174.d.html</link>
-            <guid>2148091</guid>
-            <pubDate>Wed, 28 Apr 2021 14:26:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  维视图像(MVIS.O)涨幅扩大至20%，报24.16美元。此前公司宣布完成长距离激光雷达传感器样品制作及其制造平台的开发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542165.d.html</link>
-            <guid>2148090</guid>
-            <pubDate>Wed, 28 Apr 2021 14:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  昆仑万维发布一季度报告，一季度归母净利润3.13亿元，同比减少36.29%；营业收入7.93亿元，同比减少39.42%；基本每股收益0.27元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542086.d.html</link>
-            <guid>2148089</guid>
-            <pubDate>Wed, 28 Apr 2021 14:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：加快研究生猪产能储备政策，促进生猪生产平稳发展】农业农村部部长唐仁健主持召开部常务会议。会议强调，要落实好粮食安全党政同责，落细粮食生产扶持政策，调动农民种粮积极性，确保春播面积只增不减，全部种在适播期。环环紧扣抓好春季田管，加强小麦条锈病、赤霉病等病虫害防控，努力夺取夏粮丰收。继续抓好非洲猪瘟防控，密切跟踪生猪市场供需变化，加快研究生猪产能储备政策，促进生猪生产平稳发展。加强耕地保护和质量建设，落实遏制耕地“非农化”、制止“非粮化”的政策措施，扎实推进高标准农田建设。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9541735.d.html</link>
-            <guid>2148087</guid>
-            <pubDate>Wed, 28 Apr 2021 14:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富奥股份发布2020年年报，归母净利润9.01亿元，同比增长1.16%；营业收入111.13亿元，同比增长10.43%；基本每股收益0.52元；拟10派3元。同日发布2021年一季报，净利润2.19亿元，同比增长84.43%；营业收入31亿元，同比增长48.79%。]]></title>
-            <guid>2148086</guid>
-            <pubDate>Wed, 28 Apr 2021 14:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广告收入在一季度占到Alphabet总收入的80％以上，其中YouTube成为增长动力。该视频平台的广告收入同比增长49％至60亿美元，接近流媒体平台Netflix一季度的总收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9541147.d.html</link>
-            <guid>2148085</guid>
-            <pubDate>Wed, 28 Apr 2021 14:18:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表Tai：美国与欧盟就解决钢铁产能过剩问题进行了磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2400920.d.html</link>
-            <guid>2148084</guid>
-            <pubDate>Wed, 28 Apr 2021 14:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Shopify(SHOP.N)涨11%，最高报1284.95美元，公司第一季度实现净利润12.58亿美元，同比扭亏为盈，并大幅超出市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9540717.d.html</link>
-            <guid>2148080</guid>
-            <pubDate>Wed, 28 Apr 2021 14:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500通信服务指数涨2.5%，成分股中，谷歌A涨近6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2399781.d.html</link>
-            <guid>2148078</guid>
-            <pubDate>Wed, 28 Apr 2021 14:08:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 May 2021 14:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 15:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：wealthsimple公司融资超7亿加元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3127321.d.html</link>
+            <guid>2154740</guid>
+            <pubDate>Sun, 02 May 2021 15:29:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【资本利得税上调渐近 逃避增税的美国富人或大举转向ETF】市场观察人士说，美国总统拜登计划将每年投资利润超过100万美元的人的税率提高一倍，这将加速已经有数千亿美元资金从共同基金向ETF转移的趋势。这是因为ETF通常更省税，剥离的资本利得支出更少。瑞银全球财富管理ETF策略师Perlman表示，尽管美国政府的计划仍处于起步阶段，未来几个月肯定会面临议员们的严格审查，但即便是资本利得率的小幅上调，也可能会进一步刺激投资者对ETF的青睐。]]></title>
+            <guid>2154733</guid>
+            <pubDate>Sun, 02 May 2021 15:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【皇家KPN公司拒绝了KKR和EQT、Stonepeak的主动接洽】皇家KPN公司表示，其最近拒绝了KKR和EQT/Stonepeak主动提出的不相关收购要约。该公司称：KPN董事会的结论是，与KPN最近更新的增长战略相比，这两种方法都未能提供有形和实质性的附加价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0266520.d.html</link>
+            <guid>2154727</guid>
+            <pubDate>Sun, 02 May 2021 15:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特内政部：沙特将从周一起开放陆海空边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0265986.d.html</link>
+            <guid>2154725</guid>
+            <pubDate>Sun, 02 May 2021 15:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：沙特将从周一起解除公民出国旅行禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3125845.d.html</link>
+            <guid>2154724</guid>
+            <pubDate>Sun, 02 May 2021 15:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥伦比亚反税改示威持续 首都重症监护病床占用率逾94%】哥伦比亚自当地时间4月28日起发生大规模示威活动，包括首都波哥大在内的全国多个主要城市中，有上万人连续多日参与抗议游行。在该国第三大城市卡利等地，示威者与维持秩序的军警发生冲突。民众主要反对政府财政税务改革案中有关对公共服务及部分食物征收消费税的内容。据统计，波哥大目前重症监护病床占用率逾94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0265863.d.html</link>
+            <guid>2154723</guid>
+            <pubDate>Sun, 02 May 2021 15:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：佛罗里达州小企业管理局支持新宇钢铁13项提案中的13项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3124025.d.html</link>
+            <guid>2154684</guid>
+            <pubDate>Sun, 02 May 2021 14:44:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟或将补贴英特尔100亿美元建厂】欧洲内部市场专员蒂埃里·布雷顿在布鲁塞尔会见了英特尔CEO帕特·基辛格，就英特尔对欧盟的投资计划进行谈判。基辛格表示，英特尔愿意在欧盟建立半导体工厂，但为了与在亚洲建厂相比更具竞争力，希望获得80亿欧元（约合近100亿美元）的欧洲政府补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3123977.d.html</link>
+            <guid>2154680</guid>
+            <pubDate>Sun, 02 May 2021 14:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：佛罗里达州小企业管理局在29项提案中有27项支持渣打银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3123910.d.html</link>
+            <guid>2154679</guid>
+            <pubDate>Sun, 02 May 2021 14:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国春来中期实现纯利1.94亿元，同比增长118.7%】中国春来发布截至2021年2月28日止六个月的中期业绩。报告期内实现收入5.01亿元，较上年同期的3.51亿元同比增长了42.9%。实现毛利3.07亿元，较上年同期的1.71亿元同比增长80.1%。期内溢利为1.65亿元，较上年同期实现的0.72亿元同比大增126.4%；实现经调整纯利1.94亿元，较上年同期的0.89亿元，同比增长118.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0263034.d.html</link>
+            <guid>2154651</guid>
+            <pubDate>Sun, 02 May 2021 14:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港教育国际拟出资1920万港元，收购优孚奥互动集团60%已发行股本】香港教育国际发布公告称，公司一间直接全资附属公司Noble Heartland Limited拟收购标的公司优孚奥互动集团60%已发行股本。公告显示，本次收购事项的代价为1920万港元，将于完成时通过向卖方Full Creative Limited配发及发行1536万股代价股份的方式支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc3122525.d.html</link>
+            <guid>2154636</guid>
+            <pubDate>Sun, 02 May 2021 14:25:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【5月1日银联网络交易近4000亿元】据中国银联统计,5月1日银联网络交易金额3987亿元,较去年5月1日增长6.4%,相比前年增长6.5%。该统计还显示,4月后半个月,银联网络航空售票类消费笔数同比增长98%,铁路售票类消费笔数同比增长1倍以上。]]></title>
             <guid>2154626</guid>
@@ -288,24 +353,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0220521.d.html</link>
             <guid>2154442</guid>
             <pubDate>Sun, 02 May 2021 06:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸曼德勒和勃固两处镇区办公室发生火灾】当地时间5月1日晚22时30分左右，缅甸第二大城市曼德勒马哈昂敏镇区一片区办公室发生火灾。当地时间5月2日凌晨5时许，缅甸勃固省宰冈奈镇区办公室发生火灾，起火过程中出现多次爆响，5时30分左右消防人员扑灭了大火。目前，警方正在调查起火原因。近期，缅甸各地多处基层办公室发生火灾，其中一部分已经确认系人为纵火。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0215542.d.html</link>
-            <guid>2154435</guid>
-            <pubDate>Sun, 02 May 2021 06:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新西兰方面表示恢复与西澳大利亚州之间的航班来往。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0215516.d.html</link>
-            <guid>2154434</guid>
-            <pubDate>Sun, 02 May 2021 06:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯4月天然气产量为640.46亿立方米，同比增加15.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0212548.d.html</link>
-            <guid>2154430</guid>
-            <pubDate>Sun, 02 May 2021 05:56:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

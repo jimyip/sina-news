@@ -4,11 +4,88 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 06 May 2021 16:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 17:47:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  波音公司与美国国家航空航天局（NASA）计划7月30日举行不载人的Starliner试飞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3787363.d.html</link>
+            <guid>2159337</guid>
+            <pubDate>Thu, 06 May 2021 17:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【滴滴出行预计今夏赴美IPO “橙心优选”最快2022年上市】据知情人士透露，滴滴出行正在制定计划，准备在IPO（首次公开招股）一两年后剥离新创建的食品杂货送货服务“橙心优选”，然后将其单独上市。此前有消息称，滴滴出行预计于今夏赴美上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0926573.d.html</link>
+            <guid>2159336</guid>
+            <pubDate>Thu, 06 May 2021 17:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【61家信托公司公布年报，超半数净利不足10亿】中国信托业协会统计数据显示，2020年信托行业利润总额583.18亿元，较2019年末的727.05亿元，减少143.87亿元，下降19.79%。截至目前，从已完整披露年报的61家公司的业绩数据来看，信托行业业绩分化明显，净利润超过20亿元的有8家信托公司，净利润低于10亿元的信托公司则有36家，占比高达59.02%。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3786608.d.html</link>
+            <guid>2159330</guid>
+            <pubDate>Thu, 06 May 2021 17:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外资银行深入布局中国市场决心不变，瞄准重点区域，发力下沉客户业务】多家在华外资法人银行在4月底集中发布2020年年报。梳理发现，受到息差收窄、计提减值损失等因素的影响，多数在华外资银行2020年净利润同比2019年有所下降。值得注意的是，对于不少外资机构而言，中国市场意义重大。伴随着中国金融领域开放逐步深化，近期多家外资银行在华动作频频，不论是业务层面将进一步瞄准重点区域和发力下沉客户业务，还是表态称将寻求获取更多独资的金融牌照，均显示出其在华业务版图进一步扩张的意图。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3786417.d.html</link>
+            <guid>2159328</guid>
+            <pubDate>Thu, 06 May 2021 17:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央地齐打“组合拳” 促科技成果转化再迎政策利好】从科技部门获悉，我国科技成果转化活动持续活跃。目前，包括深入推进高校院所科技成果权属改革、完善金融支持科技成果转化机制以及组织实施一批重大科技成果转化示范工程等成政策着力点。《“十四五”技术要素市场发展专项规划》、《科技成果转化工作指南》和相关标准也正加快编制。下一步，中央和地方将强化政策落实力度，从产业链、服务链和人才链全面打通创新驱动发展道路上的“梗阻”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0925701.d.html</link>
+            <guid>2159327</guid>
+            <pubDate>Thu, 06 May 2021 17:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大2021年房地产热潮将达到顶点】加拿大国家住房署最新预测显示，2021年房地产热潮将达到顶点，加拿大住宅房地产市场的活跃程度将从今年迄今为止的“不可持续”水平回落，不过在未来今年例，销售将保持在较高水平，价格将继续攀升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3786231.d.html</link>
+            <guid>2159323</guid>
+            <pubDate>Thu, 06 May 2021 17:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国私营部门4月就业人数增加74.2万】美国自动数据处理公司（ADP）5日公布的数据显示，美国私营部门4月就业人数环比增加74.2万，创2020年9月份以来最大环比增幅。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3786201.d.html</link>
+            <guid>2159322</guid>
+            <pubDate>Thu, 06 May 2021 17:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌云表示，将引入为Chrome OS设备设计的新扩展坞（Docking station）。]]></title>
+            <guid>2159314</guid>
+            <pubDate>Thu, 06 May 2021 17:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概电商股普涨，云集涨超4%，拼多多涨近4%，宝尊电商涨超2%，京东涨超1%，阿里巴巴涨0.4%；唯品会一度涨超1%，目前跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0925189.d.html</link>
+            <guid>2159313</guid>
+            <pubDate>Thu, 06 May 2021 17:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒：美国证交会将开始撰写气候风险披露规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3785607.d.html</link>
+            <guid>2159303</guid>
+            <pubDate>Thu, 06 May 2021 17:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国证交会主席根斯勒：公众意见将为气候风险披露提案提供信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3785593.d.html</link>
+            <guid>2159302</guid>
+            <pubDate>Thu, 06 May 2021 17:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Roku流媒体跌超7%，为连续第八日下跌。Square跌超2%，本周迄今累跌近8%。特斯拉目前跌0.4%，本周迄今累跌近6%。这几只股票的下跌都使得ARKK本周处境变得艰难。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmyaawc3785104.d.html</link>
+            <guid>2159300</guid>
+            <pubDate>Thu, 06 May 2021 17:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒：美国证交会将重点关注社交媒体操纵市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0924172.d.html</link>
+            <guid>2159298</guid>
+            <pubDate>Thu, 06 May 2021 16:59:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国证交会主席根斯勒：已经要求美国证交会的工作人员对掉期交易的规则做更多的说明。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-07/detail-ikmxzfmm0923585.d.html</link>
@@ -194,47 +271,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3779536.d.html</link>
             <guid>2159236</guid>
             <pubDate>Thu, 06 May 2021 15:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国政府发言人：知识产权保护是创新的源泉，未来必须保持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0918619.d.html</link>
-            <guid>2159234</guid>
-            <pubDate>Thu, 06 May 2021 15:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BioNTech短线拉升，跌幅收窄至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3778755.d.html</link>
-            <guid>2159224</guid>
-            <pubDate>Thu, 06 May 2021 15:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界黄金协会：全球黄金ETF在4月份流出了18.3吨，这意味着过去6个月里有5个月资金外流。然而，随着欧洲基金自1月份以来首次增加资产，全球资金外流明显放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3778268.d.html</link>
-            <guid>2159221</guid>
-            <pubDate>Thu, 06 May 2021 15:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：埃及和土耳其将评估最近的会谈，就下一步行动达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0917529.d.html</link>
-            <guid>2159219</guid>
-            <pubDate>Thu, 06 May 2021 15:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车跌幅扩大至5%，股价报17.81美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0917107.d.html</link>
-            <guid>2159214</guid>
-            <pubDate>Thu, 06 May 2021 15:08:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风沙席卷京津冀，我国正遭遇今年第十次沙尘天气】中央气象台继续发布沙尘暴蓝色预警，预计今明两天，受冷空气影响，我国华北、黄淮、东北以及内蒙古、新疆等地有大风沙尘天气，特别是从今天午后开始，内蒙古中部、京津冀等地风力强劲。今年，我国北方的大风沙尘天气比较频繁。中央气象台首席预报员桂海林表示，目前应该算是第十次沙尘过程。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3776771.d.html</link>
-            <guid>2159198</guid>
-            <pubDate>Thu, 06 May 2021 14:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞：将北京汽车(01958.HK)评级上调至买进；目标价3.30港元。]]></title>
-            <guid>2159195</guid>
-            <pubDate>Thu, 06 May 2021 14:54:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
